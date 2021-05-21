@@ -6,7 +6,7 @@ Github layout first draft
 ## Project Overview
 Paragraphs here.
 
-# Authors
+## Authors
 - Necmiye Ozay
 - Anne Decastro
 - Emilia Psacharopoulos
