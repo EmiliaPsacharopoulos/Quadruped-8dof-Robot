@@ -7,10 +7,24 @@
 
 ## Tools
 
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
+| Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
+| Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
+| Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+
 ## Fasteners
 We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints) for exact quantities required.  
 
-| Part | Dimensions | Ordering Information | Quantity |
+| Part Name | Dimensions | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | Socket Head | M2.5x20 | McMaster-Carr 91292A019 | 100 |
 | Socket Head | M2.5x6 | McMaster-Carr 91292A010 | 200 |
