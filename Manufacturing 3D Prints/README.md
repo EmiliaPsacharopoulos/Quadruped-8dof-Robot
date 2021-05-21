@@ -81,3 +81,4 @@ Insert helicoils into the side pieces according to the following procedure:
 
 
 ## Leg Shell Manufacturing 
+To complete later
