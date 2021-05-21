@@ -1,4 +1,5 @@
 # Bill of Materials
+[Return to the main Table of Contents](https://github.com/EmiliaPsacharopoulos/Formatting#table-of-contents)
 
 Motivation for making our own BOM: 
 - Difficulty to follow the existing github’s BOMs
