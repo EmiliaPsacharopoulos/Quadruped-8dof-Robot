@@ -23,6 +23,7 @@
 | File Set | 1 |
 
 ### Step 1: Prepare 3D Printed Parts
-Remove support materials using the needle nose pliers and files. Use caution when removing supports so that you do not damage the part. Pro tip: If the supports are proving really difficult to remove, leave prints in hot water for a few minutes and try again.
+Remove support materials using the needle nose pliers and files. Use caution when removing supports so that you do not damage the part. 
+**Pro tip**: If the supports are proving really difficult to remove, leave prints in hot water for a few minutes and try again.
 
 ## Leg Shell Manufacturing 
