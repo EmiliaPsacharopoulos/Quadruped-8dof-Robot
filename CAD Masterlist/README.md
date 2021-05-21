@@ -7,7 +7,8 @@ Q: Do we need to add a disclaimer that we did not make these?
 2. [Printers](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#itemized-print-table)
 
 ## Itemized Print Table
-| Part Name | STL Link | Category | Quantity | Print type | Printer | Material |
-| --- | --- | --- | --- | --- | --- |--- |
+| Part Name and STL Link | Category | Quantity | Print type | Printer | Material |
+| --- | --- | --- | --- | --- |--- |
+| [Body Structure Bottom](https://drive.google.com/file/d/1TcWrUG80rmQFGoHcIazRVJeUTKyrpkcs/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
 
 ## Printers
