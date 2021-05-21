@@ -2,7 +2,7 @@
 [Return to the main Table of Contents](https://github.com/EmiliaPsacharopoulos/Formatting#table-of-contents)
 
 ## Table of Contents
-1. Tools
+1. [Tools](McMaster-Carr)
 2. Fasteners 
 
 ## Tools
