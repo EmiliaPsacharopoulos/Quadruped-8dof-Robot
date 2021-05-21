@@ -41,7 +41,7 @@ Note that some supports in the mass saving cutouts could not be removed. This is
 ![image](https://user-images.githubusercontent.com/84528674/119172351-d5eb5400-ba33-11eb-8583-ee55651220d8.png)
 
 Insert helicoils into the side pieces according to the following procedure:
-| Description | Visual |
+| Step Description | Visual |
 | --- | --- |
 | Clear out any remaining supports from the holes with the 2.5 mm drill bit and pin vice or a hand drill. | ![image](https://user-images.githubusercontent.com/84528674/119172608-2bbffc00-ba34-11eb-8039-533d215dbb1c.png) |
 | Tap the holes using the M3 helicoil insert tool set tap. Be careful not to bottom out the tap and strip the threads. | ![image](https://user-images.githubusercontent.com/84528674/119172691-41352600-ba34-11eb-88a8-0074ee6e8256.png) |
