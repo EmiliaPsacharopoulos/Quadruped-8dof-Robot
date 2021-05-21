@@ -48,3 +48,6 @@ For tight tolerance parts (such as the pulleys and tensioners) we used an SLA pr
 ### Large Structural Parts
 For the larger structural pieces (such as the sides and bottom of the frame) we used a LULZBOT TAZ 5 for its print capacity ( 298mm x 275mm x 250mm). For materials we used the IC3D ABS filament.
 
+| LULZBOT TAZ 5 | IC3D ABS Filament |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/84528674/119169794-6b84e480-ba30-11eb-9729-315759b24588.png) | ![image](https://user-images.githubusercontent.com/84528674/119169833-78093d00-ba30-11eb-89da-5c87a33aa44b.png) |
