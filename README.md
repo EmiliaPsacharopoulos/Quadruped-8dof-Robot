@@ -12,7 +12,7 @@ Paragraphs here:
 ## Links
 - Our YouTube Channel 
 - Our Project Report
-- Their YouTube Channel
+- [Open Dynamic Robot Initiative YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)
 - Their Research Paper
 - Their Online Forum 
 
