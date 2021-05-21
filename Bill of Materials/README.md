@@ -10,6 +10,8 @@
 ## Fasteners
 | Part | Dimension | Ordering Information |
 | --- | --- | --- |
+| Socket Head | M2.5x20 | McMaster-Carr 91292A019 |
+| Socket Head | M2.5x6 | McMaster-Carr 91292A010 |
 | Socket Head Cap Screw | M3x8  |  McMaster-Carr 91292A112 |
 | Socket Head Cap Screw | M3x12 | McMaster-Carr 91292A114 |
 | Socket Head Cap Screw | M2x6 | McMaster-Carr 92290A013 |
