@@ -8,7 +8,7 @@
 ## Tools
 
 ## Fasteners
-We bought our fasteners in bulk from McMaster-Carr.
+We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints) for exact quantities required.  
 
 | Part | Dimension | Ordering Information | Quantity |
 | --- | --- | --- | --- |
