@@ -1,5 +1,7 @@
 # Open Dynamic Torque Initiative
-Github layout first draft
+Github layout first draft.
+- 1-2 sentence summary explaining the open dynamic robot initiative
+- State research team (affiliation with UofM)
 
 ## Table of Contents 
 1. [Bill of Materials](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Bill%20of%20Materials)
