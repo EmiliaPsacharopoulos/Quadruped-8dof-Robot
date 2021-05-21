@@ -25,7 +25,7 @@ Paragraphs here:
 - [Open Dynamic Robot Initiative Entry Point](https://open-dynamic-robot-initiative.github.io/)
 
 ## Authors
-- Necmiye Ozay
+- [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/)
 - Anne Decastro
 - Emilia Psacharopoulos
 
