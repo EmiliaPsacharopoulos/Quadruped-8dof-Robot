@@ -4,7 +4,6 @@ Github layout first draft.
 - State research team (affiliation with UofM)
 
 ## Table of Contents 
-Presented in order of completion.
 1. [Bill of Materials](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Bill%20of%20Materials)
 2. [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/CAD%20Masterlist)
 3. [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Manufacturing%203D%20Prints)
