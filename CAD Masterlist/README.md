@@ -35,4 +35,8 @@ Q: Do we need to add a disclaimer that we did not make these?
 | [Transmission Belt Tension Roller 11mm](https://drive.google.com/file/d/1oReGGAgDlBbKl_YSbqSTBRh59I1F5lJp/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 11.5mm](https://drive.google.com/file/d/1oz3TDCHRlq-C7NCuOZMTf0LuByCKWWXM/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Pulley AT3 t30 Center](https://drive.google.com/file/d/1Nnp1Yz3_WAC9ZJQtrG0jFPc--QS1f0rJ/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
+
 ## Printers
+We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
+
+For tight tolerance parts (such as the pulleys and tensioners) we used an SLA printer, specifically a Formlabs Form 3 along with a Form Wash and Form Cure for post processing.
