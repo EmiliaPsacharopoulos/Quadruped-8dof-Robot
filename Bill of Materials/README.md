@@ -18,14 +18,6 @@
 | --- | --- | --- | --- |
 
 
-## Storage 
-
-| Part Name | Details | Ordering Information | Quantity |
-| --- | --- | --- | --- |
-| Large Bin | Homz (Set of 2) | Amazon B06ZZXZZ2V | 1 |
-| Fasteners Box | Stalwart (Set of 4) | Amazon B017W2Q6PG | 1 |
-
-
 ## Fasteners
 We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints) for exact quantities required.   
 
@@ -42,3 +34,11 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Helicoil | M2.5x3.75 | McMaster-Carr 91732A767 | 80 |
 | Helicoil | M2.5x5 | McMaster-Carr 91732A770 | 20 |
 | Helicoil | M3x4.5 | McMaster-Carr 91732A647 | 40 |
+
+
+## Storage 
+
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
+| Large Bin | Homz (Set of 2) | Amazon B06ZZXZZ2V | 1 |
+| Fasteners Box | Stalwart (Set of 4) | Amazon B017W2Q6PG | 1 |
