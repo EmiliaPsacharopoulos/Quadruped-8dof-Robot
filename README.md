@@ -12,9 +12,7 @@ Paragraphs here:
 ## Links
 - Our YouTube Channel 
 - Our Project Report
-- [Open Dynamic Robot Initiative YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)
-- Their Research Paper
-- Their Online Forum 
+- [Open Dynamic Robot Initiative Entry Point](https://open-dynamic-robot-initiative.github.io/)
 
 ## Authors
 - Necmiye Ozay
