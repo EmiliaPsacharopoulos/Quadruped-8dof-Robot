@@ -26,5 +26,9 @@
 Remove support materials using the needle nose pliers and files. Use caution when removing supports so that you do not damage the part. 
 
 **Pro tip**: If the supports are proving really difficult to remove, leave prints in hot water for a few minutes and try again.
+| Front Pieces with Supports | Front Pieces Cleared |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/84528674/119171575-c3bce600-ba32-11eb-998e-5dafda09bc29.png) | ![image](https://user-images.githubusercontent.com/84528674/119171631-d33c2f00-ba32-11eb-9e55-69242abb506d.png) |
+
 
 ## Leg Shell Manufacturing 
