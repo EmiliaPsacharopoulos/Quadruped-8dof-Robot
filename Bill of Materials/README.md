@@ -14,8 +14,8 @@
 | Socket Head Cap Screw | M2.5x10 | McMaster-Carr 91292A014 |
 | Socket Head Cap Screw | M2.5x8 | McMaster-Carr 91292A012 |
 | Slotted Head Cap Screw | M2.5x16 | McMaster-Carr 91800A618 |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
+| Helicoil | M2.5x3.75 | McMaster-Carr 91732A767 |
+| Helicoil | M2.5x5 | McMaster-Carr 91732A770 |
+| Helicoil | M3x4.5 | McMaster-Carr 91732A647 |
 
 ## Fasteners
