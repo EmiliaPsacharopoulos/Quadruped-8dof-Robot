@@ -3,7 +3,7 @@
 
 Q: Do we need to add a disclaimer that we did not make these?
 ## Table of Contents
-1. Itemized Print Table
+1. [Itemized Print Table](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#itemized-print-table)
 2. Printers
 
 ## Itemized Print Table
