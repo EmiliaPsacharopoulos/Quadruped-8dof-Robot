@@ -39,4 +39,5 @@ Q: Do we need to add a disclaimer that we did not make these?
 ## Printers
 We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
 
+### Tight Tolerance Parts
 For tight tolerance parts (such as the pulleys and tensioners) we used an SLA printer, specifically a Formlabs Form 3 along with a Form Wash and Form Cure for post processing.
