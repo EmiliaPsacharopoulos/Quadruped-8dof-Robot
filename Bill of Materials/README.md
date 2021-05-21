@@ -3,7 +3,7 @@
 
 ## Table of Contents
 1. [Tools](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools)
-2. Fasteners 
+2. [Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#fasteners)
 
 ## Tools
 
