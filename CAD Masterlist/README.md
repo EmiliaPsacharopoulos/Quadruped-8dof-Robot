@@ -16,5 +16,11 @@ Q: Do we need to add a disclaimer that we did not make these?
 | [Body Structure Top w/ Vicon & Roll Bar](https://drive.google.com/file/d/1ueGrpdwfWlEofd3TzwTE14MJHvBVx-VL/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
 | [Body Structure Top w/ Vicon w/out Roll Bar](https://drive.google.com/file/d/1xuQLLik8M11UPqXz9wXXfDQhoO2xgAvL/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
 | [Micro Driver Spacer 12mm](https://drive.google.com/file/d/1mtxiRrq3edmbjlqyoO3MlFc8_GnWyl_b/view?usp=sharing) | Body Structure | 8 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Hip Module Shell Base](https://drive.google.com/file/d/1ewB-fC2noc768g2AQ7QNE1AgCkfmvTlQ/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Hip Module Shell Cover](https://drive.google.com/file/d/1fG9PfTGhtrrxn5z8KZsaQbVp9Iyr6LO-/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Lower Leg v2](https://drive.google.com/file/d/1rhBV2sVxJrAuYa-SXlrXfiuzj-rdGOH0/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Lower Leg v3](https://drive.google.com/file/d/1o8EfnFP058vyJhbuOwRAwsK36POzaX1Q/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Upper Leg Module Shell Base](https://drive.google.com/file/d/1VyyCbXpQ2YnV5PpdJ_AyL8uRjioKnqWU/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Upper Leg Module Shell Cover](https://drive.google.com/file/d/1zzzeLX1umeD1-8s649Cia6AoqGmUA4b6/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 
 ## Printers
