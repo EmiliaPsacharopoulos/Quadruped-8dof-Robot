@@ -31,4 +31,10 @@ Remove support materials using the needle nose pliers and files. Use caution whe
 | ![image](https://user-images.githubusercontent.com/84528674/119171575-c3bce600-ba32-11eb-998e-5dafda09bc29.png) | ![image](https://user-images.githubusercontent.com/84528674/119171631-d33c2f00-ba32-11eb-9e55-69242abb506d.png) |
 
 
+| Side Piece Top View | Side Piece Front View  |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/84528674/119172090-77be7100-ba33-11eb-9f81-30a2d94042f2.png) | ![image](https://user-images.githubusercontent.com/84528674/119172125-82790600-ba33-11eb-8814-2f9bfb417c92.png) |
+
+Note that some supports in the mass saving cutouts could not be removed. This is non-critical, and the solution is to include a raft layer or inverting the print orientation. After removing from the bed, the side piece may have a slight bend. This will be fixed with the bottom body structure attachment.
+
 ## Leg Shell Manufacturing 
