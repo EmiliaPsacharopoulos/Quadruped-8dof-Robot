@@ -2,6 +2,14 @@
 Github layout first draft
 
 ## Table of Contents 
+1. [Bill of Materials](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Bill%20of%20Materials)
+2. [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/CAD%20Masterlist)
+3. [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Manufacturing%203D%20Prints)
+4. [Firmware Flashing](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Firmware%20Flashing)
+5. [Wiring](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Wiring)
+6. [Software](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Software)
+7. [Control Capabilities](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Control%20Capabilities)
+8. [Revisions](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Revisions)
 
 ## Project Overview
 Paragraphs here: 
