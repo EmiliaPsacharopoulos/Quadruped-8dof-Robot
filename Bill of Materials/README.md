@@ -13,8 +13,8 @@
 | Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
 | Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
 | Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| Screwdriver and Plier Set | Wiha 26190 | Amazon B00018AO0W | 1 |
+| Allen Key Set | Ball-End Color-Coded | McMaster-Carr 2617N35 | 1 |
 | --- | --- | --- | --- |
 
 
