@@ -5,7 +5,7 @@ Github layout first draft
 
 ## Project Overview
 Paragraphs here: 
-- Motivations (ie. for making the github page and from the previous research).Mainly making a US version that is easier to follow and with potential design improvements. Also, documenting our summer work
+- Motivations (ie. for making the github page and from the previous research). Mainly making a US version that is easier to follow and with potential design improvements. Also, documenting our summer work
 - Images of our completed robot.
 - State affiliation with UofM. 
 
