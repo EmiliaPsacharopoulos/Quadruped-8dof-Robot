@@ -51,3 +51,10 @@ For the larger structural pieces (such as the sides and bottom of the frame) we 
 | LULZBOT TAZ 5 | IC3D ABS Filament |
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/119169794-6b84e480-ba30-11eb-9729-315759b24588.png) | ![image](https://user-images.githubusercontent.com/84528674/119169833-78093d00-ba30-11eb-89da-5c87a33aa44b.png) |
+
+### Remaining Parts
+For all remaining parts we used a Zortrax M200 with HATCHBOX ABS filament.
+
+| Zortrax M200 | HATCHBOX ABS Filament |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/84528674/119170145-d9c9a700-ba30-11eb-94c2-e50c81143ff6.png) | ![image](https://user-images.githubusercontent.com/84528674/119170186-e5b56900-ba30-11eb-81b7-cdad5b576c3d.png) |
