@@ -43,7 +43,7 @@ We utilized three different printers to ensure proper tolerances, print capacity
 For tight tolerance parts (such as the pulleys and tensioners) we used an SLA printer, specifically a Formlabs Form 3 along with a Form Wash and Form Cure for post processing. We used Formlab's Durable Resin for its wear resistance, but any Tough/Durable family resin will suffice.
 | Form 3 SLA Printer | Form Wash | Form Cure | Durable Resin | 
 | --- | --- | --- | --- |
-| ![image](https://user-images.githubusercontent.com/84528674/119168958-78ed9f00-ba2f-11eb-85ec-6fc6b7f32cdb.png) | ![image](https://user-images.githubusercontent.com/84528674/119169020-8b67d880-ba2f-11eb-8c8a-13b7603b735e.png) | ![image](https://user-images.githubusercontent.com/84528674/119169057-9589d700-ba2f-11eb-8097-a1d2f67731ae.png) | | ![image](https://user-images.githubusercontent.com/84528674/119169291-d41f9180-ba2f-11eb-9ca7-117032d88673.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/119168958-78ed9f00-ba2f-11eb-85ec-6fc6b7f32cdb.png) | ![image](https://user-images.githubusercontent.com/84528674/119169020-8b67d880-ba2f-11eb-8c8a-13b7603b735e.png) | ![image](https://user-images.githubusercontent.com/84528674/119169057-9589d700-ba2f-11eb-8097-a1d2f67731ae.png) | ![image](https://user-images.githubusercontent.com/84528674/119169291-d41f9180-ba2f-11eb-9ca7-117032d88673.png) |
 
 ### Large Structural Parts
 For the larger structural pieces (such as the sides and bottom of the frame) we used a LULZBOT TAZ 5 for its print capacity ( 298mm x 275mm x 250mm). For materials we used the IC3D ABS filament.
