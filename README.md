@@ -14,5 +14,8 @@ Paragraphs here.
 Copyright information
 
 ## Links
-- YouTube Channel 
-- Project Report
+- Our YouTube Channel 
+- Our Project Report
+- Their YouTube Channel
+- Their Research Paper
+- Their Online Forum 
