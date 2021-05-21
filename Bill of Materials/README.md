@@ -6,6 +6,8 @@
 2. Fasteners 
 
 ## Tools
+
+## Fasteners
 | Part | Dimension | Ordering Information |
 | --- | --- | --- |
 | Socket Head Cap Screw | M3x8  |  McMaster-Carr 91292A112 |
@@ -17,5 +19,3 @@
 | Helicoil | M2.5x3.75 | McMaster-Carr 91732A767 |
 | Helicoil | M2.5x5 | McMaster-Carr 91732A770 |
 | Helicoil | M3x4.5 | McMaster-Carr 91732A647 |
-
-## Fasteners
