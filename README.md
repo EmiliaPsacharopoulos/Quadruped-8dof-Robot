@@ -10,3 +10,9 @@ Paragraphs here.
 - Necmiye Ozay
 - Anne Decastro
 - Emilia Psacharopoulos
+
+Copyright information
+
+## Links
+- YouTube Channel 
+- Project Report
