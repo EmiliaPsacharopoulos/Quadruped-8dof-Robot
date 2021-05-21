@@ -41,3 +41,4 @@ We utilized three different printers to ensure proper tolerances, print capacity
 
 ### Tight Tolerance Parts
 For tight tolerance parts (such as the pulleys and tensioners) we used an SLA printer, specifically a Formlabs Form 3 along with a Form Wash and Form Cure for post processing.
+![image](https://user-images.githubusercontent.com/84528674/119167555-fadcc880-ba2d-11eb-861e-c77ab3a56760.png)
