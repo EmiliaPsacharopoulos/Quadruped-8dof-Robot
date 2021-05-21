@@ -48,5 +48,10 @@ Insert helicoils into the side pieces according to the following procedure:
 | Using the installation tool insert the appropriate helicoil. Note that the helicoil diameter will be larger than the hole, but once threaded it will wind in. The extra compression helps with the thread grip. Insert the helicoil until it is just below the surface, and use the break-off tool to remove the tang. | ![image](https://user-images.githubusercontent.com/84528674/119172787-59a54080-ba34-11eb-9386-4cb92070b697.png) |
 | You may find it difficult to initially thread a bolt into the hole as the coils need to be aligned. Thus, you can insert a bolt in and out to correct alignment. | ![image](https://user-images.githubusercontent.com/84528674/119172872-704b9780-ba34-11eb-8efb-1585af2b73c5.png) |
 
+### Step 3: Assembly
+| Use the bolts secure the side pieces to the front pieces | 
+| --- |
+| ![image](https://user-images.githubusercontent.com/84528674/119173204-f4058400-ba34-11eb-9121-70e96c12558e.png) ![image](https://user-images.githubusercontent.com/84528674/119173258-04b5fa00-ba35-11eb-8ce9-e3f7e5bd56ba.png) |
+
 
 ## Leg Shell Manufacturing 
