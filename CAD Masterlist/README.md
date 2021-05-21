@@ -35,26 +35,3 @@ Q: Do we need to add a disclaimer that we did not make these?
 | [Transmission Belt Tension Roller 11mm](https://drive.google.com/file/d/1oReGGAgDlBbKl_YSbqSTBRh59I1F5lJp/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 11.5mm](https://drive.google.com/file/d/1oz3TDCHRlq-C7NCuOZMTf0LuByCKWWXM/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Pulley AT3 t30 Center](https://drive.google.com/file/d/1Nnp1Yz3_WAC9ZJQtrG0jFPc--QS1f0rJ/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
-
-## Printers
-We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
-
-### Tight Tolerance Parts
-For tight tolerance parts (such as the pulleys and tensioners) we used an SLA printer, specifically a Formlabs Form 3 along with a Form Wash and Form Cure for post processing. We used Formlab's Durable Resin for its wear resistance, but any Tough/Durable family resin will suffice.
-| Form 3 SLA Printer | Form Wash | Form Cure | Durable Resin | 
-| --- | --- | --- | --- |
-| ![image](https://user-images.githubusercontent.com/84528674/119168958-78ed9f00-ba2f-11eb-85ec-6fc6b7f32cdb.png) | ![image](https://user-images.githubusercontent.com/84528674/119169020-8b67d880-ba2f-11eb-8c8a-13b7603b735e.png) | ![image](https://user-images.githubusercontent.com/84528674/119169057-9589d700-ba2f-11eb-8097-a1d2f67731ae.png) | ![image](https://user-images.githubusercontent.com/84528674/119169291-d41f9180-ba2f-11eb-9ca7-117032d88673.png) |
-
-### Large Structural Parts
-For the larger structural pieces (such as the sides and bottom of the frame) we used a LULZBOT TAZ 5 for its print capacity ( 298mm x 275mm x 250mm). For materials we used the IC3D ABS filament.
-
-| LULZBOT TAZ 5 | IC3D ABS Filament |
-| --- | --- |
-| ![image](https://user-images.githubusercontent.com/84528674/119169794-6b84e480-ba30-11eb-9729-315759b24588.png) | ![image](https://user-images.githubusercontent.com/84528674/119169833-78093d00-ba30-11eb-89da-5c87a33aa44b.png) |
-
-### Remaining Parts
-For all remaining parts we used a Zortrax M200 with HATCHBOX ABS filament.
-
-| Zortrax M200 | HATCHBOX ABS Filament |
-| --- | --- |
-| ![image](https://user-images.githubusercontent.com/84528674/119170145-d9c9a700-ba30-11eb-94c2-e50c81143ff6.png) | ![image](https://user-images.githubusercontent.com/84528674/119170186-e5b56900-ba30-11eb-81b7-cdad5b576c3d.png) |
