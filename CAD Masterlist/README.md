@@ -22,5 +22,20 @@ Q: Do we need to add a disclaimer that we did not make these?
 | [Lower Leg v3](https://drive.google.com/file/d/1o8EfnFP058vyJhbuOwRAwsK36POzaX1Q/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Upper Leg Module Shell Base](https://drive.google.com/file/d/1VyyCbXpQ2YnV5PpdJ_AyL8uRjioKnqWU/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Upper Leg Module Shell Cover](https://drive.google.com/file/d/1zzzeLX1umeD1-8s649Cia6AoqGmUA4b6/view?usp=sharing) | Leg | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Encoder Codewheel Kit Mount](https://drive.google.com/file/d/11ccs6RVQufAYBlOEYI5nyL8dQXmKJOQI/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
+| [Tool Center Pulley Assembly](https://drive.google.com/file/d/1l3ptCsq2ZLFrqfpW2T9M_EbPN7_DeO7G/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Tool Center Pulley Protection](https://drive.google.com/file/d/1q3yPagw6xmaPqDHjPdc-d9TiI9zI-ZyL/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Tool Code Wheel Bonding](https://drive.google.com/file/d/1-XwSyXhONtqzKz4c7LCs8JccsO_N2fZl/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Tool Motor Shaft Extraction](https://drive.google.com/file/d/1CqdJh4uvPN75k7q4l2irTNpuYd1OmnYB/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| [Tool Motor Shaft Pulley Bonding](https://drive.google.com/file/d/1TbzFCJ7OYps_jVs-T90S1K4V0ywLDqrT/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+| --- | Actuator Component | --- | --- | --- | --- |
+
 
 ## Printers
