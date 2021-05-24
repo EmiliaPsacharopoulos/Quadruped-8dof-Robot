@@ -16,16 +16,21 @@ Note: We will refine the BOM to our process during the summer.
 9. Tools for Manufacturing 
 10. [Storage](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Bill%20of%20Materials#storage)
 
+
 ## 3D Printing
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
 
 
 ## Actuator Components
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
 
 
 ## General Fasteners
 We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints) for exact quantities required.   
 
-| Part Name | Dimensions | Ordering Information | Quantity |
+| Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | Socket Head | M2.5x20 | McMaster-Carr 91292A019 | 100 |
 | Socket Head | M2.5x6 | McMaster-Carr 91292A010 | 200 |
@@ -39,16 +44,27 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Helicoil | M2.5x5 | McMaster-Carr 91732A770 | 20 |
 | Helicoil | M3x4.5 | McMaster-Carr 91732A647 | 40 |
 
+
 ## Connectors
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
+
 
 ## Wires
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
+
 
 ## Circuit Boards
+To do: explain the ordering process for the MicroDrivers and Master Board.
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
+
 
 ## General Electronics
 
-## Tools for Electronics
 
+## Tools for Electronics
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
@@ -56,11 +72,13 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
 | --- | --- | --- | --- |
 
+
 ## Tools for Manufacturing 
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
 
 
 ## Storage 
-
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | Large Bin | Homz (Set of 2) | Amazon B06ZZXZZ2V | 1 |
