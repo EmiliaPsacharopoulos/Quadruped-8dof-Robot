@@ -72,7 +72,14 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Socket 5 Pin | Hirose DF13 | Digi-Key H2182-ND | 25 |
 | Right Angle Pin Headers  | 2.54mm | Digi-Key WM8096-ND | 30 |
 | Gold Bullet Connectors | 2mm, pairs | Amazon B00EZK3IO6 | 50 |
-| --- | --- | --- | --- |
+| Receptacle Connector IDC | 10Pos, rectangular, 30 AWG | Digi-Key 952-2561-ND | 1 |
+| XT30U Connectors | 20 pairs, male and female | Amazon B0875MBLNH | 1 |
+| Pin Header | 8Pos, 1.27mm  | Digi-Key 609-3711-ND | 1 |
+| Pin Header | 2.54mm, pack of 5 | RS 674-2347 | 1 |
+| Power Connector | Male, 4mm, black and red | Digi-Key 501-1351-ND | 2 |
+| Wire Splice Connectors | 2,3,5 Port Assortment Pack | Amazon B07NKT2P2F | 1 |
+| Ethernet Jack |  | LCSC Electronics C12074 | 1 |
+| Crimp Terminal Contact | 26-30 AWG, 10000 terminals | Digi-Key H9992CT-ND | 1 |
 
 
 ## Wires
