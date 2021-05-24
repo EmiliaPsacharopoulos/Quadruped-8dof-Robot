@@ -17,15 +17,16 @@ The four MicroDriver Boards are arranged in stacks of two boards. The following 
 Each MicroDriver board plugs into the Master Board, has two pairs of motors and encoders, and attaches to the chosen power supply option.
 
 ### Master Board Schematic
-
+(We will add the completed wiring image here and label the connections)
 
 ### MicroDriver Board Schematic
-
+(We will add the completed wiring image here and label the connections)
 
 ### Actuator Module Schematic
-
+(We will add the completed wiring image here and label the connections)
 
 ### Power Supply Schematic
-
+(We will add the completed wiring image here and label the connections)
 
 ### JTAG Emulator Schematic 
+(We will add the completed wiring image here and label the connections)
