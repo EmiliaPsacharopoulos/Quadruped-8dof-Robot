@@ -111,16 +111,16 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 ## General Electronics
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
-| XBox One Controller | Wireless | --- | --- |
-| XBox Play&Charge Kit |  | --- | --- |
-| NeoPixel LED | RGBW Mini Button PCB | --- | --- |
-| Precision Resistors  | 7mΩ, Metal strip resistor | --- | --- |
-| E-Stop Switch | --- | --- | --- |
-| Push Button Switch | Red | --- | --- |
-| Push Button Switch | Green | --- | --- |
-| AAA Batteries | 6 count | --- | --- |
-| LiPo Battery Pack | Turnigy 850mAh 3S 60C w/ XT30 | --- | --- |
-| Smart Duo LiPo Charger | ISDT D2 | --- | --- |
+| XBox One Controller | Wireless | Microsoft Store | 1 |
+| XBox Play&Charge Kit |  | Microsoft Store | 1 |
+| NeoPixel LED | RGBW Mini Button PCB | Adafruit 4776 | 1 |
+| Precision Resistors  | 7mΩ, Metal strip resistor | RS 824-0348 | 24 |
+| E-Stop Switch |  | RS 790-3546 | 1 |
+| Push Button Switch | Red | Mouser 633-SB4011NCHC | 2 |
+| Push Button Switch | Green | Digi-Key EG4726-ND | 2 |
+| AAA Batteries | 6 count | Amazon B004M7YC8S | 1 |
+| LiPo Battery Pack | Turnigy 850mAh 3S 60C w/ XT30 | HobbyKing 9067000518-0 | 2 |
+| Smart Duo LiPo Charger | ISDT D2 | Amazon B073WVVZ5D | 1 |
 
 
 ## Tools for Electronics
