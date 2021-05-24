@@ -30,12 +30,12 @@ Note: We will refine the BOM to our process during the summer.
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | Brushless Motor Pack | Anti-Gravity 4004 KV300 | T-Motor | 5 |
-| ODRI Encoder Kit | --- | PWB Encoders 109381 | 10 |
+| ODRI Encoder Kit |  | PWB Encoders 109381 | 10 |
 | Timing Belt  | 150mm- w4mm | Beltingonline AT3 GEN III Synchroflex® Timing Belts | 10 |
 | Timing Belt  | 201mm - w6mm | Beltingonline AT3 GEN III Synchroflex® Timing Belts | 10 |
-| Bearing Output Shaft | --- | OnlineBearingStore 6705ZZ 6705-2RS | 20 |
-| Bearing Motor Shaft | --- | OnlineBearingStore MR84 | 30 |
-| Bearing Timing Belt | --- | OnlineBearingStore 683-ZZ | 20 |
+| Bearing Output Shaft |  | OnlineBearingStore 6705ZZ 6705-2RS | 20 |
+| Bearing Motor Shaft |  | OnlineBearingStore MR84 | 30 |
+| Bearing Timing Belt |  | OnlineBearingStore 683-ZZ | 20 |
 | Fasteners Encoder  | M3 x 16 Phillips Flat Head, Plastic | McMaster-Carr 92929A246 | 1 |
 | Fasteners Motor | M3 x 5 Flat Head | McMaster-Carr 92125A125 | 1 |
 | Washers Timing Belt | M2.5 | McMaster-Carr 98689A111 | 5 |
