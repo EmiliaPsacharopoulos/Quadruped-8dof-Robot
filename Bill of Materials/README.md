@@ -9,7 +9,7 @@ Note: We will refine the BOM to our process during the summer.
 2. [Actuator Components](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#actuator-components)
 3. [General Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#general-fasteners)
 4. [Connectors](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#connectors)
-5. Wires
+5. [Wires](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#wires)
 6. Circuit Boards
 7. General Electronics
 8. [Tools for Electronics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools)
