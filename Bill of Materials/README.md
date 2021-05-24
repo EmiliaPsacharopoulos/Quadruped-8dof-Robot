@@ -1,6 +1,9 @@
 # Bill of Materials
 [Return to the main Table of Contents](https://github.com/EmiliaPsacharopoulos/Formatting#table-of-contents)
 
+To do: insert a link here to see the BOM in excel view.
+Note: We will refine the BOM to our process during the summer.
+
 ## Table of Contents
 1. [Tools](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools)
 2. [Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#fasteners)
