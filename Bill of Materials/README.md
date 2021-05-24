@@ -59,6 +59,7 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Helicoil | M2.5x3.75 | McMaster-Carr 91732A767 | 80 |
 | Helicoil | M2.5x5 | McMaster-Carr 91732A770 | 20 |
 | Helicoil | M3x4.5 | McMaster-Carr 91732A647 | 40 |
+| Cable Gland | M20, Plastic | McMaster-Carr 7310K33   | 4 |
 
 
 ## Connectors
