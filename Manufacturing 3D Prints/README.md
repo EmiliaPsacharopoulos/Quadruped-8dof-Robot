@@ -79,9 +79,7 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 
 | Bolt Location | Full Assembly |
 | --- | --- |
-| ![image](https://user-images.githubusercontent.com/84528674/119173204-f4058400-ba34-11eb-9121-70e96c12558e.png) | ![image](https://user-images.githubusercontent.com/84528674/119173258-04b5fa00-ba35-11eb-8ce9-e3f7e5bd56ba.png) |
-
-![image](https://user-images.githubusercontent.com/57100380/119373504-7afd6b00-bc86-11eb-8c2f-e1e3261a3678.png)
+| ![image](https://user-images.githubusercontent.com/84528674/119173204-f4058400-ba34-11eb-9121-70e96c12558e.png) | ![image](https://user-images.githubusercontent.com/57100380/119373504-7afd6b00-bc86-11eb-8c2f-e1e3261a3678.png) |
 
 ## Frame Base Assembly
 ### Materials Masterlist
