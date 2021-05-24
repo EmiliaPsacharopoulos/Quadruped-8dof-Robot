@@ -20,6 +20,10 @@ Note: We will refine the BOM to our process during the summer.
 ## 3D Printing
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
+| ELEGOO Resin | LCD UV-Curing, 405nm, 500g | Amazon B07Z945PZM | 1 |
+| IC3D ABS Filament | 2.85 mm, 2.27 kg | Lulzbot | 1 |
+| Hatchbox ABS Filament | 1.75 mm, 1 kg | Amazon B00J0H8EWA | 1 |
+| Formlabs Durable Resin | 1 L | Formlabs RS-F2-DUCL-02 | 1 |
 
 
 ## Actuator Components
