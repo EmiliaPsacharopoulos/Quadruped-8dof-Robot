@@ -62,6 +62,8 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 
 
 ## General Electronics
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
 
 
 ## Tools for Electronics
