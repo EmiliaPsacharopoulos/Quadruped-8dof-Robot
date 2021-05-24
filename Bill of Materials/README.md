@@ -163,3 +163,4 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | --- | --- | --- | --- |
 | Large Bin | Homz (Set of 2) | Amazon B06ZZXZZ2V | 1 |
 | Fasteners Box | Stalwart (Set of 4) | Amazon B017W2Q6PG | 1 |
+| Storage Shelves | Sterilite (Set of 4) | Amazon B002BA5F2A | 1 |
