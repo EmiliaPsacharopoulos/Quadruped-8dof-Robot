@@ -75,10 +75,24 @@ Insert helicoils into the side pieces according to the following procedure:
 | You may find it difficult to initially thread a bolt into the hole as the coils need to be aligned. Thus, you can insert a bolt in and out to correct alignment. | ![image](https://user-images.githubusercontent.com/84528674/119172872-704b9780-ba34-11eb-8efb-1585af2b73c5.png) |
 
 ### Step 3: Assembly
-| Use the bolts secure the side pieces to the front pieces | 
+| Use the bolts secure the side pieces to the front pieces. Pay attention to part orientation. | 
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/119173204-f4058400-ba34-11eb-9121-70e96c12558e.png) ![image](https://user-images.githubusercontent.com/84528674/119173258-04b5fa00-ba35-11eb-8ce9-e3f7e5bd56ba.png) ![image](https://user-images.githubusercontent.com/57100380/119373504-7afd6b00-bc86-11eb-8c2f-e1e3261a3678.png) |
 
+## Frame Base Assembly
+### Materials Masterlist
+| Item | Quantity |
+| --- | --- |
+| Body Structure Bottom | 1 |
+| Tap Handle | 1 |
+| Pin Vice | 1 |
+| M3 Helicoil Insert Tool Set | 1 |
+| 2.5mm Drill Bit | 1 |
+| Helicoil M3 x 4.5 mm | 9 |
+| M3 x 8 mm Socket Head Cap Screw | 24 |
+| 2.5 mm Hex Wrench | 1 |
+| Needle Nose Plier | 1 |
+| File Set | 1 |
 
 ## Leg Shell Manufacturing 
 To complete later
