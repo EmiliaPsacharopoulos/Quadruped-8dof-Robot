@@ -7,7 +7,7 @@ Note: We will refine the BOM to our process during the summer.
 ## Table of Contents
 1. [3D Printing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#3d-printing)
 2. [Actuator Components](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#actuator-components)
-3. [General Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#fasteners)
+3. [General Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#general-fasteners)
 4. Connectors
 5. Wires
 6. Circuit Boards
