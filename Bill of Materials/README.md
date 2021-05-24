@@ -5,7 +5,7 @@ To do: insert a link here to see the BOM in excel view.
 Note: We will refine the BOM to our process during the summer.
 
 ## Table of Contents
-1. 3D Printing
+1. [3D Printing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#3d-printing)
 2. Actuator Components 
 3. [General Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#fasteners)
 4. Connectors
