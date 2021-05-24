@@ -100,8 +100,15 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 Remove support materials using the needle nose pliers and files. Use caution when removing supports so that you do not damage the part.
 
 To remove supports from the holes, use the pin vice and the 2.5mm drill bit to carefully remove the material.
+| Support Removal for Holes |
+| --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119377605-4f30b400-bc8b-11eb-8d1d-5b68d1528a10.png) |
 
-![image](https://user-images.githubusercontent.com/57100380/119377605-4f30b400-bc8b-11eb-8d1d-5b68d1528a10.png)
+### Step 2: Inserting Heatcoils
+Fallow the procedure to insert the M3 4.5mm helicoils according to the following layout:
+
+![image](https://user-images.githubusercontent.com/57100380/119378982-e21e1e00-bc8c-11eb-99c4-75f5de41c8dc.png)
+![image](https://user-images.githubusercontent.com/57100380/119379155-1eea1500-bc8d-11eb-8bee-0a9705fd3b62.png)
 
 ## Leg Shell Manufacturing 
 To complete later
