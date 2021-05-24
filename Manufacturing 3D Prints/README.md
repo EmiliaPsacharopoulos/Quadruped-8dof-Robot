@@ -114,7 +114,7 @@ Follow the previous procedure to insert the M3 4.5mm helicoils according to the 
 
 ![image](https://user-images.githubusercontent.com/57100380/119378982-e21e1e00-bc8c-11eb-99c4-75f5de41c8dc.png)
 
-## Step 3: Tapping Electronics Mounts
+### Step 3: Tapping Electronics Mounts
 Use the 1.5 mm drill bit with the M2 tap, and 2 mm drill bit with the M2.5 tap to thread holes in the appropriate locations:
 
 ![image](https://user-images.githubusercontent.com/57100380/119379155-1eea1500-bc8d-11eb-8bee-0a9705fd3b62.png)
@@ -129,7 +129,7 @@ Use the 1.5 mm drill bit with the M2 tap, and 2 mm drill bit with the M2.5 tap t
 
 **Pro Tip**: If you do happen to break off a peg you can glue it back on with the 406 Loctite.
 
-## Step 4: Assembly
+### Step 4: Assembly
 Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base piece according to the following layout (use the 2.5 mm drill bit and pin vice to clear out holes clogged by supports): 
 
 ![image](https://user-images.githubusercontent.com/57100380/119383037-dc2a3c00-bc90-11eb-8f18-1579a5e8b42f.png)
