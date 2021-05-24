@@ -7,6 +7,6 @@
 3. [MicroDriver Board Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/MicroDriver%20Board%20Wiring#microdriver-board-wiring)
 4. [Actuator Module Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Actuator%20Module%20Wiring#actuator-module-wiring)
 5. [Power Supply Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Power%20Supply%20Wiring#power-supply-wiring)
-6. JTAG Emulator Wiring
+6. [JTAG Emulator Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#jtag-emulator-wiring)
 
 This is a lot of material, so instead of inserting everything below, we can link these to different files for each wiring setup (this README would be very busy). We can include a description here about the general setup (ie. talk about choosing the MicroDriver method exclusively, not including feet sensors nor vicon markers, the 2 power supply methods - ie. give the overview). Overview can also include the masterlist of main electronic components in this step (ie. electronic boards)
