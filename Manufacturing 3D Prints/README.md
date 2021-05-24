@@ -94,5 +94,10 @@ Insert helicoils into the side pieces according to the following procedure:
 | Needle Nose Plier | 1 |
 | File Set | 1 |
 
+### Step 1: Prepare 3D Printed Parts
+| Remove support materials using the needle nose pliers and files. Use caution when removing supports so that you do not damage the part. |
+| --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119376176-aa61a700-bc89-11eb-93ed-29420af26e61.png) |
+
 ## Leg Shell Manufacturing 
 To complete later
