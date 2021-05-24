@@ -17,7 +17,7 @@ The main electrical components of this 8 degree of freedom quadruped robot inclu
 - 1 Inertial Measurement Unit (IMU)
 
 
-The [Official GitHub page's](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware#electronics) electronic setup has two options for the robot's motor driver boards: Texas Instrument Evaluation Boards or Beta Layout MicroDriver Boards. We chose the MicroDrivers because these boards are smaller and newer. 
+The [Official GitHub page's](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware#electronics) electronic setup has two options for the robot's motor driver boards: Texas Instrument's Evaluation Boards or Beta Layout's MicroDriver Boards. We chose the MicroDrivers because these boards are smaller and newer. 
 
 Additionally, other models of this robot used foot sensors and vicon markers, but in the first iteration of this design, we are not implementing these components. This may be an add-on feature in future iterations.
 
