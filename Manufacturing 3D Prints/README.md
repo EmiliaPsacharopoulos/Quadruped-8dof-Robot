@@ -4,8 +4,7 @@
 ## Table of Contents
 1. [Printers](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#printers)
 2. [Front and Side Body Structure Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-manufacturing)
-3. [Frame Base Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-base-assembly)
-4. [Leg Shell Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-manufacturing)
+3. [Leg Shell Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-manufacturing)
 
 ## Printers
 We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
@@ -72,7 +71,8 @@ Insert helicoils into the side pieces according to the following procedure:
 | --- | --- |
 | Clear out any remaining supports from the holes with the 2.5 mm drill bit and pin vice or a hand drill. | ![image](https://user-images.githubusercontent.com/84528674/119172608-2bbffc00-ba34-11eb-8039-533d215dbb1c.png) |
 | Tap the holes using the M3 helicoil insert tool set tap. Be careful not to bottom out the tap and strip the threads. | ![image](https://user-images.githubusercontent.com/84528674/119172691-41352600-ba34-11eb-88a8-0074ee6e8256.png) |
-| Using the installation tool insert the appropriate helicoil. Note that the helicoil diameter will be larger than the hole, but once threaded it will wind in. The extra compression helps with the thread grip. Insert the helicoil until it is just below the surface, and use the break-off tool to remove the tang. | ![image](https://user-images.githubusercontent.com/84528674/119172787-59a54080-ba34-11eb-9386-4cb92070b697.png) |
+| Using the installation tool insert the appropriate helicoil. Note that the helicoil diameter will be larger than the hole, but once threaded it will wind in. The extra compression helps with the thread grip. Insert the helicoil until it is just below the surface. | ![image](https://user-images.githubusercontent.com/84528674/119172787-59a54080-ba34-11eb-9386-4cb92070b697.png) |
+| Use the break-off tool to remove the tang. | ![image](https://user-images.githubusercontent.com/57100380/119379481-886a2380-bc8d-11eb-8a4f-6f4890f085c0.png) |
 | You may find it difficult to initially thread a bolt into the hole as the coils need to be aligned. Thus, you can insert a bolt in and out to correct alignment. | ![image](https://user-images.githubusercontent.com/84528674/119172872-704b9780-ba34-11eb-8efb-1585af2b73c5.png) |
 
 ### Step 3: Assembly
@@ -106,10 +106,11 @@ To remove supports from the holes, use the pin vice and the 2.5mm drill bit to c
 | ![image](https://user-images.githubusercontent.com/57100380/119377605-4f30b400-bc8b-11eb-8d1d-5b68d1528a10.png) |
 
 ### Step 2: Inserting Heatcoils
-Fallow the procedure to insert the M3 4.5mm helicoils according to the following layout:
+Follow the previous procedure to insert the M3 4.5mm helicoils according to the following layout:
 
 ![image](https://user-images.githubusercontent.com/57100380/119378982-e21e1e00-bc8c-11eb-99c4-75f5de41c8dc.png)
 ![image](https://user-images.githubusercontent.com/57100380/119379155-1eea1500-bc8d-11eb-8bee-0a9705fd3b62.png)
+
 
 ## Leg Shell Manufacturing 
 To complete later
