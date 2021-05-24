@@ -5,7 +5,7 @@
 1. [Wiring Schematics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#wiring-schematics)
 2. [Master Board Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Master%20Board%20Wiring#master-board-wiring)
 3. [MicroDriver Board Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/MicroDriver%20Board%20Wiring#microdriver-board-wiring)
-4. Actuator Module Wiring
+4. [Actuator Module Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Actuator%20Module%20Wiring#actuator-module-wiring)
 5. Power Supply Wiring
 6. JTAG Emulator Wiring
 
