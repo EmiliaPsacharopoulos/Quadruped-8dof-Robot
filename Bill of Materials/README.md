@@ -102,6 +102,10 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 To do: explain the ordering process for the MicroDrivers and Master Board.
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
+| MicroDiver v2 Board | Contact Manufacturer  | Beta Layout AU-201909/38760 | 4 |
+| Master Board | Contact Manufacturer  | Beta Layout AN5eea24ae72697 | 1 |
+| JTAG Emulator  | XDS100V2 USB | Digi-Key 702302 | 1 |
+| Lord Microstrain IMU | 3DM-CX5-25 | Mouser 130-3DM-CX5-25 | 1 |
 
 
 ## General Electronics
