@@ -1,1 +1,1 @@
-% Wiring Schematics
+# Wiring Schematics
