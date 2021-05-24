@@ -119,7 +119,7 @@ Use the 1.5 mm drill bit with the M2 tap, and 2 mm drill bit with the M2.5 tap t
 
 ![image](https://user-images.githubusercontent.com/57100380/119379155-1eea1500-bc8d-11eb-8bee-0a9705fd3b62.png)
 
-### Threading Proceedure
+### Threading Procedure
 | Step Description | Visual |
 | --- | --- |
 | Clear out the hole with the appropriate drill bit (1.5 mm for the M2 tap, and 2 mm for the M2.5 tap) | ![image](https://user-images.githubusercontent.com/57100380/119382095-95881200-bc8f-11eb-8486-5943e062f071.png) |
@@ -129,5 +129,13 @@ Use the 1.5 mm drill bit with the M2 tap, and 2 mm drill bit with the M2.5 tap t
 
 **Pro Tip**: If you do happen to break off a peg you can glue it back on with the 406 Loctite.
 
+## Step 4: Assembly
+Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base piece according to the following layout (use the 2.5 mm drill bit and pin vice to clear out holes clogged by supports): 
+
+![image](https://user-images.githubusercontent.com/57100380/119383037-dc2a3c00-bc90-11eb-8f18-1579a5e8b42f.png)
+
+| Bolt Insertion | Complete Assembly |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119383202-0976ea00-bc91-11eb-9f09-3d71e02a8b94.png) | ![image](https://user-images.githubusercontent.com/57100380/119383263-1bf12380-bc91-11eb-997b-2676b2b3659d.png) |
 ## Leg Shell Manufacturing 
 To complete later
