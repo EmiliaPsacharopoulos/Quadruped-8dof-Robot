@@ -2,7 +2,7 @@
 [Return to the main Table of Contents](https://github.com/EmiliaPsacharopoulos/Formatting#table-of-contents)
 
 ## Table of Contents 
-1. Wiring Schematics
+1. [Wiring Schematics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#wiring-schematics)
 2. MicroDriver Board Wiring
 3. Master Board Wiring
 4. Actuator Module Wiring
