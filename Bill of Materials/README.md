@@ -14,7 +14,7 @@ Note: We will refine the BOM to our process during the summer.
 7. [General Electronics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#general-electronics)
 8. [Tools for Electronics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools-for-electronics)
 9. [Tools for Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools-for-manufacturing) 
-10. [Storage](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Bill%20of%20Materials#storage)
+10. [Storage](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#storage)
 
 
 ## 3D Printing
