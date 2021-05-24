@@ -111,6 +111,16 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 ## General Electronics
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
+| XBox One Controller | Wireless | --- | --- |
+| XBox Play&Charge Kit |  | --- | --- |
+| NeoPixel LED | RGBW Mini Button PCB | --- | --- |
+| Precision Resistors  | 7mΩ, Metal strip resistor | --- | --- |
+| E-Stop Switch | --- | --- | --- |
+| Push Button Switch | Red | --- | --- |
+| Push Button Switch | Green | --- | --- |
+| AAA Batteries | 6 count | --- | --- |
+| LiPo Battery Pack | Turnigy 850mAh 3S 60C w/ XT30 | --- | --- |
+| Smart Duo LiPo Charger | ISDT D2 | --- | --- |
 
 
 ## Tools for Electronics
