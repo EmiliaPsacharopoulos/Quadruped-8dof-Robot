@@ -65,6 +65,14 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 ## Connectors
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
+| Straight Header 4 Pin | Hirose DF13 | Digi-Key H2193-ND | 1 |
+| Straight Header 5 Pin | Hirose DF13 | Digi-Key H2194-ND | 16 |
+| Right Angle Header 5 Pin | Hirose DF13 | Digi-Key H2202-ND | 20 |
+| Socket 4 Pin | Hirose DF13 | Digi-Key H2181-ND | 3 |
+| Socket 5 Pin | Hirose DF13 | Digi-Key H2182-ND | 25 |
+| Right Angle Pin Headers  | 2.54mm | Digi-Key WM8096-ND | 30 |
+| Gold Bullet Connectors | 2mm, pairs | Amazon B00EZK3IO6 | 50 |
+| --- | --- | --- | --- |
 
 
 ## Wires
