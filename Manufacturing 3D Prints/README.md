@@ -89,6 +89,10 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 | Body Structure Bottom | 1 |
 | Tap Handle | 1 |
 | Pin Vice | 1 |
+| M2 Tap | 1 |
+| 1.5 mm Drill Bit | 1 |
+| M2.5 Tap | 1 |
+| 2 mm Drill Bit | 1 |
 | M3 Helicoil Insert Tool Set | 1 |
 | 2.5mm Drill Bit | 1 |
 | Helicoil M3 x 4.5 mm | 9 |
@@ -109,8 +113,21 @@ To remove supports from the holes, use the pin vice and the 2.5mm drill bit to c
 Follow the previous procedure to insert the M3 4.5mm helicoils according to the following layout:
 
 ![image](https://user-images.githubusercontent.com/57100380/119378982-e21e1e00-bc8c-11eb-99c4-75f5de41c8dc.png)
+
+## Step 3: Tapping Electronics Mounts
+Use the 1.5 mm drill bit with the M2 tap, and 2 mm drill bit with the M2.5 tap to thread holes in the appropriate locations:
+
 ![image](https://user-images.githubusercontent.com/57100380/119379155-1eea1500-bc8d-11eb-8bee-0a9705fd3b62.png)
 
+### Threading Proceedure
+| Step Description | Visual |
+| --- | --- |
+| Clear out the hole with the appropriate drill bit (1.5 mm for the M2 tap, and 2 mm for the M2.5 tap) | ![image](https://user-images.githubusercontent.com/57100380/119382095-95881200-bc8f-11eb-8486-5943e062f071.png) |
+| Use the appropriate tap and tap handle or pin vice to make the threads. Use caution not to bottom out the tap. | ![image](https://user-images.githubusercontent.com/57100380/119382301-d7b15380-bc8f-11eb-9620-e4bdffe32d60.png) |
+
+**Caution**: Do not bottom out the tap as the peg may separate from the part and break off.
+
+**Pro Tip**: If you do happen to break off a peg you can glue it back on with the 406 Loctite.
 
 ## Leg Shell Manufacturing 
 To complete later
