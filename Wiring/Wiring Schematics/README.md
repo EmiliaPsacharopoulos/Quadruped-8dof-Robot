@@ -9,7 +9,7 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 3. [MicroDriver Board Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#microdriver-board-schematic)
 4. [Actuator Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#actuator-module-schematic)
 5. [Power Supply Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#power-supply-schematic)
-6. JTAG Emulator Schematic
+6. [JTAG Emulator Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#jtag-emulator-schematic)
 
 ### System Overview Schematic
 The four MicroDriver Boards are arranged in stacks of two boards. The following schematic depicts the wiring per MicroDriver board:
