@@ -76,7 +76,7 @@ Insert helicoils into the side pieces according to the following procedure:
 
 ### Step 3: Assembly
 Use the bolts secure the side pieces to the front pieces. Pay attention to part orientation.
-|...|
+
 ![image](https://user-images.githubusercontent.com/84528674/119173204-f4058400-ba34-11eb-9121-70e96c12558e.png) ![image](https://user-images.githubusercontent.com/84528674/119173258-04b5fa00-ba35-11eb-8ce9-e3f7e5bd56ba.png) ![image](https://user-images.githubusercontent.com/57100380/119373504-7afd6b00-bc86-11eb-8c2f-e1e3261a3678.png)
 
 ## Frame Base Assembly
@@ -96,7 +96,7 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 
 ### Step 1: Prepare 3D Printed Parts
 Remove support materials using the needle nose pliers and files. Use caution when removing supports so that you do not damage the part.
-|...|
+
 ![image](https://user-images.githubusercontent.com/57100380/119376176-aa61a700-bc89-11eb-93ed-29420af26e61.png)
 
 ## Leg Shell Manufacturing 
