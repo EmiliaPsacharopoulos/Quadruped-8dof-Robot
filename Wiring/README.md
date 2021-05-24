@@ -14,4 +14,4 @@ The existing wiring is a maze to navigate and make sense of on the existing gith
 5. Power Supply Wiring
 6. JTAG Emulator Wiring
 
-This is a lot of material, so instead of inserting everything below, we can link these to different files for each wiring setup (this README would be very busy). 
+This is a lot of material, so instead of inserting everything below, we can link these to different files for each wiring setup (this README would be very busy). We can include a description here about the general setup (ie. talk about choosing the MicroDriver method exclusively, not including feet sensors nor vicon markers, the 2 power supply methods - ie. give the overview). 
