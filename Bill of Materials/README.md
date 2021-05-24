@@ -126,10 +126,14 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 ## Tools for Electronics
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
+| LiPo Charging Safety Case | BatSafe 300x220x160mm | HobbyKing 9866000001-0 | 1 |
+| Firestop Pillow |  | Grainger 3PA73 | 1 |
+| Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
+| Zipties | 500 Pack | Amazon B0777LWBD9 | 1 |
+| Velcro Straps | 12 Pack | Amazon B08MZYWQ3L | 1 |
+| Power Supply | 30V, 20A max | Amazon B00395DK28 | 1 |
 | Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
 | Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
-| Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
-| --- | --- | --- | --- |
 
 
 ## Tools for Manufacturing 
