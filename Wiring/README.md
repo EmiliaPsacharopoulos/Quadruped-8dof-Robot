@@ -19,6 +19,6 @@ The main electrical components of this 8 degree of freedom quadruped robot inclu
 
 The [Official GitHub page's](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware#electronics) electronic setup has two options for the robot's motor driver boards: Texas Instrument's Evaluation Boards or Beta Layout's MicroDriver Boards. We chose the MicroDrivers because these boards are smaller and newer. 
 
-Additionally, other models of this robot used foot sensors and vicon markers, but in the first iteration of this design, we are not implementing these components. This may be an add-on feature in future iterations.
+Additionally, other models of this robot used foot sensors and vicon markers, but in our first iteration of this design we opted against implementing these components. This may be an add-on feature in future iterations.
 
 Lastly, we used and documented two distinct methods of powering this robot: 24V from an external power supply and 11.1V batteries mounted onto the robot. 
