@@ -139,6 +139,23 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 ## Tools for Manufacturing 
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
+| Screwdriver and Plier Set | Wiha 26190 | Amazon B00018AO0W | 1 |
+| Metric Allen Key Set | 9 Piece Set | McMaster-Carr 2617N35 | 1 |
+| Metric Drill Set | 13 Piece Set | McMaster-Carr 2788A11 | 1 |
+| Hand Vice | Chuck-Style, 0.040"-0.25" Opening | McMaster-Carr 5204A41 | 1 |
+| Metric Taps | 9 Piece Set | Amazon B08F2Q3BYL | 1 |
+| Tap Handle |  | McMaster-Carr 2546A23 | 1 |
+| Reamer | 4mm | McMaster-Carr 8851A16 | 1 |
+| Hand Countersink |  | Amazon B08C6Q1V65 | 1 |
+| Helicoil Tools | M2.5 x 2D | Amazon B07SKW1TH8 | 1 |
+| Helicoil Tools | M3 x 2D | Amazon B07HF6Y5LD | 1 |
+| Endmill | 8mm | McMaster-Carr 8940A34 | 1 |
+| Endmill | 32mm | Hoffmann Group 156730 2/32 | 1 |
+| Needle Files | 6 Piece Set | Amazon B07WDCBJ1G | 1 |
+| Pin Punch | 3mm | McMaster-Carr 34245A63 | 1 |
+| Super Glue | Loctite 406, 20g | Amazon B072Q7CFYS | 1 |
+| Retaining Compound | Loctite 648, 50mL | Amazon B07D4LB6HK | 1 |
+| Cutting Fluid | Forney 20857, 4 oz | Amazon B003X3ZKXI | 1 |
 
 
 ## Storage 
