@@ -11,7 +11,7 @@ Note: We will refine the BOM to our process during the summer.
 4. [Connectors](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#connectors)
 5. [Wires](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#wires)
 6. [Circuit Boards](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#circuit-boards)
-7. General Electronics
+7. [General Electronics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#general-electronics)
 8. [Tools for Electronics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools)
 9. Tools for Manufacturing 
 10. [Storage](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Bill%20of%20Materials#storage)
