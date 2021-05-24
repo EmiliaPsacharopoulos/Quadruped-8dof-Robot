@@ -3,7 +3,7 @@
 
 ## Table of Contents 
 1. [Wiring Schematics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#wiring-schematics)
-2. Master Board Wiring
+2. [Master Board Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Master%20Board%20Wiring#master-board-wiring)
 3. MicroDriver Board Wiring
 4. Actuator Module Wiring
 5. Power Supply Wiring
