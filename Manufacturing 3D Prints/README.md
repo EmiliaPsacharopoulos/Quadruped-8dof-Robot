@@ -4,7 +4,8 @@
 ## Table of Contents
 1. [Printers](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#printers)
 2. [Front and Side Body Structure Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-manufacturing)
-3. [Leg Shell Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-manufacturing)
+3. [Frame Base Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-base-assembly)
+4. [Leg Shell Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-manufacturing)
 
 ## Printers
 We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
