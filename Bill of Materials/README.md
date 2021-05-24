@@ -5,23 +5,24 @@ To do: insert a link here to see the BOM in excel view.
 Note: We will refine the BOM to our process during the summer.
 
 ## Table of Contents
-1. [Tools](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools)
-2. [Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#fasteners)
-3. [Storage](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Bill%20of%20Materials#storage)
+1. 3D Printing
+2. Actuator Components 
+3. [General Fasteners](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#fasteners)
+4. Connectors
+5. Wires
+6. Circuit Boards
+7. General Electronics
+8. [Tools for Electronics](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#tools)
+9. Tools for Manufacturing 
+10. [Storage](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Bill%20of%20Materials#storage)
 
-## Tools
-
-| Part Name | Details | Ordering Information | Quantity |
-| --- | --- | --- | --- |
-| Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
-| Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
-| Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
-| Screwdriver and Plier Set | Wiha 26190 | Amazon B00018AO0W | 1 |
-| Allen Key Set | Ball-End Color-Coded | McMaster-Carr 2617N35 | 1 |
-| --- | --- | --- | --- |
+## 3D Printing
 
 
-## Fasteners
+## Actuator Components
+
+
+## General Fasteners
 We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints) for exact quantities required.   
 
 | Part Name | Dimensions | Ordering Information | Quantity |
@@ -37,6 +38,25 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Helicoil | M2.5x3.75 | McMaster-Carr 91732A767 | 80 |
 | Helicoil | M2.5x5 | McMaster-Carr 91732A770 | 20 |
 | Helicoil | M3x4.5 | McMaster-Carr 91732A647 | 40 |
+
+## Connectors
+
+## Wires
+
+## Circuit Boards
+
+## General Electronics
+
+## Tools for Electronics
+
+| Part Name | Details | Ordering Information | Quantity |
+| --- | --- | --- | --- |
+| Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
+| Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
+| Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
+| --- | --- | --- | --- |
+
+## Tools for Manufacturing 
 
 
 ## Storage 
