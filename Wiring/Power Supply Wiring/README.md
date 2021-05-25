@@ -69,7 +69,7 @@ This step explains the connection from two external power supplies to each of th
 | --- | --- |
 | Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. We will refer to these four wires as main power wires. | --- |
 | Strip off 1cm of wire casing from one end of each of the main power wires. Twist the exposed wire after each strip. | --- |
-| Attach the ends of the red main power wires to the red banana plugs and the ends of the black main power wires to the black banana plugs. | --- |
+| Attach the ends of the red main power wires to the red banana plugs and the ends of the black main power wires to the black banana plugs. This end is complete; it serves as the connection to the power supply. | --- |
 
 ### Routing the Main Power Wires through the E-Stop Switch
 | Step Description | Visual | 
@@ -81,7 +81,10 @@ This step explains the connection from two external power supplies to each of th
 ### Preparing the Sub Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut | --- |
+| Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut 4 sections of this length from the 18 AWG red wire and 4 sections of this length from the 18 AWG black wire. We chose to cut **XYZ** inches, four times from each colored wire. | --- |
+| Strip off 0.5cm to 1cm of wire casing from one end of each of the 8 wires. Twist the exposed wire after each strip. | --- |
+| Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 male connectors to the exposed wire. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | --- |
+| --- | --- |
 | --- | --- |
 
 
