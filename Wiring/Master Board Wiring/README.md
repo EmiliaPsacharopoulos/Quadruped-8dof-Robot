@@ -10,3 +10,22 @@ We provide instructions for all soldered components on the Master Board, and the
 4. Micro Driver Cable Assembly
 5. IMU Cable Assembly
 
+
+## Ethernet Jack Soldering
+
+
+
+## LED Soldering
+
+
+
+## Header Pin Soldering
+
+
+
+## Micro Driver Cable Assembly
+
+
+
+## IMU Cable Assembly
+
