@@ -55,8 +55,8 @@ This step explains the connection from two external power supplies to each of th
 | Braided Cable Sleeve | 10 m |
 | E-Stop Switch | 1 |
 | Cable Gland | 1 | 
-| 18 AWG Black Wire | ~20 m |
-| 18 AWG Red Wire | ~20 m |
+| 18 AWG Black Wire | ~40 m |
+| 18 AWG Red Wire | ~40 m |
 | XT30 Male Connectors | 4 |
 | 2-Channel Wire Splice Connectors | 4 | 
 | 2.4mm Heat Shrink | ~20 cm |
