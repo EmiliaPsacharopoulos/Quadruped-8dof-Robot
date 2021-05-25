@@ -76,7 +76,7 @@ This step explains the connection from two external power supplies to each of th
 | Step Description | Visual | 
 | --- | --- |
 | Screw on the cable gland to the E-Stop switch. | --- |
-| --- | --- |
+| ??? | --- |
 | --- | --- |
 
 ### Preparing the Sub Power Wires
