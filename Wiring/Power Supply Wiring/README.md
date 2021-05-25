@@ -63,6 +63,7 @@ This step explains the connection from two external power supplies to each of th
 | 18 AWG Red Wire | ~20 m |
 | XT30 Male Connectors | 4 |
 | 2-Channel Wire Splice Connectors | 4 | 
+| 2.4mm Heat Shrink | ~20 cm |
 
 ### Preparing the Main Power Wires
 | Step Description | Visual | 
@@ -82,18 +83,29 @@ This step explains the connection from two external power supplies to each of th
 | Step Description | Visual | 
 | --- | --- |
 | Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut 4 sections of this length from the 18 AWG red wire and 4 sections of this length from the 18 AWG black wire. We chose to cut **XYZ** inches, four times from each colored wire. | --- |
-| Strip off 0.5cm to 1cm of wire casing from one end of each of the 8 wires. Twist the exposed wire after each strip. | --- |
-| Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 male connectors to the exposed wire. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | --- |
-| At this stage, there should be four sub power wires:  | --- |
 | Strip 0.5cm of wire casing from the other end of each of the 8 individual wires, and twist the exposed wire after each strip. | --- |
 
 
 ### Connecting the Sub and Main Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Route each red main power wire through the single entry side of the 2 channel wire splice connector. Route the two red subwires through the two channel side of the splice connector. | --- |
+| Route each red main power wire through the single entry side of the 2 channel wire splice connector. Route any two red subwires through the two channel side of the splice connector. | --- |
 | Repeat the above step for the black wires | --- |
 | Use a ziptie on each splice connector to ensure the bridge stays shut. | --- |
+
+### Finishing the Sub Power Wires
+| Step Description | Visual | 
+| --- | --- |
+| Cut thin strips of 2.4mm heat shrink. Straighten out the four pairs of subwire from the spliced connection (2 red pairs, 2 black pairs), and use the heat shrink on each pair individually to straighten the connection. Leave at least 5cm of wire from the ends unbounded. | |
+| Strip off 0.5cm to 1cm of wire casing from the empty end of each of the 8 wires. Twist the exposed wire after each strip. | --- |
+| Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 male connectors to the exposed wire. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | --- |
+| At this stage, there should be four completed sub power wires branching from the wire splice connection:  | --- |
+
+### Overall organization
+| Step Description | Visual | 
+| --- | --- |
+| Encapsulate the fully assembled wires with the braided cable sleeve. Use heat shrink to secure the attachment on each end of the cable. You will have to cut the cable accordingly to the lengths used in previous steps. | --- |
+
 
 
 ## Battery Method
