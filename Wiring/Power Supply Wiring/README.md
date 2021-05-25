@@ -12,6 +12,7 @@ Below, we describe the implementation of both methods. In either case, each of t
 2. [External Power Supply Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#external-power-supply-method)
 3. [Battery Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#battery-method)
 
+
 ## MicroDriver Power Supply Cables
 This step focuses on soldering power supply cables to the MicroDriver that will serve as the consumer connection, regardless of chosen power supply method. The following table lists the necessary tools, parts, and materials to complete this step. 
 | Item | Quantity | 
@@ -43,6 +44,22 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 
 
 ## External Power Supply Method
+This step explains the connection from two external power supplies to each of the two MicroDriver stacks. The supply source is routed through an E-Stop switch. The following table lists the necessary tools, parts, and materials to complete this step. 
+| Item | Quantity | 
+| --- | --- |
+| Soldering Iron | 1 |
+| Solder Spool | 1 |
+| Solder Holder | 1 |
+| Cleaning Sponge | 1 |
+| Filter Fan | 1 |
+| Heat Gun | 1 |
+| Wire Cutter | 1 |
+| Wire Stripper | 1 |
+| Banana Plugs | 2 pairs |
+| Braided Cable Sleeve | 10 m |
+| E-Stop Switch | 1 |
+| 18 AWG Black Wire | 20 m |
+| 18 AWG Red Wire | 20 m |
 
 
 ## Battery Method
