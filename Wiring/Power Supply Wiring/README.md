@@ -6,12 +6,6 @@ The robot can be powered by one of two methods:
 - Batteries on the robot
 
 Below, we describe the implementation of both methods. In either case, each of the four MicroDrivers receives a supplying power cable. 
-
-## Table of Contents
-1. [MicroDriver Power Supply Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#microdriver-power-supply-cables)
-2. [External Power Supply Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#external-power-supply-method)
-3. [Battery Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#battery-method)
-
 You will need all of the following tools and materials to properly complete the instructions below:
 | Item | Quantity | 
 | --- | --- |
@@ -24,6 +18,13 @@ You will need all of the following tools and materials to properly complete the 
 | Heat Gun | 1 |
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
+
+
+## Table of Contents
+1. [MicroDriver Power Supply Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#microdriver-power-supply-cables)
+2. [External Power Supply Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#external-power-supply-method)
+3. [Battery Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#battery-method)
+
 
 ## MicroDriver Power Supply Cables
 This step focuses on soldering power supply cables to the MicroDriver that will serve as the consumer connection, regardless of chosen power supply method. The following table lists the necessary tools, parts, and materials to complete this step. 
