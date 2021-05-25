@@ -7,6 +7,11 @@ The robot can be powered by one of two methods:
 
 Below, we describe the implementation of both methods. In either case, each of the four MicroDrivers receives a supplying power cable. 
 
+## Table of Contents
+1. MicroDriver Power Supply Cables
+2. External Power Supply Method
+3. Battery Method
+
 ## MicroDriver Power Supply Cables
 This step focuses on soldering power supply cables to the MicroDriver that will serve as the consumer connection, regardless of chosen power supply method. The following table lists the necessary tools, parts, and materials to complete this step. 
 | Item | Quantity | 
@@ -35,4 +40,10 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 | Cut thin strips of 2.4mm heat shrink, and apply heat to attach them about 5cm apart on each power chord for better wire management. | |
 | Shorten then solder one right angle pin header to each power terminal pin on the MicroDriver | |
 | Strip about 0.5cm to 1cm of the wiring casing of a power chord, twist the exposed wire, then solder the power chord to the corresponding positive or negative right angle pin header from the previous step. Apply heat shrink from the XT30 pack after each solder. | |
+
+
+## External Power Supply Method
+
+
+## Battery Method
 
