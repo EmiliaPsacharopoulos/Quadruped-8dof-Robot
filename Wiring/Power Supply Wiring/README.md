@@ -30,5 +30,5 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 | --- | --- |
 | Cut a red and a black 20 AWG (0.5mm^2) wire to 20cm. Strip off about 0.5 cm to 1 cm of the wire casing on one side of each wire and twist the exposed wire.  | <img src="https://user-images.githubusercontent.com/84528674/119542755-e2d2b500-bd5d-11eb-8f42-fa994dd837c3.png" height = "300" width = "400">  |
 | Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 female connectors to the exposed wire. | <img src="https://user-images.githubusercontent.com/84528674/119542893-0eee3600-bd5e-11eb-8e56-316c2be91cdf.png" height = "300"  width = "400"> |
-| The connections will look like this before proceeding to the next step: |  <img src="https://user-images.githubusercontent.com/84528674/119543052-3ba24d80-bd5e-11eb-9977-65cba2f650c6.png" width = 400>|
+| The connection will look like this before proceeding to the next step: |  <img src="https://user-images.githubusercontent.com/84528674/119543052-3ba24d80-bd5e-11eb-9977-65cba2f650c6.png" width = 400>|
 | Cut thin strips of 2.4mm heat shrink, and apply heat to attach them about 5cm apart on each power chord for better wire management. | |
