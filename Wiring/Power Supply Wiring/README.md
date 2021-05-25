@@ -114,3 +114,5 @@ This step explains the connection from two batteries, mounted on the robot, to e
 | --- | --- |
 | --- | --- |
 | --- | --- |
+
+Asked about on the forum.
