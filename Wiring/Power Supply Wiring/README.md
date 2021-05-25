@@ -16,6 +16,7 @@ This step focuses on soldering power supply cables to the MicroDriver that will 
 | Solder Holder | 1 |
 | Cleaning Sponge | 1 |
 | Filter Fan | 1 |
+| Heat Gun | 1 |
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
 | 20 AWG Black Wire | 80 cm |
@@ -32,6 +33,8 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 
 <img src="https://user-images.githubusercontent.com/84528674/119542893-0eee3600-bd5e-11eb-8e56-316c2be91cdf.png" height = "300"> 
 
-The 4 connections needed to proceed to the next step:
+The connections will look like this before proceeding to the next step:
 
 <img src="https://user-images.githubusercontent.com/84528674/119543052-3ba24d80-bd5e-11eb-9977-65cba2f650c6.png" width = 400>
+
+3. Cut thin strips of 2.4mm heat shrink, and apply heat to attach them about 5cm apart on each power 
