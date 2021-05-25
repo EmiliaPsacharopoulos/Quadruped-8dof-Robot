@@ -25,7 +25,7 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## Pin Mapping
-
+![image](https://user-images.githubusercontent.com/84528674/119567724-aa8d9f80-bd7a-11eb-8e6f-2d004598f861.png)
 
 
 ## Ethernet Jack Soldering
