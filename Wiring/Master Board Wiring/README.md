@@ -25,6 +25,7 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## Pin Mapping
+![image](https://user-images.githubusercontent.com/84528674/119567389-436feb00-bd7a-11eb-857d-8b1f1f965b0b.png)
 
 
 ## Ethernet Jack Soldering
@@ -44,4 +45,5 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## IMU Cable Assembly
+![image](https://user-images.githubusercontent.com/84528674/119567389-436feb00-bd7a-11eb-857d-8b1f1f965b0b.png)
 
