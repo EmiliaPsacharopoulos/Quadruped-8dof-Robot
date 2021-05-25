@@ -109,4 +109,20 @@ This step explains the connection from two external power supplies to each of th
 
 
 ## Battery Method
-
+This step explains the connection from two batteries, mounted on the robot, to each of the two MicroDriver stacks. The supply source is routed through push button switches. The following table lists the necessary tools, parts, and materials to complete this step. 
+| Item | Quantity | 
+| --- | --- |
+| Soldering Iron | 1 |
+| Solder Spool | 1 |
+| Solder Holder | 1 |
+| Cleaning Sponge | 1 |
+| Filter Fan | 1 |
+| Heat Gun | 1 |
+| Wire Cutter | 1 |
+| Wire Stripper | 1 |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
