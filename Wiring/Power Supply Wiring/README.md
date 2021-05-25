@@ -24,6 +24,7 @@ This step focuses on soldering power supply cables to the MicroDriver that will 
 | Female XT30 Connectors | 4 |
 | Heat Shrink from XT30 Pack | 4 Red, 4 Black |
 | 2.4mm Heat Shrink | ~10 cm |
+| Right Angle Pin Header | 8 |
 
 Repeat the following steps 4 times (1 time per MicroDriver)
 | Step Description | Visual | 
@@ -32,3 +33,6 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 | Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 female connectors to the exposed wire. | <img src="https://user-images.githubusercontent.com/84528674/119542893-0eee3600-bd5e-11eb-8e56-316c2be91cdf.png" height = "300"  width = "400"> |
 | The connection will look like this before proceeding to the next step: |  <img src="https://user-images.githubusercontent.com/84528674/119543052-3ba24d80-bd5e-11eb-9977-65cba2f650c6.png" width = 400>|
 | Cut thin strips of 2.4mm heat shrink, and apply heat to attach them about 5cm apart on each power chord for better wire management. | |
+| Shorten then solder one right angle pin header to each power terminal pin on the MicroDriver | |
+| Strip about 0.5cm to 1cm of the wiring casing of a power chord, twist the exposed wire, then solder the power chord to the corresponding positive or negative right angle pin header from the previous step. Apply heat shrink from the XT30 pack after each solder. | |
+
