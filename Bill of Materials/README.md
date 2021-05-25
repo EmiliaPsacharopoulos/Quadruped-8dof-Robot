@@ -92,7 +92,7 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | 3S LiPo Balance Wire | JST-XH  | Amazon B0742K3KJ3 | 2 |
 | Wire Cables | 26 AWG, 5 Color Pack | Amazon B01KQ2NURG | 33 ft |
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
-| Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 50 ft |
+| Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 100 ft |
 | Ribbon Cable | 10Con, 1.27mm | Digi-Key MD10R-1-ND | 1 ft |
 | Ethernet Cable | Preferably w/o grounding | Amazon B003O973OA | 10 ft |
 | JST to XT30 | Male and female, 2 sets | Amazon B07MK8F1J9 | 2 |
