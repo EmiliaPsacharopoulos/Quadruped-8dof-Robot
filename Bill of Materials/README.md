@@ -1,6 +1,8 @@
 # Bill of Materials
 [Return to the main Table of Contents](https://github.com/EmiliaPsacharopoulos/Formatting#table-of-contents)
 
+The [Open Dynamic Robot Initiative's Bill of Materials](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware#open-robot-actuator-hardware) contains many parts that do not ship to the US and does not have a complete masterlist of quantities for the 8 degree of freedom robot. This section addresses both.
+
 To do: insert a link here to see the BOM in excel view.
 Note: We will refine the BOM to our process during the summer.
 
