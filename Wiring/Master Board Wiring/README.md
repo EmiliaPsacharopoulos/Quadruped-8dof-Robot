@@ -10,6 +10,18 @@ We provide instructions for all soldered components on the Master Board, and the
 4. [Micro Driver Cable Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#micro-driver-cable-assembly)
 5. [IMU Cable Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#imu-cable-assembly)
 
+You will need all of the following tools and materials to properly complete the instructions below:
+| Item | Quantity | 
+| --- | --- |
+| Soldering Iron | 1 |
+| Solder Spool | 1 |
+| Solder Holder | 1 |
+| Soldering Vise | 1 |
+| Cleaning Sponge | 1 |
+| Filter Fan | 1 |
+| Heat Gun | 1 |
+| Wire Cutter | 1 |
+| Wire Stripper | 1 |
 
 ## Ethernet Jack Soldering
 
