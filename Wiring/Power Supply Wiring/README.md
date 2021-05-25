@@ -8,7 +8,7 @@ The robot can be powered by one of two methods:
 Below, we describe the implementation of both methods. In either case, each of the four MicroDrivers receives a supplying power cable. 
 
 ## Table of Contents
-1. MicroDriver Power Supply Cables
+1. [MicroDriver Power Supply Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#microdriver-power-supply-cables)
 2. External Power Supply Method
 3. Battery Method
 
