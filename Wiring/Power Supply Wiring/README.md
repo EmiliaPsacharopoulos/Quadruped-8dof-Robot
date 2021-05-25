@@ -62,17 +62,34 @@ This step explains the connection from two external power supplies to each of th
 | 18 AWG Black Wire | ~20 m |
 | 18 AWG Red Wire | ~20 m |
 | XT30 Male Connectors | 4 |
-| 2-Channel Wire Splice Connectors | 2 | 
+| 2-Channel Wire Splice Connectors | 4 | 
 
+### Preparing the Main Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. | --- |
-| Strip off 1cm of wire casing from one end of each of the four red and black 18 AWG wires. Twist the exposed wire after each strip. | --- |
-| Attach the red wires to the red banana plugs and the black wires to the black banana plugs. | --- |
+| Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. We will refer to these four wires as main power wires. | --- |
+| Strip off 1cm of wire casing from one end of each of the main power wires. Twist the exposed wire after each strip. | --- |
+| Attach the ends of the red main power wires to the red banana plugs and the ends of the black main power wires to the black banana plugs. | --- |
+
+### Routing the Main Power Wires through the E-Stop Switch
+| Step Description | Visual | 
+| --- | --- |
 | Screw on the cable gland to the E-Stop switch. | --- |
 | --- | --- |
 | --- | --- |
 
+### Preparing the Sub Power Wires
+| Step Description | Visual | 
+| --- | --- |
+| --- | --- |
+| --- | --- |
+
+
+### Connecting the Sub and Main Power Wires
+| Step Description | Visual | 
+| --- | --- |
+| Route each red main power wire through the single entry side of the 2 channel wire splice connector. Route the two red subwires through the two channel side of the splice connector | --- |
+| Repeat the above step for the black wires | --- |
 
 
 ## Battery Method
