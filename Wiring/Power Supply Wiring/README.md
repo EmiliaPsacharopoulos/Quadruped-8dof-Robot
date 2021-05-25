@@ -31,4 +31,4 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 | Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 female connectors to the exposed wire. | <img src="https://user-images.githubusercontent.com/84528674/119542893-0eee3600-bd5e-11eb-8e56-316c2be91cdf.png" height = "400"> |
 
 The 4 connections needed to proceed to the next step:
-![image](https://user-images.githubusercontent.com/84528674/119543052-3ba24d80-bd5e-11eb-9977-65cba2f650c6.png)
+<img src="https://user-images.githubusercontent.com/84528674/119543052-3ba24d80-bd5e-11eb-9977-65cba2f650c6.png" width = 400>
