@@ -30,7 +30,7 @@ Paragraphs here:
 - Emilia Psacharopoulos
 
 ## Acknowledgement 
-We are implementing the Open Dynamic Robot Initiative, an open source and low cost research project kickstarted by NYU. Copyright information can be found below: 
+We are implementing the Open Dynamic Robot Initiative, an open source low cost research project kickstarted by NYU. Copyright information can be found below: 
 
 @article{grimminger2020open,
 title={An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research},
