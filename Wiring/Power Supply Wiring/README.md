@@ -16,8 +16,8 @@ This step focuses on soldering power supply cables to the MicroDriver that will 
 | Solder Holder | 1 |
 | Cleaning Sponge | 1 |
 | Filter Fan | 1 |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| 20 AWG Black Wire | 80 cm |
+| 20 AWG Red Wire | 80 cm |
+| Female XT30 Connectors | 4 |
+| Heat Shrink from XT30 Pack | 4 Red, 4 Black |
 | --- | --- |
