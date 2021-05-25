@@ -66,7 +66,9 @@ This step explains the connection from two external power supplies to each of th
 
 | Step Description | Visual | 
 | --- | --- |
-| Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. | --- |
+| Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. 
+
+We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. | --- |
 | Strip off 1cm of wire casing from one end of each of the four red and black 18 AWG wires. Twist the exposed wire on each 10m wire. | --- |
 | Attach the red wires to the red banana plugs and the black wires to the black banana plugs. | --- |
 | Screw on the cable gland to the E-Stop switch. | --- |
