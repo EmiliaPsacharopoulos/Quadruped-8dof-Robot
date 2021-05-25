@@ -59,16 +59,16 @@ This step explains the connection from two external power supplies to each of th
 | Braided Cable Sleeve | 10 m |
 | E-Stop Switch | 1 |
 | Cable Gland | 1 | 
-| 18 AWG Black Wire | 20 m |
-| 18 AWG Red Wire | 20 m |
+| 18 AWG Black Wire | ~20 m |
+| 18 AWG Red Wire | ~20 m |
 | XT30 Male Connectors | 4 |
 | 2-Channel Wire Splice Connectors | 2 | 
 
 | Step Description | Visual | 
 | --- | --- |
-| Cut the red and the black 18 AWG wire in half. This should roughly come out to 4 wires (2 red, 2 black) that are 10m. Strip off 1cm of wire casing from one end of each of the four red and black 18 AWG wires. Twist the exposed wire on each 10m wire. | --- |
+| Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. | --- |
+| Strip off 1cm of wire casing from one end of each of the four red and black 18 AWG wires. Twist the exposed wire on each 10m wire. | --- |
 | Attach the red wires to the red banana plugs and the black wires to the black banana plugs. | --- |
-| Choose your desired length from the power source to the E-Stop switch, then cut the wires measuring from the banana plugs to that length. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut our wires **XYZ** inches. | --- |
 | Screw on the cable gland to the E-Stop switch. | --- |
 | --- | --- |
 | --- | --- |
