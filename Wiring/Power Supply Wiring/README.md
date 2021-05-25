@@ -81,15 +81,16 @@ This step explains the connection from two external power supplies to each of th
 ### Preparing the Sub Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| --- | --- |
+| Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut | --- |
 | --- | --- |
 
 
 ### Connecting the Sub and Main Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Route each red main power wire through the single entry side of the 2 channel wire splice connector. Route the two red subwires through the two channel side of the splice connector | --- |
+| Route each red main power wire through the single entry side of the 2 channel wire splice connector. Route the two red subwires through the two channel side of the splice connector. | --- |
 | Repeat the above step for the black wires | --- |
+| Use a ziptie on each splice connector to ensure the bridge stays shut. | --- |
 
 
 ## Battery Method
