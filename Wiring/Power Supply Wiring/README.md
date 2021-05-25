@@ -104,7 +104,7 @@ This step explains the connection from two external power supplies to each of th
 ### Overall organization
 | Step Description | Visual | 
 | --- | --- |
-| Encapsulate the fully assembled wires with the braided cable sleeve. Use heat shrink to secure the attachment on each end of the cable. You will have to cut the cable accordingly to the lengths used in previous steps. | --- |
+| Encapsulate the fully assembled wires with the braided cable sleeve. You will have to cut the cable accordingly to the lengths used in previous steps. Use zipties to secure the attachment on each end of the cable. Zipties are prefered over heat shrink for this attachment incase a wire needs to be replaced inside. | --- |
 
 
 
