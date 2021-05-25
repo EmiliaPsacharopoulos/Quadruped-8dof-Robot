@@ -24,3 +24,9 @@ This step focuses on soldering power supply cables to the MicroDriver that will 
 | Heat Shrink from XT30 Pack | 4 Red, 4 Black |
 | --- | --- |
 
+Repeat the following steps 4 times (1 time per MicroDriver)
+| Step Description | Visual |
+| --- | --- |
+| Cut a red and a black 20 AWG (0.5mm^2) wire to 20cm. Strip off about 0.5 cm to 1 cm of the wire casing on one side of each wire and twist the exposed wire. | --- |
+| Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 female connectors to the exposed wire. | --- |
+| --- | --- |
