@@ -138,6 +138,6 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 
 | Bolt Insertion | Assembly with Bottom Piece | Assembly with Top Piece |
 | --- | --- | --- |
-| ![image](https://user-images.githubusercontent.com/57100380/119383202-0976ea00-bc91-11eb-9f09-3d71e02a8b94.png) | ![image](https://user-images.githubusercontent.com/57100380/119383263-1bf12380-bc91-11eb-997b-2676b2b3659d.png) | ![image](https://user-images.githubusercontent.com/57100380/119587489-cc981980-bd9c-11eb-868f-a15a130d6bdd.png) |
+| ![image](https://user-images.githubusercontent.com/57100380/119383202-0976ea00-bc91-11eb-9f09-3d71e02a8b94.png) | ![image](https://user-images.githubusercontent.com/57100380/119383263-1bf12380-bc91-11eb-997b-2676b2b3659d.png) | ![image](https://user-images.githubusercontent.com/57100380/119588093-103f5300-bd9e-11eb-9a20-73e80db2d5ba.png) |
 ## Leg Shell Manufacturing 
 To complete later
