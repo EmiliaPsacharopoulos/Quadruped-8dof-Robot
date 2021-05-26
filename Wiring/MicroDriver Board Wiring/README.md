@@ -113,7 +113,7 @@ This is the process of connecting the cables for one MicroDriver board. You will
 ## MicroDriver Encoder Cables
 This step focuses on soldering the cable connection to the MicroDriver that will eventually connect to each encoder. The 5pin right angle connectors should already be soldered on the MicroDriver from the above instructions. 
 
-Two encoders will connect per MicroDriver board. Each encoder will have one cable. Therefore, we will be making 8 encoder cables. Note: soldering these cables to the encoders is will be addressed here rather than the Actuator Module Wiring tab. 
+Two encoders will connect per MicroDriver board. Each encoder will have one cable. Therefore, we will be making 8 encoder cables. Note: soldering these cables to the encoders  will be addressed here rather than the Actuator Module Wiring tab. 
 
 | Item | Quantity | 
 | --- | --- |
