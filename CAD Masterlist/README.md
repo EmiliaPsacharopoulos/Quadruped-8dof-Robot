@@ -4,6 +4,8 @@
 Q: Do we need to add a disclaimer that we did not make these?
 ## Table of Contents
 1. [Itemized Print Table](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#itemized-print-table)
+2. [Fitting Large Prints on Print Bed](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#fitting-large-prints-on-print-bed)
+3. [Optional Prints](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#optional-prints)
 
 ## Itemized Print Table
 ### Note: print all FDM pieces with 100% infill
