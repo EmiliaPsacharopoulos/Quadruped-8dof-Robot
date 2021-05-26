@@ -12,7 +12,7 @@ This Table of Contents is presented in order of project completion.
 3. [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Manufacturing%203D%20Prints)
 4. [Machining](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Machining/README.md#machining)
 5. [Wiring](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Wiring)
-6. Assembly
+6. [Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Assembly#assembly)
 7. [Firmware Flashing](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Firmware%20Flashing)
 8. [Software](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Software)
 9. [Control Capabilities](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Control%20Capabilities)
