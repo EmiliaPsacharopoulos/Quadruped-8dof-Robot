@@ -1,6 +1,6 @@
 # Open Dynamic Torque Initiative
 
-This GitHub repository serves as the primary source of documentation for Professor Necmiye Ozay's research team's implementation of the New York University's Open Dynamic Robot Initiative's 8 degree of freedom quadruped robot. 
+This GitHub repository serves as the primary source of documentation for an implementation of the New York University's Open Dynamic Robot Initiative's 8 degree of freedom quadruped robot. 
 
 ## Table of Contents 
 
