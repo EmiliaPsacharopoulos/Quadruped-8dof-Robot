@@ -85,16 +85,21 @@ All four MicroDrivers connect to the Master Board via SPI connections. The wires
 | --- | --- |
 | 26 AWG 5 Pack Wire Kit | **Need to think about positioning on the robot first** |
 | 2.4mm Heat Shrink | ~10 cm |
-| Crimp Terminals | --- |
+| Crimp Terminals | 40 |
 | 5Pos Sockets | 8 |
 
-Here are the steps for completing this connection:
+Your robot frame should be completed before attempting this step. Here are the steps for completing this connection (repeated four times, once per MicroDriver):
 | Step Description | Visual | 
 | --- | --- |
 | https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/details/details_wiring.md#spi-wires | --- |
+| Measure the distance between the position of the MicroDriver and your Master Board on the robot frame. Add three inches to this measurement. For example, we measured **XYZ** inches, so our final measurement would be **XYZ + 3** inches. | --- |
+| Cut the five multi-colored 26 AWG wires to this measurement. Strip off about 0.5cm on each end of the wire. Twist the exposed wire after each strip. | --- |
+| Crimp each exposed wire using the Hirose DF13 crimping tool and the DF13 crimping terminals **add a lot of pictures/explanation here**  | --- |
+| Pick a color orientation. To keep the wire management as simple as possible, use the same color orientation for each SPI wire connection you make. | --- |
+| --- | --- |
+| Cut the 2.4mm heat shrink into very thin slices and use it to neatly bind the wires together. | --- |
 | --- | --- |
 | --- | --- |
-
 
 
 ## IMU Cable Assembly
