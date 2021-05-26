@@ -235,4 +235,8 @@ Insert the 8x4x2mm and 32x24x4mm bearings into their appropriate loactions by pu
 To check for fits attach the cover shells to the bases with the M2.5 x 6mm and M2.5 x 10 mm socket head screws.
 
 **Note**: The hip and upper leg covers are identical and interchangeable.
-![image](https://user-images.githubusercontent.com/57100380/119701345-3b6b8600-be22-11eb-9ce0-f9b6d134d903.png)
+
+| Bolt Locations |
+| --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119701345-3b6b8600-be22-11eb-9ce0-f9b6d134d903.png) 
+Note: At this stage you will **NOT** have the motors or pulleys attached as shown in the CAD |
