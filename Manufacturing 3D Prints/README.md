@@ -163,3 +163,11 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 | 32mm End Mill | 1 |
 | 32mm x 25mm x 4mm bearing | 16 |
 | 8mm x 4mm x 2mm bearing | 24 |
+| Vice | 1 |
+| M2.5 x 6 mm Socket Head Cap Screw | 40 |
+| M2.5 x 10 mm Socket Head Cap Screw | 24 |
+| 2.5mm Hex Wrench | 1 |
+| Needle Nose Pliers | 1 |
+| File Set | 1 |
+| Pin Vice | 1 |
+| Tap Handle | 1 |
