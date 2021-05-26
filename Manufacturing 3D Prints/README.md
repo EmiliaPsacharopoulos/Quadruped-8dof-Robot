@@ -183,3 +183,26 @@ First remove supports and check that the shell modules sit flat on a table:
 | Damaged Print |
 | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119696274-0577d300-be1d-11eb-9a30-839be015743b.png) |
+
+### Step 2: Checking Hole Clearances
+Use the 2.5mm and 3mm drill bits to clean out supposts from the holes in the following locations:
+![image](https://user-images.githubusercontent.com/57100380/119696827-92229100-be1d-11eb-9bda-5bc142cf5cbf.png)
+
+### Step 3: Cutting Threads
+Use the M3 tap and tap handle or pin vice to cut threads in teh following locations:
+![image](https://user-images.githubusercontent.com/57100380/119696938-b3837d00-be1d-11eb-8f76-5b174c3087f2.png)
+
+## Step 4: Inserting Helicoils
+Use the previous procedure and the M2.5 Helicoil Insert Tool Set to insert M2.5 x 3.8mm helicoils into the following locations: 
+![image](https://user-images.githubusercontent.com/57100380/119697664-7075d980-be1e-11eb-8432-2c3e96ad4b3a.png)
+
+## Step 5: Inserting the Hip Module Helicoils
+**Note**: This step is only for the hip module base pieces which can be distinguished by the hole in the center of one end. There are 4 of these pieces.
+
+Use the previous procedure and the M3 Helicoil Insert Tool Set to insert M3 x 6mm helicoils into the following locations:
+![image](https://user-images.githubusercontent.com/57100380/119698136-f2660280-be1e-11eb-9543-b21e2c38808e.png)
+
+| Hip vs. Upper Leg Base Pieces |
+| --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119698266-132e5800-be1f-11eb-92b2-1b3ddb579150.png)
+The top leg assembly shows the upper leg base piece with no hole and the left end. The bottom leg assembly shows the hip module base piece with a hole on the left end |
