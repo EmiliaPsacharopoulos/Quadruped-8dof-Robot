@@ -32,6 +32,16 @@ You will need all of the following tools and materials to properly complete the 
 | --- |
 
 ## Ethernet Jack Soldering
+This step focuses on soldering the ethernet jack to the Master Board. The ethernet connection provides the communication interface between the robot and the computer.
+
+| Item | Quantity | 
+| --- | --- |
+| Ethernet Jack | 1 |
+
+Here are the steps for completing this connection:
+| Step Description | Visual | 
+| --- | --- |
+| https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md Figure out exact pin readouts when the board arrives/ take lots of images. | --- |
 
 
 
