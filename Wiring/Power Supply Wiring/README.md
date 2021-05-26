@@ -92,4 +92,4 @@ This step explains the connection from two batteries, mounted on the robot, to e
 | --- | --- |
 | --- | --- |
 
-Asked about on the forum.
+[Asked about on the forum.](https://odri.discourse.group/t/battery-and-push-button-wiring/281). Note: we will wait to complete this section until they complete their custom power board.
