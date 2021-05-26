@@ -19,3 +19,14 @@ We provide instructions for all soldered components on the motors, and the assem
 1. Motor Phase Wires
 
 ## Motor Phase Wires
+This step focuses on soldering all necessary pin headers to the MicroDriver.
+
+| Item | Quantity | 
+| --- | --- |
+| Right Angle Pin Headers | 32 |
+| Right Angle 5Pos Pin Header | 12 |
+
+
+First, we will solder the power terminal connections. Repeat the following steps 4 times (1 time per MicroDriver).
+| Step Description | Visual | 
+| --- | --- |
