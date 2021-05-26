@@ -3,9 +3,10 @@
 
 ## Table of Contents
 1. [Printers](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#printers)
-2. [Front and Side Body Structure Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-post-processing)
-3. [Frame Asembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-assembly)
-4. [Leg Shell Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-post-processing)
+2. [Printing Specifications](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#printing-specifications)
+3. [Front and Side Body Structure Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-post-processing)
+4. [Frame Asembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-assembly)
+5. [Leg Shell Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-post-processing)
 
 ## Printers
 We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
@@ -31,6 +32,9 @@ For all remaining parts we used a Zortrax M200 with HATCHBOX ABS filament.
 | Zortrax M200 | HATCHBOX ABS Filament |
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/119170145-d9c9a700-ba30-11eb-94c2-e50c81143ff6.png) | ![image](https://user-images.githubusercontent.com/84528674/119170186-e5b56900-ba30-11eb-81b7-cdad5b576c3d.png) |
+
+## Printing Specifications
+Please refer to the [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/CAD%20Masterlist/README) documentation on how to print each component, specific quantities, and material.
 
 ## Front and Side Body Structure Post Processing
 ### Materials Masterlist
