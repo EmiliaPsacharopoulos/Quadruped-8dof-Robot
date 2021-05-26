@@ -12,9 +12,7 @@ Q: Do we need to add a disclaimer that we did not make these?
 | [Body Structure Bottom](https://drive.google.com/file/d/1TcWrUG80rmQFGoHcIazRVJeUTKyrpkcs/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119670459-e8d0a080-be06-11eb-9a0e-7c7d028d5711.png) Rotate this piece about 10 degree around the Y-axis to fit it on the TAZ 5 print bed. See note below for more information. | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
 | [Body Structure Front](https://drive.google.com/file/d/1cQph3ps-L9xXNFC0wtSGaIwWTd16UcDj/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119671729-ffc3c280-be07-11eb-8795-88982e432213.png) | 2 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Body Structure Side](https://drive.google.com/file/d/17yKG9k2bR28-L1PMI0hB9-y7fmj4wa3H/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119672080-4addd580-be08-11eb-8069-6ae4eb4f9586.png) Rotate this piece about 42 degrees around the Z-axis to fit it on the TAZ5 print bed. | 2 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
-| [Body Structure Top w/out Vicon Markers](https://drive.google.com/file/d/1Qfa3JeBC8njMlW0-ihEHv6zv7fdEHJtO/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
-| [Body Structure Top w/ Vicon & Roll Bar](https://drive.google.com/file/d/1ueGrpdwfWlEofd3TzwTE14MJHvBVx-VL/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
-| [Body Structure Top w/ Vicon w/out Roll Bar](https://drive.google.com/file/d/1xuQLLik8M11UPqXz9wXXfDQhoO2xgAvL/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
+| [Body Structure Top](https://drive.google.com/file/d/1Qfa3JeBC8njMlW0-ihEHv6zv7fdEHJtO/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119672828-e66f4600-be08-11eb-941b-87f43b5c5e1a.png) Rotate this piece about 10 degree around the Y-axis to fit it on the TAZ 5 print bed. | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
 | [Micro Driver Spacer 12mm](https://drive.google.com/file/d/1mtxiRrq3edmbjlqyoO3MlFc8_GnWyl_b/view?usp=sharing) | Body Structure | 8 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Hip Module Shell Base](https://drive.google.com/file/d/1ewB-fC2noc768g2AQ7QNE1AgCkfmvTlQ/view?usp=sharing) | Leg Module | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Hip Module Shell Cover](https://drive.google.com/file/d/1fG9PfTGhtrrxn5z8KZsaQbVp9Iyr6LO-/view?usp=sharing) | Leg Module | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
@@ -35,3 +33,9 @@ Q: Do we need to add a disclaimer that we did not make these?
 | [Transmission Belt Tension Roller 11mm](https://drive.google.com/file/d/1oReGGAgDlBbKl_YSbqSTBRh59I1F5lJp/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 11.5mm](https://drive.google.com/file/d/1oz3TDCHRlq-C7NCuOZMTf0LuByCKWWXM/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Pulley AT3 t30 Center](https://drive.google.com/file/d/1Nnp1Yz3_WAC9ZJQtrG0jFPc--QS1f0rJ/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
+
+## Optional Prints
+| Part Name and STL Link | Picture & Notes | Quantity | Print type | Printer | Material |
+| --- | --- | --- | --- | --- | --- |
+| [Body Structure Top w/ Vicon & Roll Bar](https://drive.google.com/file/d/1ueGrpdwfWlEofd3TzwTE14MJHvBVx-VL/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
+| [Body Structure Top w/ Vicon w/out Roll Bar](https://drive.google.com/file/d/1xuQLLik8M11UPqXz9wXXfDQhoO2xgAvL/view?usp=sharing) | Body Structure | 1 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
