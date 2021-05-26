@@ -40,8 +40,8 @@ Please refer to the [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/For
 ### Materials Masterlist
 | Item | Quantity |
 | --- | --- |
-| Body Structure Side | 2 |
-| Body Structure Front | 2 |
+| Body Structure Side (3D Print) | 2 |
+| Body Structure Front (3D Print) | 2 |
 | Tap Handle | 1 |
 | Pin Vice | 1 |
 | M3 Helicoil Insert Tool Set | 1 |
@@ -91,8 +91,8 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 ### Materials Masterlist
 | Item | Quantity |
 | --- | --- |
-| Body Structure Bottom | 1 |
-| Body Structure Top | 1 |
+| Body Structure Bottom (3D Print) | 1 |
+| Body Structure Top (3D Print) | 1 |
 | Tap Handle | 1 |
 | Pin Vice | 1 |
 | M2 Tap | 1 |
