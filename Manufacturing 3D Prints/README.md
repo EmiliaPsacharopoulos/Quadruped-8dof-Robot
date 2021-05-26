@@ -230,3 +230,9 @@ Insert the 8x4x2mm and 32x24x4mm bearings into their appropriate loactions by pu
 | Inserting a 8x4x2mm Bearing | Inserting a 32x24x4mm Bearing |
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119700768-9ea8e880-be21-11eb-9260-c41d268247e8.png) | ![image](https://user-images.githubusercontent.com/57100380/119700799-a9637d80-be21-11eb-89ac-918517e736e2.png) |
+
+### Step 8: Assembly
+To check for fits attach the cover shells to the bases with the M2.5 x 6mm and M2.5 x 10 mm socket head screws.
+
+**Note**: The hip and upper leg covers are identical and interchangeable.
+![image](https://user-images.githubusercontent.com/57100380/119701345-3b6b8600-be22-11eb-9ce0-f9b6d134d903.png)
