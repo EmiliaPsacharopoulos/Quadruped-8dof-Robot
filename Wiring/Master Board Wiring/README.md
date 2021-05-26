@@ -14,6 +14,9 @@ You will need all of the following tools and materials to properly complete the 
 | Heat Gun | 1 |
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
+| Hirose DF13 Crimp Tool | 1 |
+
+
 
 ## Table of Contents
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#pin-mapping)
@@ -71,14 +74,26 @@ This step focuses on soldering the header pins to the Master Board. The header p
 Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
-
-**NOTE: they ordered the headers pre-soldered; we may or may not have to do this -- need to wait for the boards to come in**
-https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md
+| **NOTE: they ordered the headers pre-soldered; we may or may not have to do this -- need to wait for the boards to come in**
+https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md | --- |
 
 
 
 ## Micro Driver Connection Cable Assembly
+All four MicroDrivers connect to the Master Board via SPI connections. The wires need to be as short as possible because the SPI bus operates at high frequencies.
+| Item | Quantity | 
+| --- | --- |
+| 26 AWG 5 Pack Wire Kit | **Need to think about positioning on the robot first** |
+| 2.4mm Heat Shrink | ~10 cm |
+| Crimp Terminals | --- |
+| 5Pos Sockets | 8 |
 
+Here are the steps for completing this connection:
+| Step Description | Visual | 
+| --- | --- |
+| https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/details/details_wiring.md#spi-wires | --- |
+| --- | --- |
+| --- | --- |
 
 
 
