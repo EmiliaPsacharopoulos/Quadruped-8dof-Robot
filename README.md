@@ -1,5 +1,5 @@
 # Open Dynamic Torque Initiative
-Github layout first draft.
+GitHub work in progress.
 - 1-2 sentence summary explaining the open dynamic robot initiative
 - State research team (affiliation with UofM)
 
