@@ -16,6 +16,8 @@ You will need all of the following tools and materials to properly complete the 
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
 | Fine Point Tweezer | 1 |
+| Hirose DF13 Crimping Tool | 1 |
+| Fine Point Tweezers | 1 |
 
 ## Table of Contents
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/MicroDriver%20Board%20Wiring#pin-mapping)
@@ -117,6 +119,21 @@ Two encoders will connect per MicroDriver board. Each encoder will have one cabl
 
 | Item | Quantity | 
 | --- | --- |
+| Encoders | 8 |
+| 26 AWG Multi-Colored Wires | **Depends on mounting positions** |
+| Crimp Terminals | 40 |
+| 1.5mm Heat Shrink | ~40 cm |
+| 2.4mm Heat Shrink | ~20 cm |
+| 5Pin Socket Connector | 8 |
+
+https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/details/details_encoder_preparation.md#details-encoder-preparation 
+**This step assumes that the encoders have already been manufactured/modified** First, we need to solder the wires to the encoder. Complete these steps 8 times:
+| Step Description | Visual | 
 | --- | --- |
-| --- | --- |
-| --- | --- |
+| Cut **XYZ** inches of different colored 26 AWG wire. Strip about 1cm of casing from one end of each wire, and twist the exposed wire after each cut.  | --- |
+| **MAKE A WIRING DIAGRAM OF PIN to PIN CONNECTIONS** Solder the wires according to this pin layout. Use 1.5mm heat shrink to secure the connection after each solder. | --- |
+| Use thin strips of 2.4mm heat shrink for wire management, leaving at least 10cm of unbounded wire at the exposed end. | --- |
+| Strip about 0.25cm of wire casing on each of the five exposed wires.  | --- |
+| Use the crimping tool to crimp each wire (to do: insert a lot of details and pictures). | --- |
+| Use tweezers to insert the wires into the 5pin socket connector, making sure to abide by the correct pin to pin connection. | --- |
+
