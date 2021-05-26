@@ -11,7 +11,7 @@ This Table of Contents is presented in order of project completion.
 2. [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/CAD%20Masterlist)
 3. [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Manufacturing%203D%20Prints)
 4. [Wiring](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Wiring)
-5. Mechanical Machining and Assembly
+5. Machining and Assembly
 6. [Firmware Flashing](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Firmware%20Flashing)
 7. [Software](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Software)
 8. [Control Capabilities](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Control%20Capabilities)
