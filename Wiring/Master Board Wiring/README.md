@@ -72,7 +72,7 @@ Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
 
-
+**NOTE: they ordered the headers pre-soldered; we may or may not have to do this -- need to wait for the boards to come in**
 
 
 ## Micro Driver Cable Assembly
