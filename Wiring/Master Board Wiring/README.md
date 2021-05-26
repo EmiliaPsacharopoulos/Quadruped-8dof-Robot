@@ -15,7 +15,7 @@ You will need all of the following tools and materials to properly complete the 
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
 | Hirose DF13 Crimp Tool | 1 |
-
+| Label Maker | 1 |
 
 
 ## Table of Contents
@@ -88,6 +88,7 @@ All four MicroDrivers connect to the Master Board via SPI connections. The wires
 | Crimp Terminals | 40 |
 | 5Pos Sockets | 8 |
 
+
 Your robot frame should be completed before attempting this step. Here are the steps for completing this connection (repeated four times, once per MicroDriver):
 | Step Description | Visual | 
 | --- | --- |
@@ -96,11 +97,11 @@ Your robot frame should be completed before attempting this step. Here are the s
 | Cut the five multi-colored 26 AWG wires to this measurement. Strip off about 0.5cm on each end of the wire. Twist the exposed wire after each strip. | --- |
 | Crimp each exposed wire using the Hirose DF13 crimping tool and the DF13 crimping terminals **add a lot of pictures/explanation here**  | --- |
 | Pick a color orientation. To keep the wire management as simple as possible, use the same color orientation for each SPI wire connection you make. | --- |
-| --- | --- |
-| Cut the 2.4mm heat shrink into very thin slices and use it to neatly bind the wires together. | --- |
-| --- | --- |
-| --- | --- |
+| Cut the 2.4mm heat shrink into very thin slices and use it to neatly bind the wires together, leaving about 3cm unbounded on each end. | --- |
+| Connect each crimped wire end to a 5Pos Socket. | --- |
+| Label the wire. | --- |
 
+**Include wire pin readouts//lots of images of the finished connection**
 
 ## IMU Cable Assembly
 ![image](https://user-images.githubusercontent.com/84528674/119567389-436feb00-bd7a-11eb-857d-8b1f1f965b0b.png)
