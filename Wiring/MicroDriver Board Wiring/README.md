@@ -47,8 +47,7 @@ This step focuses on soldering all necessary pin headers to the MicroDriver.
 | Item | Quantity | 
 | --- | --- |
 | Right Angle Pin Headers | 32 |
-| Right Angle 5Pos Pin Header | 6 |
-| Vertical 5Pos Pin Header | 6 |
+| Right Angle 5Pos Pin Header | 12 |
 
 
 First, we will solder the power terminal connections. Repeat the following steps 4 times (1 time per MicroDriver).
@@ -57,11 +56,10 @@ First, we will solder the power terminal connections. Repeat the following steps
 | Shorten then solder one right angle pin header to each power terminal **name exact pin connection** pin on the MicroDriver | |
 
 
-Lastly, we will solder the 5 position pin headers. The MicroDrivers will be arranged in two stacks of two MicroDrivers. We will give the top MicroDriver in the stacks the vertical pin headers, and the bottom MicroDriver in the stacks the right angle pin headers for better wire management. 
+Lastly, we will solder the 5 position pin headers. The MicroDrivers will be arranged in two stacks of two MicroDrivers. We will give all MicroDrivers right angle 5 position pin headers for ideal wire management.
 | Step Description | Visual | 
 | --- | --- |
-| Designate two MicroDrivers as your top boards in the stack. Solder three vertical 5 position pin headers on each MicroDriver's top side of the board **include images/exact pin readouts** | --- |
-| Take the remaining MicroDrivers to be your bottom boards in the stack. Solder three right angle 5 position pin headers on each MicroDriver's bottom side of the board **include images/exact pin readouts**| --- |
+| Solder three right angle 5 position pin headers on each MicroDriver's bottom side of the board **include images/exact pin readouts**| --- |
 
 
 
