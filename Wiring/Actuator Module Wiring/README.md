@@ -16,3 +16,6 @@ We provide instructions for all soldered components on the motors, and the assem
 | Wire Stripper | 1 |
 
 ## Table of Contents
+1. Motor Phase Wires
+
+## Motor Phase Wires
