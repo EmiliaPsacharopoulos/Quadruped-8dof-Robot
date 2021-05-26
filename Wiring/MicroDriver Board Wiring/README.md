@@ -21,7 +21,7 @@ You will need all of the following tools and materials to properly complete the 
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/MicroDriver%20Board%20Wiring#pin-mapping)
 2. [Resistor Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#resistor-soldering)
 3. [Pin Header Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#pin-header-soldering)
-4. MicroDriver Power Supply Cables
+4. [MicroDriver Power Supply Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#microdriver-power-supply-cables)
 
 
 
