@@ -1,7 +1,7 @@
 # MicroDriver Board Wiring
 [Return to the wiring Table of Contents](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring#table-of-contents)
 
-We provide instructions for all soldered components on the MicroDriver, and the assembly of cables that route to the Master Board from other components in this section.
+We provide instructions for all soldered components on the MicroDriver, and the assembly of the MicroDriver's power cable in this section.
 You will need all of the following tools and materials to properly complete the instructions below:
 
 | Item | Quantity | 
