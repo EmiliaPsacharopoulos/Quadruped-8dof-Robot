@@ -16,7 +16,7 @@ We provide instructions for all soldered components on the motors, and the assem
 | Wire Stripper | 1 |
 
 ## Table of Contents
-1. Motor Phase Wires
+1. [Motor Phase Wires](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Actuator%20Module%20Wiring/README.md#motor-phase-wires)
 
 ## Motor Phase Wires
 This step focuses on soldering all necessary pin headers to the MicroDriver.
