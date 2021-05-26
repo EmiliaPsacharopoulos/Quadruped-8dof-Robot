@@ -10,11 +10,12 @@ This Table of Contents is presented in order of project completion.
 1. [Bill of Materials](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Bill%20of%20Materials)
 2. [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/CAD%20Masterlist)
 3. [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Manufacturing%203D%20Prints)
-4. [Wiring](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Wiring)
-5. [Firmware Flashing](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Firmware%20Flashing)
-6. [Software](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Software)
-7. [Control Capabilities](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Control%20Capabilities)
-8. [Revisions](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Revisions)
+4. Mechanical Preparation
+5. [Wiring](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Wiring)
+6. [Firmware Flashing](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Firmware%20Flashing)
+7. [Software](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Software)
+8. [Control Capabilities](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Control%20Capabilities)
+9. [Revisions](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Revisions)
 
 ## Project Overview
 Paragraphs here: 
