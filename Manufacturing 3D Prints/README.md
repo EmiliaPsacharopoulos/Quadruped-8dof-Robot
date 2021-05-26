@@ -34,7 +34,7 @@ For all remaining parts we used a Zortrax M200 with HATCHBOX ABS filament.
 | ![image](https://user-images.githubusercontent.com/84528674/119170145-d9c9a700-ba30-11eb-94c2-e50c81143ff6.png) | ![image](https://user-images.githubusercontent.com/84528674/119170186-e5b56900-ba30-11eb-81b7-cdad5b576c3d.png) |
 
 ## Printing Specifications
-Please refer to the [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/CAD%20Masterlist/README) documentation on how to print each component, specific quantities, and material.
+Please refer to the [CAD Masterlist](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/CAD%20Masterlist) documentation on how to print each component, specific quantities, and material.
 
 ## Front and Side Body Structure Post Processing
 ### Materials Masterlist
