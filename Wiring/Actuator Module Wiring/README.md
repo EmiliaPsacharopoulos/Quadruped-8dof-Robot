@@ -23,14 +23,26 @@ This step focuses on making the connection between the MicroDriver phase wires a
 
 | Item | Quantity | 
 | --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| 1.5mm Heat Shrink | ~20cm |
+| Brushless Motors | 8 |
+| 26 AWG Multi-Colored Wire | **Dependent on robot component positioning** |
+
+The following will be repeated 8 times, once per stator:
 
 
-First, we will...
+First, we will prepare the stator wiring.
 | Step Description | Visual | 
 | --- | --- |
+| Use wire cutters to carefully remove the heat shrink from the phase wires. (Lots of pictures!!!) | --- |
+| Trim the phase wires to be 3cm from the base of the stator. | --- |
+| Use a soldering iron set at 400 degrees Celsius with a little bit of solder on the tip of the iron to expose about 5mm of silver wire on each wire. | --- |
+| Use the 1.5mm heat shrink to cover up the exposed wire, leaving only a little amount of the gold wire casing showing.  | --- |
+
+Then, we will prepare the extension wires. The length of these wires is dependent on the positioning of the motors on the robot and the distance to the MicroDriver stator wires. 
+
+| Step Description | Visual | 
+| --- | --- |
+| Choose a color scheme for the given stator-Motor Driver connection. We decided to make..  | --- |
 | --- | --- |
 | --- | --- |
 | --- | --- |
