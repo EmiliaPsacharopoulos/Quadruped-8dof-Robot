@@ -23,6 +23,7 @@ You will need all of the following tools and materials to properly complete the 
 3. [Pin Header Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#pin-header-soldering)
 4. [MicroDriver Power Supply Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#microdriver-power-supply-cables)
 5. [MicroDriver Actuator Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#microdriver-actuator-cables)
+6. MicroDriver Encoder Cables
 
 
 
@@ -109,3 +110,13 @@ This is the process of connecting the cables for one MicroDriver board. You will
 | Solder each wire to a right angle pin header on the MicroDriver. Use the 1.5mm heat shrink to cover the connection after each solder. | --- |
 
 
+## MicroDriver Encoder Cables
+This step focuses on soldering the cable connection to the MicroDriver that will eventually connect to each encoder. The 5pin right angle connectors should already be soldered on the MicroDriver from the above instructions. 
+
+Two encoders will connect per MicroDriver board. Each encoder will have one cable. Therefore, we will be making 8 encoder cables. Note: soldering these cables to the encoders will happen 
+
+| Item | Quantity | 
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
