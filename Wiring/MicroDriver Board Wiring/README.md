@@ -15,6 +15,7 @@ You will need all of the following tools and materials to properly complete the 
 | Heat Gun | 1 |
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
+| Fine Point Tweezer | 1 |
 
 ## Table of Contents
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/MicroDriver%20Board%20Wiring#pin-mapping)
@@ -34,7 +35,6 @@ Each MicroDriver board needs 6 resistors soldered on its back.
 | Item | Quantity | 
 | --- | --- |
 | Precision Resistors | 6 |
-| Fine Point Tweezer | 1 |
 
 Record exact pins here (list and include image(s))
 
