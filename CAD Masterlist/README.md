@@ -1,7 +1,7 @@
 # CAD Masterlist
 [Return to the main Table of Contents](https://github.com/EmiliaPsacharopoulos/Formatting#table-of-contents)
 
-Q: Do we need to add a disclaimer that we did not make these?
+
 ## Table of Contents
 1. [Itemized Print Table](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#itemized-print-table)
 2. [Fitting Large Prints on Print Bed](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#fitting-large-prints-on-print-bed)
