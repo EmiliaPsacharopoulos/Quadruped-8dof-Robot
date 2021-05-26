@@ -3,8 +3,9 @@
 
 ## Table of Contents
 1. [Printers](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#printers)
-2. [Front and Side Body Structure Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-manufacturing)
-3. [Leg Shell Manufacturing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-manufacturing)
+2. [Front and Side Body Structure Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-post-processing)
+3. [Frame Asembly] (https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-assembly)
+4. [Leg Shell Post-Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-post-processing)
 
 ## Printers
 We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
@@ -31,7 +32,7 @@ For all remaining parts we used a Zortrax M200 with HATCHBOX ABS filament.
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/119170145-d9c9a700-ba30-11eb-94c2-e50c81143ff6.png) | ![image](https://user-images.githubusercontent.com/84528674/119170186-e5b56900-ba30-11eb-81b7-cdad5b576c3d.png) |
 
-## Front and Side Body Structure Manufacturing 
+## Front and Side Body Structure Post Processing
 ### Materials Masterlist
 | Item | Quantity |
 | --- | --- |
@@ -139,5 +140,5 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 | Bolt Insertion | Assembly with Bottom Piece | Assembly with Top Piece |
 | --- | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119383202-0976ea00-bc91-11eb-9f09-3d71e02a8b94.png) | ![image](https://user-images.githubusercontent.com/57100380/119383263-1bf12380-bc91-11eb-997b-2676b2b3659d.png) | ![image](https://user-images.githubusercontent.com/57100380/119588093-103f5300-bd9e-11eb-9a20-73e80db2d5ba.png) |
-## Leg Shell Manufacturing 
+## Leg Shell Post Processing
 To complete later
