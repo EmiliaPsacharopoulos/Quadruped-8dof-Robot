@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Printers](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#printers)
 2. [Front and Side Body Structure Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-post-processing)
-3. [Frame Asembly] (https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-assembly)
+3. [Frame Asembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-assembly)
 4. [Leg Shell Post-Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-post-processing)
 
 ## Printers
