@@ -82,11 +82,12 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/119173204-f4058400-ba34-11eb-9121-70e96c12558e.png) | ![image](https://user-images.githubusercontent.com/57100380/119373504-7afd6b00-bc86-11eb-8c2f-e1e3261a3678.png) |
 
-## Frame Base Assembly
+## Frame Assembly
 ### Materials Masterlist
 | Item | Quantity |
 | --- | --- |
 | Body Structure Bottom | 1 |
+| Body Structure Top | 1 |
 | Tap Handle | 1 |
 | Pin Vice | 1 |
 | M2 Tap | 1 |
@@ -95,7 +96,7 @@ Use the bolts secure the side pieces to the front pieces. Pay attention to part 
 | 2 mm Drill Bit | 1 |
 | M3 Helicoil Insert Tool Set | 1 |
 | 2.5mm Drill Bit | 1 |
-| Helicoil M3 x 4.5 mm | 9 |
+| Helicoil M3 x 4.5 mm | 17 |
 | M3 x 8 mm Socket Head Cap Screw | 24 |
 | 2.5 mm Hex Wrench | 1 |
 | Needle Nose Plier | 1 |
@@ -113,6 +114,7 @@ To remove supports from the holes, use the pin vice and the 2.5mm drill bit to c
 Follow the previous procedure to insert the M3 4.5mm helicoils according to the following layout:
 
 ![image](https://user-images.githubusercontent.com/57100380/119378982-e21e1e00-bc8c-11eb-99c4-75f5de41c8dc.png)
+![image](https://user-images.githubusercontent.com/57100380/119586768-50510680-bd9b-11eb-95ac-cf8a798702d0.png)
 
 ### Step 3: Tapping Electronics Mounts
 Use the 1.5 mm drill bit with the M2 tap, and 2 mm drill bit with the M2.5 tap to thread holes in the appropriate locations:
