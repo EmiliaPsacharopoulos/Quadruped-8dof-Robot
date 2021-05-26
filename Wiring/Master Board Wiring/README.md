@@ -115,5 +115,7 @@ The IMU connects directly to the Master Board.
 **still need to figure this out -- connection from ribbon to 4pin socket?**
 https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/details/details_wiring.md#imu-wire
 
+May need to purchase a different size ribbon cable - preferably though find a new method for this connection.
+
 ![image](https://user-images.githubusercontent.com/84528674/119567389-436feb00-bd7a-11eb-857d-8b1f1f965b0b.png)
 
