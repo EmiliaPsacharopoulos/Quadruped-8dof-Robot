@@ -94,8 +94,18 @@ Two motor stators will connect per MicroDriver board. Each stator will have thre
 | --- | --- |
 | 20 AWG Multi-Colored Wire | ~240 cm |
 | 2.4mm Heat Shrink | ~40 cm |
+| 2.4mm Heat Shrink | ~40 cm |
+| 1.5mm Heat Shrink | ~40 cm |
+| 2mm Female Gold Connectors | 24 |
 
-This is the process of connecting the cables for just one cable. You will need to repeat these steps 24-times. It is recommended to complete each step individually 24 times before moving onto another step. 
+This is the process of connecting the cables for one MicroDriver board. You will need to complete these steps four times:
 
 | Step Description | Visual | 
 | --- | --- |
+| Choose a color scheme for this MicroDriver's stator wiring. We decided to use a different color for each board that would coordinate with the color scheme for the corresponding stator. | --- |
+| Cut 6: 10cm long, 20AWG wires from this color. Strip about 0.5cm to 1cm on each end of the wire, twisting the exposed wire after each cut.  | --- |
+| Solder one 2mm female gold connector per wire. Use the 2.4mm heat shrink to cover the connection after each solder. | --- |
+| Push a few cm of 1.5mm heat shrink on each wire, and slide the heat shrink to the gold connection side of the wire. (**do not** use the heat gun on this yet). | --- |
+| Solder each wire to a right angle pin header on the MicroDriver. Use the 1.5mm heat shrink to cover the connection after each solder. | --- |
+
+
