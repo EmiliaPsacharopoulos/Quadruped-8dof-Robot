@@ -1,5 +1,7 @@
 # Open Dynamic Torque Initiative
 GitHub work in progress.
+
+From the [Open Dynamic Robot Initiative Entry Point](https://open-dynamic-robot-initiative.github.io/): "This project originated in an effort to build a low cost and low complexity actuator module using brushless motors that can be used to build different types of torque controlled robots with mostly 3D printed and off-the-shelves components"
 - 1-2 sentence summary explaining the open dynamic robot initiative
 - State research team (affiliation with UofM)
 
