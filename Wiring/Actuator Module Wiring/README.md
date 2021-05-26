@@ -19,7 +19,7 @@ We provide instructions for all soldered components on the motors, and the assem
 1. [Motor Phase Wires](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Actuator%20Module%20Wiring/README.md#motor-phase-wires)
 
 ## Motor Phase Wires
-This step focuses on making the connection between the MicroDriver phase wires and the motor.
+This step focuses on making the connection between the MicroDriver phase wires and the motor. https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/details/details_motor_preparation.md#details-motor-preparation
 
 | Item | Quantity | 
 | --- | --- |
@@ -42,7 +42,7 @@ Then, we will prepare the extension wires. The length of these wires is dependen
 
 | Step Description | Visual | 
 | --- | --- |
-| Choose a color scheme for the given stator-Motor Driver connection. We decided to make..  | --- |
-| --- | --- |
-| --- | --- |
+| Choose a color scheme for the given stator-Motor Driver connection. We decided to make each MicroDriver's phase connection a distinct color for easier wire management. | --- |
+| Measure the required cable length from the stator placement to the MicroDriver placement on your robot. Add about 6 inches to that length. For example, we measured **XYZ** inches and therefore **XYZ + 6** inches was our final length. | --- |
+| Cut three lengths of this measurement in the designated color from the 26 AWG wire. Strip about 0.5cm to 1cm of wire casing on one end of each of the three wires, twisting the exposed wire after each strip. | --- |
 | --- | --- |
