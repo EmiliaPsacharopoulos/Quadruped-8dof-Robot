@@ -173,7 +173,7 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 | Tap Handle | 1 |
 
 ### Step 1: Prepare 3D Printed Parts
-First remove supports and check that the shell modules sit flat on a table:
+First use the needle nose pliers and file set to remove supports and check that the shell modules sit flat on a table:
 | Hip Module Base | Hip Module Cover |
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119695653-6652db80-be1c-11eb-83b5-354d6e8afd62.png) | ![image](https://user-images.githubusercontent.com/57100380/119695712-74a0f780-be1c-11eb-8949-3b9a31057c04.png) |
@@ -218,8 +218,15 @@ Use the 8mm and 32mm end mills along with the pin vice or table-top vice to manu
 
 ![image](https://user-images.githubusercontent.com/57100380/119699240-ef1f4680-be1f-11eb-8e7d-0387a1bae135.png)
 
-**Pro tip**: I found it easiest to clear out all the holes by hand (this gave me the most control and limited mistakes). Also, for the 32mm holes I secured the end mill in the vice and rotated the part around the cutter by hand. This step takes some practice, so take it slow and be careful. You could potentially do this step in an actual mill of drill press, but putting the 3D print in a vice will likely damage it and the cutter will have a tendency to pull it up and out of the vice. Thus, I strongly suggest you do this by hand.
+**Pro tip**: I found it easiest to clear out all the holes by hand (this gave me the most control and limited mistakes). Also, for the 32mm holes I secured the end mill in the vice and rotated the part around the cutter by hand. This step takes some practice, so take it slow and be careful. You could potentially do this step in an actual mill or drill press, but putting the 3D print in a vice will likely damage it and the cutter will have a tendency to pull it up and out of the vice. Thus, I strongly suggest you do this by hand.
 
 | 32mm End Mill Clearing | 8mm End Mill Clearing |
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119699940-ad42d000-be20-11eb-8a59-0746588a840d.png) | ![image](https://user-images.githubusercontent.com/57100380/119699972-b633a180-be20-11eb-95ec-e1b7aeb8f277.png) |
+
+## Step 7: Seating the Bearings
+Insert the 8x4x2mm and 32x24x4mm bearings into their appropriate loactions by pushing evenly along the edge with your fingers. Be carefull not to crack the print during this process. You can use the needle nose pliears to clean out any remaining material blocking the bearing from seating properly.
+
+| Inserting a 8x4x2mm Bearing | Inserting a 32x24x4mm Bearing |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119700768-9ea8e880-be21-11eb-9260-c41d268247e8.png) | ![image](https://user-images.githubusercontent.com/57100380/119700799-a9637d80-be21-11eb-89ac-918517e736e2.png) |
