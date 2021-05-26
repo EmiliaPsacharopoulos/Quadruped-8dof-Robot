@@ -145,4 +145,21 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 | --- | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119383202-0976ea00-bc91-11eb-9f09-3d71e02a8b94.png) | ![image](https://user-images.githubusercontent.com/57100380/119383263-1bf12380-bc91-11eb-997b-2676b2b3659d.png) | ![image](https://user-images.githubusercontent.com/57100380/119588093-103f5300-bd9e-11eb-9a20-73e80db2d5ba.png) |
 ## Leg Shell Post Processing
-To complete later
+### Materials Masterlist
+| Item | Quantity |
+| --- | --- |
+| Hip Module Shell Base | 4 |
+| Hip Module Shell Cover | 4 |
+| Upper Leg Module Shell Base | 4 |
+| Upper Leg Module Shell Cover | 4 |
+| 2.5mm Drill Bit | 1 |
+| 3mm Drill Bit | 1 |
+| M3 Tap | 1 |
+| M2.5 Helicoil Insert Tool Set | 1 |
+| Helicoil M2.5 x 3.8mm | 64 |
+| M3 Helicoil Insert Tool Set | 1 |
+| Helicoil M3 x 6mm | 8 |
+| 8mm End Mill | 1 |
+| 32mm End Mill | 1 |
+| 32mm x 25mm x 4mm bearing | 16 |
+| 8mm x 4mm x 2mm bearing | 24 |
