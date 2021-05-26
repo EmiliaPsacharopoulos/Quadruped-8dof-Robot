@@ -46,7 +46,15 @@ Here are the steps for completing this connection:
 
 
 ## LED Soldering
+This step focuses on soldering the LEDs to the Master Board. These multicolored LEDs serve as a status indication for the Master Board during usage.
+| Item | Quantity | 
+| --- | --- |
+| Neo Pixel LED | 2 |
 
+Here are the steps for completing this connection:
+| Step Description | Visual | 
+| --- | --- |
+| https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md Figure out exact pin readouts when the board arrives/ take lots of images. | --- |
 
 
 ## Header Pin Soldering
