@@ -57,7 +57,21 @@ Here are the steps for completing this connection:
 | https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md Figure out exact pin readouts when the board arrives/ take lots of images. | --- |
 
 
+
 ## Header Pin Soldering
+This step focuses on soldering the header pins to the Master Board. The header pins are necessary for the other components on the robot to connect to the Master Board.
+| Item | Quantity | 
+| --- | --- |
+| Vertical 2Pos Header| 1 |
+| Vertical 3Pos Header| 1 |
+| Vertical 4Pos Header| 1 |
+| Vertical 5Pos Header| 9 |
+| Vertical 6Pos Header| 1 |
+
+Here are the steps for completing this connection:
+| Step Description | Visual | 
+| --- | --- |
+
 
 
 
