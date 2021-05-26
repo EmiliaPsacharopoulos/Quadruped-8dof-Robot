@@ -22,6 +22,7 @@ You will need all of the following tools and materials to properly complete the 
 2. [Resistor Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#resistor-soldering)
 3. [Pin Header Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#pin-header-soldering)
 4. [MicroDriver Power Supply Cables](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#microdriver-power-supply-cables)
+5. MicroDriver Actuator Cables
 
 
 
@@ -83,4 +84,7 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 | Cut thin strips of 2.4mm heat shrink, and apply heat to attach them about 5cm apart on each power chord for better wire management. | |
 | Strip about 0.5cm to 1cm of the wiring casing of a power chord, twist the exposed wire, then solder the power chord to the corresponding positive or negative right angle pin header from the Pin Header Soldering step. Apply heat shrink from the XT30 pack after each solder. | |
 
+
+
+## MicroDriver Actuator Cables
 
