@@ -19,14 +19,18 @@ We provide instructions for all soldered components on the motors, and the assem
 1. [Motor Phase Wires](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Actuator%20Module%20Wiring/README.md#motor-phase-wires)
 
 ## Motor Phase Wires
-This step focuses on soldering all necessary pin headers to the MicroDriver.
+This step focuses on making the connection between the MicroDriver phase wires and the motor.
 
 | Item | Quantity | 
 | --- | --- |
-| Right Angle Pin Headers | 32 |
-| Right Angle 5Pos Pin Header | 12 |
+| --- | --- |
+| --- | --- |
+| --- | --- |
 
 
-First, we will solder the power terminal connections. Repeat the following steps 4 times (1 time per MicroDriver).
+First, we will...
 | Step Description | Visual | 
+| --- | --- |
+| --- | --- |
+| --- | --- |
 | --- | --- |
