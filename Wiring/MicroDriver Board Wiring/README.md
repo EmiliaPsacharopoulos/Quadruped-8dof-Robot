@@ -21,11 +21,23 @@ You will need all of the following tools and materials to properly complete the 
 2. [Resistor Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#resistor-soldering)
 3. [Pin Header Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/MicroDriver%20Board%20Wiring/README.md#pin-header-soldering)
 
+
+
 ## Pin Mapping
 ![image](https://user-images.githubusercontent.com/84528674/119568992-263c1c00-bd7c-11eb-98b3-80b87083d7d5.png)
 
-## Resistor Soldering
 
+
+## Resistor Soldering
+Each MicroDriver board needs 6 resistors soldered on its back. 
+| Item | Quantity | 
+| --- | --- |
+| Precision Resistors | 6 |
+| Fine Point Tweezer | 1 |
+
+Record exact pins here (list and include image(s))
+
+Include images documenting the soldering process.
 
 ## Pin Header Soldering
 Note: remove the pin soldering instructions in the power chord section, or just route to that instead.
