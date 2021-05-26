@@ -104,5 +104,13 @@ Your robot frame should be completed before attempting this step. Here are the s
 **Include wire pin readouts//lots of images of the finished connection**
 
 ## IMU Cable Assembly
+The IMU connects directly to the Master Board. 
+| Item | Quantity | 
+| --- | --- |
+| Ribbon Cable | **Need to think about positioning on the robot first** |
+| 10Pin Rectangular Connector | 1 |
+| 4Pin Socket | 1 |
+| 2.4mm Heat Shrink | ~10cm |
+
 ![image](https://user-images.githubusercontent.com/84528674/119567389-436feb00-bd7a-11eb-857d-8b1f1f965b0b.png)
 
