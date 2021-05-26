@@ -209,4 +209,17 @@ Use the previous procedure and the M3 Helicoil Insert Tool Set to insert M3 x 6m
 | Hip vs. Upper Leg Base Pieces |
 | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119698266-132e5800-be1f-11eb-92b2-1b3ddb579150.png)
-The top leg assembly shows the upper leg base piece with no hole on the left end. The bottom leg assembly shows the hip module base piece with a hole on the left end |
+The top leg assembly shows the upper leg base piece with no hole on the left end. The bottom leg assembly shows the hip module base piece with a hole on the left end. |
+
+### Step 6: Clearning Bearing Locations
+Use the 8mm and 32mm end mills along with the pin vice or table-top vice to manually clear out extra material in the bearing locations.
+
+**Caution**: Be careful not to take out any material not highlighted in yellow:
+
+![image](https://user-images.githubusercontent.com/57100380/119699240-ef1f4680-be1f-11eb-8e7d-0387a1bae135.png)
+
+**Pro tip**: I found it easiest to clear out all the holes by hand (this gave me the most control and limited mistakes). Also, for the 32mm holes I secured the end mill in the vice and rotated the part around the cutter by hand. This step takes some practice, so take it slow and be careful. You could potentially do this step in an actual mill of drill press, but putting the 3D print in a vice will likely damage it and the cutter will have a tendency to pull it up and out of the vice. Thus, I strongly suggest you do this by hand.
+
+| 32mm End Mill Clearing | 8mm End Mill Clearing |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119699940-ad42d000-be20-11eb-8a59-0746588a840d.png) | ![image](https://user-images.githubusercontent.com/57100380/119699972-b633a180-be20-11eb-95ec-e1b7aeb8f277.png) |
