@@ -17,7 +17,7 @@ You will need all of the following tools and materials to properly complete the 
 | Wire Stripper | 1 |
 | Fine Point Tweezer | 1 |
 | Hirose DF13 Crimping Tool | 1 |
-| Fine Point Tweezers | 1 |
+
 
 ## Table of Contents
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/MicroDriver%20Board%20Wiring#pin-mapping)
