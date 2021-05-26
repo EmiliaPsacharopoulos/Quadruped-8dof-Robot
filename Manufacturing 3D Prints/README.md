@@ -171,3 +171,15 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 | File Set | 1 |
 | Pin Vice | 1 |
 | Tap Handle | 1 |
+
+### Step 1: Prepare 3D Printed Parts
+First remove supports and check that the shell modules sit flat on a table:
+| Hip Module Base | Hip Module Cover |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119695653-6652db80-be1c-11eb-83b5-354d6e8afd62.png) | ![image](https://user-images.githubusercontent.com/57100380/119695712-74a0f780-be1c-11eb-8949-3b9a31057c04.png) |
+
+**Pro Tip**: Some of the supports are difficult to remove and you may damage the parts or seperate the layers during this process. If so, use the 406 Loctite to repare damages areas or consider reprinting.
+
+| Damaged Print |
+| --- |
+| ![image](https://user-images.githubusercontent.com/57100380/119696274-0577d300-be1d-11eb-9a30-839be015743b.png) |
