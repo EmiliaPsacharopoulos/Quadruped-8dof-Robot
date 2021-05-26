@@ -87,9 +87,15 @@ Repeat the following steps 4 times (1 time per MicroDriver)
 ## MicroDriver Actuator Cables
 This step focuses on soldering the cable connection to the MicroDriver that will eventually connect to each motor stator. The right angle connectors should already be soldered on the MicroDriver from the above instructions. 
 
-Two motor stators will connect per MicroDriver board. Each stator will have three phase wires. Therefore, we will be making 6 actuator cables per MicroDriver board.
+Two motor stators will connect per MicroDriver board. Each stator will have three phase wires. Therefore, we will be making six actuator cables per MicroDriver board. There will roughly be 10 cm per actuator cable, and 24 cables.
+
 
 | Item | Quantity | 
 | --- | --- |
-| 20 AWG Black Wire | 80 cm |
+| 20 AWG Multi-Colored Wire | ~240 cm |
 | 2.4mm Heat Shrink | ~40 cm |
+
+This is the process of connecting the cables for just one cable. You will need to repeat these steps 24-times. It is recommended to complete each step individually 24 times before moving onto another step. 
+
+| Step Description | Visual | 
+| --- | --- |
