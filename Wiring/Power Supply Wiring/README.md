@@ -37,16 +37,17 @@ This step explains the connection from two external power supplies to each of th
 | Cable Gland | 1 | 
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
-| XT30 Male Connectors | 8 |
+| XT30 Male Connectors | 6 |
 | 2-Channel Wire Splice Connectors | 4 | 
 | 2.4mm Heat Shrink | ~20 cm |
+| 1.5mm Heat Shrink | ~6 cm |
 
 ### Preparing the Main Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| Cut two 8 inch sections of the red 18 AWG wire. Strip about 1cm on every end, twisting the exposed wire after each strip.  | --- |
+| Cut one 20 inch section of the black 18 AWG wire. Strip about 1cm on every end, twisting the exposed wire after each strip. | --- |
+| Solder a red and the black wire to an XT30 male connector, using the 1.5mm heat shrink after each solder. Pay attention to the positive and negative indications. | --- |
 | Connect an XT30 male connector to the XT30 female connector in the XT30 female to 4mm banana cable connection | --- |
 
 ### Routing the Main Power Wires through the E-Stop Switch
