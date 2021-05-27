@@ -1,5 +1,7 @@
 # E-Stop Switch Machining
 
+[Return to the machining table of contents.]
+
 The E-Stop Switch needs to modified before you can insert its cable glands. The following table outlines the tools and materials you will need to complete this step.
 
 | Item | Quantity |
