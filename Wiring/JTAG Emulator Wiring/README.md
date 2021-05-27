@@ -59,8 +59,8 @@ Follow the following steps to make the adapter. Note: we elected to use individu
 | Solder a separated 2.54mm pitch vertical pin header on each of the 7 exposed wires of the cable assembled above. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. | --- |
 | Orient the wires on the JTAG emulator connection according to the pin readouts in the Pin Mapping section above. Be extremely careful to map between the MicroDriver and the JTAG. | --- |
 | Slide a 2cm strip of the 2.4mm heat shrink as far forward on the JTAG side as possible. Carefully use the heat gun on the other three strips (2cm each) of the 2.4mm heat shrink to bind the connection. It is important to leave at least a few centimeters unbounded at the JTAG end. | --- |
-| Cut about 4cm of the 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. | --- |
+| We will now make the bridge wire. Cut about 4cm of the 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. | --- |
 | Solder a 2.54mm pitch vertical pin header to each end. | --- |
-| --- | --- |
-| --- | --- |
+| Cover the entire wire with 1.5mm heat shrink, and use the heat gun to bind the connections. | --- |
+| Orient this bridge wire on the JTAG emulator as according to the pin readouts in the Pin Mapping section above. | --- |
 | --- | --- |
