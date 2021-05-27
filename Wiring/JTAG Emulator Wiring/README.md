@@ -20,7 +20,25 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## Table of Contents
-1. [Flashing Wire](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#flashing-wire)
+1. [Pin Mapping]
+2. [Flashing Wire](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#flashing-wire)
+
+## Pin Mapping
+**REPLACE WITH OUR OWN IMAGES**
+![image](https://user-images.githubusercontent.com/84528674/119844406-67484380-bed6-11eb-8c5e-64900b046b1f.png)
+
+
 
 ## Flashing Wire
 
+This step focuses on making the flashing wire between the JTAG and a MicroDriver.
+
+| Item | Quantity | 
+| --- | --- |
+| EMULATOR JTAG XDS100V2 USB | 1 |
+| Vertical Header 8Pos 1.27mm | 14 |
+| 26 AWG Wire | **FILL IN LATER** |
+
+The JTAG Emulator comes with an adapter cable from the 
+| Step Description | Visual | 
+| --- | --- |
