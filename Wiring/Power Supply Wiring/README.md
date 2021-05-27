@@ -1,6 +1,8 @@
 # Power Supply Wiring
 [Return to the wiring Table of Contents](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring#table-of-contents)
 
+**NOTE: remove the banana plugs from the BOM**
+
 The robot can be powered by one of two methods: 
 - External power supply
 - Batteries on the robot
@@ -29,27 +31,28 @@ You will need all of the following tools and materials to properly complete the 
 This step explains the connection from two external power supplies to each of the two MicroDriver stacks. The supply source is routed through an E-Stop switch. The following table lists the necessary tools, parts, and materials to complete this step. 
 | Item | Quantity | 
 | --- | --- |
-| Banana Plugs | 2 pairs |
+| XT30 Female Connector to 4mm Banana Plug Cable | 4 cables |
 | Braided Cable Sleeve | 10 m |
 | E-Stop Switch | 1 |
 | Cable Gland | 1 | 
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
-| XT30 Male Connectors | 4 |
+| XT30 Male Connectors | 8 |
 | 2-Channel Wire Splice Connectors | 4 | 
 | 2.4mm Heat Shrink | ~20 cm |
 
 ### Preparing the Main Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Choose your desired length from the power source to the E-Stop switch. Add **XYZ** inches to that length. Cut two sections of that total length from the red and black 18 AWG wires. We decided to have **XYZ** inches between the power supply and E-Stop Switch, so we cut **XYZ + XYZ** inches from our red and black wires twice. We will refer to these four wires as main power wires. | --- |
-| Strip off 1cm of wire casing from one end of each of the main power wires. Twist the exposed wire after each strip. | --- |
-| Attach the ends of the red main power wires to the red banana plugs and the ends of the black main power wires to the black banana plugs. This end is complete; it serves as the connection to the power supply. | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| Connect an XT30 male connector to the XT30 female connector in the XT30 female to 4mm banana cable connection | --- |
 
 ### Routing the Main Power Wires through the E-Stop Switch
 | Step Description | Visual | 
 | --- | --- |
-| Screw on the cable gland to the E-Stop switch. | --- |
+| This step assumes that you have prepared the E-Stop Switch from the Machining tab. | --- |
 | ??? | --- |
 | --- | --- |
 
