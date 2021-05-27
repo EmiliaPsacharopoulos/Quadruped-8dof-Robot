@@ -30,6 +30,7 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## Pin Mapping
+**REPLACE WITH OUR OWN IMAGE**
 ![image](https://user-images.githubusercontent.com/84528674/119568992-263c1c00-bd7c-11eb-98b3-80b87083d7d5.png)
 
 
