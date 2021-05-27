@@ -20,7 +20,7 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## Table of Contents
-1. [Pin Mapping]
+1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/JTAG%20Emulator%20Wiring/README.md#pin-mapping)
 2. [Flashing Wire](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#flashing-wire)
 
 ## Pin Mapping
