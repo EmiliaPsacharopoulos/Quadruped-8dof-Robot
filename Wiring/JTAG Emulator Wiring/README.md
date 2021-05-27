@@ -23,6 +23,4 @@ You will need all of the following tools and materials to properly complete the 
 1. [Flashing Wire](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#flashing-wire)
 
 ## Flashing Wire
-Note: Same problem/confusion with the ribbon cable as the IMU connection -- the JTAG comes with a flashing adapter but it does not have the proper pins to connect to the MicroDrivers -- need to experiment with connections. Try to find an easier workaround than using the ribbon cable/making our own wire (tedious).
 
-https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/micro_driver_electronics/README.md#flashing
