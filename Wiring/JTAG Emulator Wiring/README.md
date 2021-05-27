@@ -27,11 +27,14 @@ You will need all of the following tools and materials to properly complete the 
 **INSERT PIN READOUTS**
 ![IMG_3848](https://user-images.githubusercontent.com/84528674/119847684-30276180-bed9-11eb-9b2a-64afcdeaa6c6.jpg)
 
+**REPLACE THIS IMAGE**
 ![image](https://user-images.githubusercontent.com/84528674/119844406-67484380-bed6-11eb-8c5e-64900b046b1f.png)
 
 
 
 ## Flashing Wire
+
+**NOTE**: We may need larger diameter heat shrink. Also, it would be prefered to find a bead to place on these headers to avoid snapping the connections while soldering the wires. Also, we need to confirm the wire gauge as 26 AWG.
 
 This step focuses on making the flashing wire between the JTAG and a MicroDriver. The JTAG Emulator comes with an adapter cable from the flash cable connection on the Emulator side. We will not be using this adapter because we want to keep the connection as short as possible (about 10cm). 
 
@@ -63,4 +66,4 @@ Follow the following steps to make the adapter. Note: we elected to use individu
 | Solder a 2.54mm pitch vertical pin header to each end. | --- |
 | Cover the entire wire with 1.5mm heat shrink, and use the heat gun to bind the connections. | --- |
 | Orient this bridge wire on the JTAG emulator as according to the pin readouts in the Pin Mapping section above. | --- |
-| --- | --- |
+| Slide the remaining 2.4mm heat shrink strip forward to cover as much of the connection as possible. | --- |
