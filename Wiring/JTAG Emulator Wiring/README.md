@@ -34,7 +34,7 @@ You will need all of the following tools and materials to properly complete the 
 
 ## Flashing Wire
 
-**NOTE**: We may need larger diameter heat shrink. Also, it would be prefered to find a bead to place on these headers to avoid snapping the connections while soldering the wires. Also, we need to confirm the wire gauge as 26 AWG.
+**NOTE**: We may need larger diameter heat shrink. Also, it would be prefered to find a [bead](https://www.instructables.com/Solder-Headers-to-WireWithout-the-Hassle/) to place on these headers to avoid snapping the connections while soldering the wires. Also, we need to confirm the wire gauge as 26 AWG.
 
 This step focuses on making the flashing wire between the JTAG and a MicroDriver. The JTAG Emulator comes with an adapter cable from the flash cable connection on the Emulator side. We will not be using this adapter because we want to keep the connection as short as possible (about 10cm). 
 
