@@ -39,7 +39,7 @@ This step focuses on making the flashing wire between the JTAG and a MicroDriver
 | --- | --- |
 | EMULATOR JTAG XDS100V2 USB | 1 |
 | Vertical Header 8Pos 1.27mm | 1 |
-| 26 AWG Wire | **FILL IN LATER** |
+| Multi-Colored 26 AWG Wire Spool | **FILL IN LATER** |
 | 2.54mm Pitch Vertical Pin Headers | 13 |
 | 1.5mm Heat Shrink | ~10cm |
 | 2.4mm Heat Shrink | ~10cm |
@@ -49,6 +49,10 @@ Follow the following steps to make the adapter. Note: we elected to use individu
 
 | Step Description | Visual | 
 | --- | --- |
-| Repeat the following 8 times: Cut **XYZ**cm of 26 AWG wire from the color of your choice. Strip both ends of the wire, twisting the exposed wire after each strip. | --- |
+| Repeat the following 8 times: Cut **XYZ**cm of multi-colored 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. | --- |
 | Separate the 8Pos 1.27mm vertical headers into 8 pieces by gently breaking the connecting plastic. This will make the soldering process much easier. | --- |
+| Solder 7 wires to 7 8Pos 1.27mm vertical headers. Use the 1.5mm heat shrink after each solder to carefully cover the connection. | --- |
+| Orient the wires in the MicroDriver pin connection. It would be helpful to avoid placing repeated colors next to each other. (**include pin readouts and images**) | --- |
+| Carefully slide the 2.4mm heat shrink to cover directly over the connection. Be extremely careful while using the heat gun to avoid applying heat directly on the MicroDriver board. | --- |
+| --- | --- |
 | --- | --- |
