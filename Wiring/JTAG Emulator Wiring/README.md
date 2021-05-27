@@ -55,6 +55,12 @@ Follow the following steps to make the adapter. Note: we elected to use individu
 | Orient the wires in the MicroDriver pin connection. It would be helpful to avoid placing repeated colors next to each other. (**include pin readouts and images**) | --- |
 | Carefully slide the 2.4mm heat shrink to cover directly over the connection. Be extremely careful while using the heat gun to avoid applying heat directly on the MicroDriver board. | --- |
 | Separate 9 of the 2.54mm pitch vertical pin headers by gently breaking the connecting plastic. This will make the soldering process much easier. | --- |
-| Slide 5 strips (2cm each) of the 2.4mm heat shrink over all of the wires and place these strips at the MicroDriver end. Then, slide about 3cm of 1.5mm heat shrink over each individual wire, also placing this as far as possible from the exposed end. Do not use the heat gun yet, this will be done in later steps. | --- |
+| Slide 4 strips (2cm each) of the 2.4mm heat shrink over all of the wires and place these strips at the MicroDriver end. Then, slide about 3cm of 1.5mm heat shrink over each individual wire, also placing this as far as possible from the exposed end. Do not use the heat gun yet, this will be done in later steps. | --- |
 | Solder a separated 2.54mm pitch vertical pin header on each of the 7 exposed wires of the cable assembled above. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. | --- |
-| Solder 4 of the 2cm strips of the  2.4mm heat shrink  | --- |
+| Orient the wires on the JTAG emulator connection according to the pin readouts in the Pin Mapping section above. Be extremely careful to map between the MicroDriver and the JTAG. | --- |
+| Slide a 2cm strip of the 2.4mm heat shrink as far forward on the JTAG side as possible. Carefully use the heat gun on the other three strips (2cm each) of the 2.4mm heat shrink to bind the connection. It is important to leave at least a few centimeters unbounded at the JTAG end. | --- |
+| Cut about 4cm of the 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. | --- |
+| Solder a 2.54mm pitch vertical pin header to each end. | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
