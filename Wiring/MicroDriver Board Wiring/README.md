@@ -98,7 +98,6 @@ Two motor stators will connect per MicroDriver board. Each stator will have thre
 | --- | --- |
 | 20 AWG Multi-Colored Wire | ~240 cm |
 | 2.4mm Heat Shrink | ~40 cm |
-| 2.4mm Heat Shrink | ~40 cm |
 | 1.5mm Heat Shrink | ~40 cm |
 | 2mm Female Gold Connectors | 24 |
 
