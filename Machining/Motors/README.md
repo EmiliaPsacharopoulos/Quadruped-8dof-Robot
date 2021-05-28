@@ -41,9 +41,10 @@ Here is the procedure to machine the brushless motor stators. Repeat eight times
 | Use wire cutters to remove the large heat shrink. | --- |
 | Use wire cutters at an angle to strip a centimeter or so from the phase wire casing.  | --- |
 | Grab the wire with the small pliers while stripping away the wire casing with your fingers. | --- |
-| Pull off the wire casing. | --- |
+| Pull off the wire casing with your fingers. | --- |
 | Trim the exposed wires down to 3cm for all stators **except for the Hip AA motors** | --- |
 | Use a soldering iron at about 400 degrees Celsius with a little solder on the tip of the iron to melt about 5mm of insulation on each wire. | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| Trim about 2.5cm of 1.5mm heat shrink and use a heat gun on each individual phase wire (leaving the exposed wire without insulation). | --- |
+
+
+
