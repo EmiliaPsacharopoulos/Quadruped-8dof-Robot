@@ -7,7 +7,7 @@
 1. [E-Stop Switch](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Machining/E-Stop%20Switch#e-stop-switch-machining)
 2. [Encoders](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Machining/Encoders#machining-encoders)
 3. [Motors](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Machining/Motors#machining-motors)
-4. [Motor Shafts]()
+4. [Motor Shafts](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Machining/Motor%20Shafts#motor-shafts)
 5.  Center Pulleys
 6.  Output Pulleys
 
