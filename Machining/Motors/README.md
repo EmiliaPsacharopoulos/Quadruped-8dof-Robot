@@ -15,7 +15,7 @@ Here is the procedure to machine the brushless motors. Repeat eight times (once 
 
 | Step Description | Visual | 
 | --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| Remove and discard the retaining ring with small pliers. | --- |
+| Place the brass washer and rotor on a clean surface free of metal particles. | --- |
+| Remove the  | --- |
 | --- | --- |
