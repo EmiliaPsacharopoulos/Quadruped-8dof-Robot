@@ -59,6 +59,8 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 | This step assumes that you have prepared the E-Stop Switch from the Machining tab. | ![image](https://user-images.githubusercontent.com/84528674/119998397-a93cbc80-bf9e-11eb-9e2d-5264b6bb1b21.png) |
 | Thread the black 20 inch wire through the E-Stop glands (it will not connect to anything inside). | ![image](https://user-images.githubusercontent.com/84528674/120001776-21f14800-bfa2-11eb-8a50-aea53c0fc22f.png) |
 | Use a screwdriver to open the **NC** side of the switch. Carefully push the **red** exposed wire from the **power side** of the cable that we just created through the cable gland then into the **NC** side of the switch. Close the switch afterward such that the wire does not budge if tugged. | ![image](https://user-images.githubusercontent.com/84528674/120002993-51548480-bfa3-11eb-826a-42cef21c54f0.png) |
+| Use a screwdriver to open the other side of the switch. Carefully push the other red exposed wire that we made in previous steps through the other cable gland and into the switch. Close the switch afterward such that the wire does not budge if tugged. Snap the switch in place on one of the far end connectors (leaving the middle open). | ![image](https://user-images.githubusercontent.com/84528674/120003856-20288400-bfa4-11eb-9359-319f4c13ae5e.png) |
+
 
 ### Preparing the Sub Power Wires
 | Step Description | Visual | 
