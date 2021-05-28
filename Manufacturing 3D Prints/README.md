@@ -243,3 +243,27 @@ To check for fits attach the cover shells to the bases with the M2.5 x 6mm and M
 Note: At this stage you will **NOT** have the motors or pulleys attached as shown in the CAD |
 
 ## Output Pulley Preperation
+### Materials Masterlist
+| Item | Quantity |
+| --- | --- |
+| Transmission Pulley AT3 T30 Output | 8 |
+| M3 Helicoil Insert Tool Set | 1 |
+| Helicoil M3 x 6mm | 16 |
+| 32mm x 25mm x 4mm Bearing | 1 |
+| Needle Nose Pliers | 1 |
+| File Set | 1 |
+| Pin Vice | 1 |
+| Hand Countersink Tool | 1 |
+
+### Step 1: Prepare 3D print
+Use the file set and pliers to remove supports (you can file down any bumps left from the supports on cirtical surfaces).
+
+The pulley bearing face is oversized and needs to be brought down to the size of the 32mm x 25mm x 4mm bearing internal diameter. This can be done on a lathe using a 25mm collet, but the following procedure is how we were able to bring it down to size without a lathe.
+
+Keep the pulley oriented as follows:
+
+![image](https://user-images.githubusercontent.com/57100380/120026797-9b982e80-bfc0-11eb-96a7-2869bba220b9.png)
+
+| Description | Image |
+| --- | --- |
+| Use the contersink tool to cut a small countersink into the pulley holes | pic |
