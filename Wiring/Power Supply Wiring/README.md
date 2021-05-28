@@ -46,10 +46,11 @@ This step explains the connection from two external power supplies to each of th
 ### Preparing the Main Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Cut two 8 inch sections of the red 18 AWG wire. Strip about 1cm on every end, twisting the exposed wire after each strip.  | --- |
+| Cut two 8 inch sections of the red 18 AWG wire. Strip about 1cm on every end, twisting the exposed wire after each strip.  | ![image](https://user-images.githubusercontent.com/84528674/119999298-9676b780-bf9f-11eb-84d9-6db2791f4168.png) |
 | Cut one 20 inch section of the black 18 AWG wire. Strip about 1cm on every end, twisting the exposed wire after each strip. | --- |
-| Solder a red and the black wire to an XT30 male connector, using the 1.5mm heat shrink after each solder. Pay attention to the positive and negative indications. | --- |
-| Connect an XT30 male connector to the XT30 female connector in the XT30 female to 4mm banana cable connection | --- |
+| Solder a red and the black wire to an XT30 male connector, using the 1.5mm heat shrink after each solder. Pay attention to the positive and negative indications. |  ![image](https://user-images.githubusercontent.com/84528674/119999166-6fb88100-bf9f-11eb-95ce-5c38bfd25464.png) |
+| Connect an XT30 male connector to the XT30 female connector in the XT30 female to 4mm banana cable connection | ![image](https://user-images.githubusercontent.com/84528674/119999478-caea7380-bf9f-11eb-952e-5b1c5cbb6510.png)
+ |
 
 ### Routing the Main Power Wires through the E-Stop Switch
 | Step Description | Visual | 
