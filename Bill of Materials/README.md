@@ -138,7 +138,15 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
 | Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
 | Label Tape | DYMO LabelManager 160 | Amazon B07BKY9HW8 | 1 |
-| Soldering Vise | Neiko 01902 | Amazon B000P42O3C | 1 |
+| Soldering Iron | 1 |
+| Solder Spool | 1 |
+| Solder Holder | 1 |
+| Soldering Vise | 1 |
+| Cleaning Sponge | 1 |
+| Filter Fan | 1 |
+| Wire Cutter | 1 |
+| Wire Stripper | 1 |
+| Fine Point Tweezer | 1 |
 
 
 ## Tools for Manufacturing 
