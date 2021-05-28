@@ -18,12 +18,8 @@ This Table of Contents is presented in order of project completion.
 10. [Revisions](https://github.com/EmiliaPsacharopoulos/Formatting/tree/main/Revisions)
 
 ## Project Overview
-Paragraphs here: 
-Cited from the [Open Dynamic Robot Initiative Entry Point](https://open-dynamic-robot-initiative.github.io/), "this project originated in an effort to build a low cost and low complexity actuator module using brushless motors that can be used to build different types of torque controlled robots with mostly 3D printed and off-the-shelves components."
 
-- Motivations (ie. for making the github page and from the previous research). Mainly making a US version that is easier to follow and with potential design improvements. Also, documenting our summer work
-- Images of our completed robot.
-- State research team (affiliation with UofM) 
+We are apart of a robotics based research team at the University of Michigan. Our 2021 summer focus is to implement our version of the New York University's Open Dynamic Robot Initiative 8 degree of freedom quadruped robot, a low cost (~$8,000) and torque controlled modular system made primarily from 3D printed parts. We plan to contribute to this research initiative by documenting our process (via GitHub, YouTube, and a project report), revising existing procedures, and designing new capabilities. 
 
 ## Links
 - Our YouTube Channel 
