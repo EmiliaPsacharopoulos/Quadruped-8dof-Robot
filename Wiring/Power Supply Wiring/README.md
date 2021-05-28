@@ -71,20 +71,12 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 | Use two 3-Channel Wago wire splicers, one per red/black colored power wire to separate the supply wire into two sections of sub power wire. The wago connectors require force to lift each bridge up. Make sure to follow the proper spliced length listed on the side (ours was 11mm). | ![image](https://user-images.githubusercontent.com/84528674/120005674-1142d100-bfa6-11eb-9217-8ec98f5ed7f7.png) |
 
 
-### Connecting the Sub and Main Power Wires
-| Step Description | Visual | 
-| --- | --- |
-| Route each red main power wire through the single entry side of the 2 channel wire splice connector. Route any two red subwires through the two channel side of the splice connector. | --- |
-| Repeat the above step for the black wires | --- |
-| Use a ziptie on each splice connector to ensure the bridge stays shut. | --- |
-
 ### Finishing the Sub Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Cut thin strips of 2.4mm heat shrink. Straighten out the four pairs of subwire from the spliced connection (2 red pairs, 2 black pairs), and use the heat shrink on each pair individually to straighten the connection. Leave at least 5cm of wire from the ends unbounded. | |
-| Strip off 0.5cm to 1cm of wire casing from the empty end of each of the 8 wires. Twist the exposed wire after each strip. | --- |
-| Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the XT30 male connectors to the exposed wire. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | --- |
-| At this stage, there should be four completed sub power wires branching from the wire splice connection:  | --- |
+| Strip off 0.5cm to 1cm of wire casing from the empty end of each of the 4 sub power wires. Twist the exposed wire after each strip. Slide one piece of heat shrink from the XT30 connector pack about 5-10 inches away from the exposed end on each of the 4 wires. You will need this to bind the solder. | ![image](https://user-images.githubusercontent.com/84528674/120006748-32f08800-bfa7-11eb-93d8-7890b05fecbd.png) |
+| Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the two XT30 male connectors to the four exposed wires. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | ![image](https://user-images.githubusercontent.com/84528674/120007244-b14d2a00-bfa7-11eb-9b65-d217d60b5c91.png) |
+
 
 ### Overall organization
 | Step Description | Visual | 
