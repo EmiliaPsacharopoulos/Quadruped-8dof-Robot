@@ -17,5 +17,11 @@ Here is the procedure to machine the brushless motors. Repeat eight times (once 
 | --- | --- |
 | Remove and discard the retaining ring with small pliers. | --- |
 | Place the brass washer and rotor on a clean surface free of metal particles. | --- |
-| Remove the  | --- |
+| Unscrew and store the two M3 set screws on the rotor with a 1.5mm hex driver. | --- |
+| Place the motor shaft extraction tool (a 3D printed part) in a vice, and use it to remove the motor shaft with a hammer and a pin driver. | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
 | --- | --- |
