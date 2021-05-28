@@ -51,6 +51,8 @@ This step explains the connection from two external power supplies to each of th
 | Solder a red and the black wire to an XT30 male connector, using the 1.5mm heat shrink after each solder. Pay attention to the positive and negative indications. |  ![image](https://user-images.githubusercontent.com/84528674/119999166-6fb88100-bf9f-11eb-95ce-5c38bfd25464.png) |
 | Connect the male XT30 end of this cable to an XT30 female (to 4mm banana) cable  | ![image](https://user-images.githubusercontent.com/84528674/119999478-caea7380-bf9f-11eb-952e-5b1c5cbb6510.png) |
 
+The 4mm banana ends will plug into the power supply. Now, we need to route these wires through the E-Stop. 
+
 ### Routing the Main Power Wires through the E-Stop Switch
 | Step Description | Visual | 
 | --- | --- |
