@@ -31,15 +31,16 @@ You will need all of the following tools and materials to properly complete the 
 This step explains the connection from two external power supplies to each of the two MicroDriver stacks. The supply source is routed through an E-Stop switch. The following table lists the necessary tools, parts, and materials to complete this step. 
 | Item | Quantity | 
 | --- | --- |
-| XT30 Female Connector to 4mm Banana Plug Cable | 4 cables |
-| Braided Cable Sleeve | 10 m |
+| XT30 Female Connector to 4mm Banana Plug Cable | 2 cables |
+| Braided Cable Sleeve | ~10 m |
 | E-Stop Switch | 1 |
-| Cable Gland | 1 | 
+| Extra E-Stop Switch Mechanism | 1 |
+| Cable Gland | 2 | 
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
 | XT30 Male Connectors | 6 |
-| 2-Channel Wire Splice Connectors | 4 | 
-| 2.4mm Heat Shrink | ~20 cm |
+| 3-Channel Wire Splice Connectors | 4 | 
+| Small Zipties | ~20 |
 | 1.5mm Heat Shrink | ~6 cm |
 
 ### Preparing the Main Power Wires
@@ -53,9 +54,9 @@ This step explains the connection from two external power supplies to each of th
 ### Routing the Main Power Wires through the E-Stop Switch
 | Step Description | Visual | 
 | --- | --- |
-| This step assumes that you have prepared the E-Stop Switch from the Machining tab. | --- |
-| ??? | --- |
-| --- | --- |
+| This step assumes that you have prepared the E-Stop Switch from the Machining tab. | ![image](https://user-images.githubusercontent.com/84528674/119998397-a93cbc80-bf9e-11eb-9e2d-5264b6bb1b21.png) |
+| Thread the black 20 inch wire through the E-Stop glands (it will not connect to anything inside). | --- |
+| Position the red 8 inch wire that is  | --- |
 
 ### Preparing the Sub Power Wires
 | Step Description | Visual | 
