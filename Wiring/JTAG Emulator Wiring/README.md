@@ -31,6 +31,10 @@ You will need all of the following tools and materials to properly complete the 
 ![image](https://user-images.githubusercontent.com/84528674/119844406-67484380-bed6-11eb-8c5e-64900b046b1f.png)
 
 
+**From the forum**
+![image](https://user-images.githubusercontent.com/84528674/120024751-a30a0880-bfbd-11eb-9081-3ec46814fdf7.png)
+
+
 
 ## Flashing Wire
 
