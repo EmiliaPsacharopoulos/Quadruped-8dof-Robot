@@ -7,6 +7,7 @@
 3. [Front and Side Body Structure Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#front-and-side-body-structure-post-processing)
 4. [Frame Asembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#frame-assembly)
 5. [Leg Shell Post Processing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#leg-shell-post-processing)
+6. [Output Pulley Preperation](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Manufacturing%203D%20Prints/README.md#output-pulley-preperation)
 
 ## Printers
 We utilized three different printers to ensure proper tolerances, print capacity, and material properties. The specific printers are described below.
@@ -240,3 +241,5 @@ To check for fits attach the cover shells to the bases with the M2.5 x 6mm and M
 | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119701345-3b6b8600-be22-11eb-9ce0-f9b6d134d903.png) 
 Note: At this stage you will **NOT** have the motors or pulleys attached as shown in the CAD |
+
+## Output Pulley Preperation
