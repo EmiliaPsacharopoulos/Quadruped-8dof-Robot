@@ -265,6 +265,7 @@ Use the file set and pliers to remove supports.
 The pulley bearing face is oversized and needs to be brought down to the size of the 32mm x 25mm x 4mm bearing internal diameter. This can be done on a lathe using a 25mm collet, but the following procedure is how we were able to bring it down to size without a lathe.
 
 | Description | Image |
+| --- | --- |
 | Insert the Pulley onto the closed pliers to serve as the work-holding. Then work your way around the bearing sufrace with a file to evenly take off material. Flip over and follow the same procedure for teh other side | ![image](https://user-images.githubusercontent.com/57100380/120030905-09932480-bfc6-11eb-8efd-c3e574ac7583.png) |
 
 ### Step Inserting Helicoils
@@ -276,4 +277,3 @@ Keep the pulley oriented as follows:
 | --- | --- |
 | Use the contersink tool to cut a small countersink into the pulley holes | ![image](https://user-images.githubusercontent.com/57100380/120029540-3e05e100-bfc4-11eb-8d10-74d58a3e3f89.png) |
 | The cutouts should not be very large. They are only to guide the drill bits | ![image](https://user-images.githubusercontent.com/57100380/120029637-5e35a000-bfc4-11eb-8be4-348fcb15230a.png) |
-| 
