@@ -19,9 +19,9 @@ Here is the procedure to machine the brushless motors. Repeat eight times (once 
 | Place the brass washer and rotor on a clean surface free of metal particles. | --- |
 | Unscrew and store the two M3 set screws on the rotor with a 1.5mm hex driver. | --- |
 | Place the motor shaft extraction tool (a 3D printed part) in a vice, and use it to remove the motor shaft with a hammer and a pin driver. | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| Secure the 3.98mm reamer in the hand tool. Rub cutting oil on the reamer. Carefully turn the reamer in the hole a few times. | --- |
+| Rub oil on the custom motor shaft and try to insert it into the reamed hole. If the connection does not fit, use a 3.99mm and check again, then a 4.00mm reamer and check again until the shaft can be inserted and removed with force. It is important to use the smallest possible reamer because the shaft can wobble if the hole is too large. | --- |
+| Screw the two M3 set screws back into the rotor with a 1.5mm hex driver. | --- |
 | --- | --- |
 | --- | --- |
 | --- | --- |
