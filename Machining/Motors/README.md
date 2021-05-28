@@ -2,5 +2,20 @@
 
 [Return to the machining Table of Contents](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Machining#machining)
 
-## Table of Contents
-1. 
+The motors need to modified before you can proceed with the wiring. The following table outlines the tools and materials you will need to complete this step.
+
+| Item | Quantity |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+
+Here is the procedure to machine the brushless motors. Repeat eight times (once per motor).
+
+| Step Description | Visual | 
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
