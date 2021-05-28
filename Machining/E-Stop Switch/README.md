@@ -1,4 +1,4 @@
-# E-Stop Switch Machining
+# Machining E-Stop Switch 
 
 [Return to the machining Table of Contents.](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Machining#table-of-contents)
 
