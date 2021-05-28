@@ -20,7 +20,7 @@ You will need all of the following tools and materials to properly complete the 
 | Heat Gun | 1 |
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
-
+| Screwdriver | 1 |
 
 ## Table of Contents
 1. [External Power Supply Method](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Power%20Supply%20Wiring/README.md#external-power-supply-method)
@@ -42,6 +42,8 @@ This step explains the connection from two external power supplies to each of th
 | 3-Channel Wire Splice Connectors | 4 | 
 | Small Zipties | ~20 |
 | 1.5mm Heat Shrink | ~6 cm |
+
+We will list the steps for completing one power wire connection. You will need to complete these steps twice, once per power supply:
 
 ### Preparing the Main Power Wires
 | Step Description | Visual | 
@@ -65,8 +67,8 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 ### Preparing the Sub Power Wires
 | Step Description | Visual | 
 | --- | --- |
-| Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut 4 sections of this length from the 18 AWG red wire and 4 sections of this length from the 18 AWG black wire. We chose to cut **XYZ** inches, four times from each colored wire. | --- |
-| Strip 0.5cm of wire casing from the other end of each of the 8 individual wires, and twist the exposed wire after each strip. | --- |
+| Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut 2 sections of this length from the 18 AWG red wire and 2 sections of this length from the 18 AWG black wire. Strip 11mm of wire casing one end of each of the 4 individual wires, and twist the exposed wire after each strip. | ![image](https://user-images.githubusercontent.com/84528674/120004952-5e727300-bfa5-11eb-99e6-97ba075e7714.png) |
+| Use two 3-Channel Wago wire splicers, one per red/black colored power wire to separate the supply wire into two sections of sub power wire. The wago connectors require force to lift each bridge up. Make sure to follow the proper spliced length listed on the side (ours was 11mm). | ![image](https://user-images.githubusercontent.com/84528674/120005674-1142d100-bfa6-11eb-9217-8ec98f5ed7f7.png) |
 
 
 ### Connecting the Sub and Main Power Wires
