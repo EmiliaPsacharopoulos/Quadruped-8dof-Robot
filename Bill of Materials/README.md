@@ -88,7 +88,7 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | XT60 female to HXT 4mm | Pack of 2 | Amazon B073ZGQGHR | 2 |
-| XT30 to 4mm Banana | Pack of 2 | Amazon B01M01W1XW | 2 |
+| XT30 Female to 4mm Banana | Pack of 2 | Amazon B01M01W1XW | 1 |
 | 3S LiPo Balance Wire | JST-XH  | Amazon B0742K3KJ3 | 2 |
 | Wire Cables | 26 AWG, 5 Color Pack | Amazon B01KQ2NURG | 33 ft |
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
