@@ -18,8 +18,14 @@ The motors need to modified before you can proceed with the wiring. The followin
 | Hand Tool | 1 |
 | Cutting Oil | 1 Bottle |
 | Wire Cutters | 1 |
-| --- | --- |
-| --- | --- |
+| Soldering Iron | 1 |
+| Solder Spool | 1 |
+| Solder Holder | 1 |
+| Soldering Vise | 1 |
+| Cleaning Sponge | 1 |
+| Filter Fan | 1 |
+| Heat Gun | 1 |
+| 1.5mm heat shrink | ~30cm |
 
 
 Here is the procedure to machine the brushless motor rotors. Repeat eight times (once per motor).
