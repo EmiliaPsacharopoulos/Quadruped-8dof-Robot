@@ -19,7 +19,7 @@ This Table of Contents is presented in order of project completion.
 
 ## Project Overview
 
-We are a part of a robotics based research team at the University of Michigan. Our 2021 summer focus is to implement our version of the New York University's Open Dynamic Robot Initiative 8 degree of freedom quadruped robot, a low cost (~$8,000) and torque controlled modular system made primarily from 3D printed parts. We plan to contribute to this research initiative by documenting our process (via GitHub, YouTube, and a project report), revising existing procedures, and designing new capabilities. 
+We are a part of a robotics based research team at the University of Michigan. Our 2021 summer focus is to implement our version of the New York University's Open Dynamic Robot Initiative 8 degree of freedom quadruped robot, a low cost (~$8,000) and torque controlled modular system made primarily from 3D printed parts. We plan to contribute to this research initiative by thoroughly documenting our process (via GitHub, YouTube, and a project report), revising existing procedures, and designing new capabilities. 
 
 ## Links
 - Our YouTube Channel 
