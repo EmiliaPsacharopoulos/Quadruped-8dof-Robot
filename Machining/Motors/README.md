@@ -17,7 +17,7 @@ The motors need to modified before you can proceed with the wiring. The followin
 | 4.00mm Reamer | 1 |
 | Hand Tool | 1 |
 | Cutting Oil | 1 Bottle |
-| --- | --- |
+| Wire Cutters | 1 |
 | --- | --- |
 | --- | --- |
 
@@ -38,7 +38,12 @@ Here is the procedure to machine the brushless motor rotors. Repeat eight times 
 Here is the procedure to machine the brushless motor stators. Repeat eight times (once per motor).
 | Step Description | Visual | 
 | --- | --- |
-| --- | --- |
+| Use wire cutters to remove the large heat shrink. | --- |
+| Use wire cutters at an angle to strip a centimeter or so from the phase wire casing.  | --- |
+| Grab the wire with the small pliers while stripping away the wire casing with your fingers. | --- |
+| Pull off the wire casing. | --- |
+| Trim the exposed wires down to 3cm for all stators **except for the Hip AA motors** | --- |
+| Use a soldering iron at about 400 degrees Celsius with a little solder on the tip of the iron to melt about 5mm of insulation on each wire. | --- |
 | --- | --- |
 | --- | --- |
 | --- | --- |
