@@ -21,12 +21,10 @@
 | [Lower Leg v3](https://drive.google.com/file/d/1o8EfnFP058vyJhbuOwRAwsK36POzaX1Q/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119673976-d1df7d80-be09-11eb-8be1-e6bf3249848a.png) | 4 | FDM/SLS | LULZBOT TAZ5 | IC3D ABS |
 | [Upper Leg Module Shell Base](https://drive.google.com/file/d/1VyyCbXpQ2YnV5PpdJ_AyL8uRjioKnqWU/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119673909-c2603480-be09-11eb-83b2-c29adfd5dea8.png) | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Upper Leg Module Shell Cover](https://drive.google.com/file/d/1zzzeLX1umeD1-8s649Cia6AoqGmUA4b6/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/119673937-c8eeac00-be09-11eb-8915-430abe7b1ff5.png) | 4 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
-| [Encoder Codewheel Kit Mount](https://drive.google.com/file/d/11ccs6RVQufAYBlOEYI5nyL8dQXmKJOQI/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
+| [Encoder Codewheel Kit Mount](https://drive.google.com/file/d/11ccs6RVQufAYBlOEYI5nyL8dQXmKJOQI/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/120336131-0d71c000-c2c0-11eb-99e7-7f79dd9c1e19.png) | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Tool Center Pulley Assembly](https://drive.google.com/file/d/1l3ptCsq2ZLFrqfpW2T9M_EbPN7_DeO7G/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Tool Center Pulley Protection](https://drive.google.com/file/d/1q3yPagw6xmaPqDHjPdc-d9TiI9zI-ZyL/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
-| [Tool Code Wheel Bonding](https://drive.google.com/file/d/1-XwSyXhONtqzKz4c7LCs8JccsO_N2fZl/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Tool Motor Shaft Extraction](https://drive.google.com/file/d/1CqdJh4uvPN75k7q4l2irTNpuYd1OmnYB/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
-| [Tool Motor Shaft Pulley Bonding](https://drive.google.com/file/d/1TbzFCJ7OYps_jVs-T90S1K4V0ywLDqrT/view?usp=sharing) | Actuator Component | 1 | FDM/SLS | ZORTRAX M200 | HATCHBOX ABS |
 | [Transmission Belt Tension Roller 9mm](https://drive.google.com/file/d/1L1qM38klxXnIgrZLmsSqENjGJm_O7V3x/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 9.5mm](https://drive.google.com/file/d/1KBTlYCo6Z3mxreojPnku61na7Djjja5e/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 10mm](https://drive.google.com/file/d/1A50TC43Nw4EKcxdcaUJ4bIoUgfNs9MeY/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
