@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-1. [STEP Files]
+1. [STEP Files](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#step-files)
 2. [Itemized Print Table](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#itemized-print-table)
 3. [Fitting Large Prints on Print Bed](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#fitting-large-prints-on-print-bed)
 4. [Optional Prints](https://github.com/EmiliaPsacharopoulos/Formatting/blob/main/CAD%20Masterlist/README.md#optional-prints)
