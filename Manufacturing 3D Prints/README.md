@@ -145,6 +145,47 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 | Bolt Insertion | Assembly with Bottom Piece | Assembly with Top Piece |
 | --- | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119383202-0976ea00-bc91-11eb-9f09-3d71e02a8b94.png) | ![image](https://user-images.githubusercontent.com/57100380/119383263-1bf12380-bc91-11eb-997b-2676b2b3659d.png) | ![image](https://user-images.githubusercontent.com/57100380/119588093-103f5300-bd9e-11eb-9a20-73e80db2d5ba.png) |
+
+## Output Pulley Preparation
+### Materials Masterlist
+| Item | Quantity |
+| --- | --- |
+| Transmission Pulley AT3 T30 Output | 8 |
+| M3 Helicoil Insert Tool Set | 1 |
+| Helicoil M3 x 6mm | 16 |
+| 32mm x 25mm x 4mm Bearing | 1 |
+| Needle Nose Pliers | 1 |
+| File Set | 1 |
+| Pin Vice | 1 |
+| Hand Countersink Tool | 1 |
+
+### Step 1: Prepare 3D print
+Use the file set and pliers to remove supports.
+
+| You can file down any bumps left from the supports on cirtical surfaces. |
+| --- |
+| ![image](https://user-images.githubusercontent.com/57100380/120029495-2cbcd480-bfc4-11eb-9e43-4cb9b5972709.png) |
+
+The pulley bearing face is oversized and needs to be brought down to the size of the 32mm x 25mm x 4mm bearing internal diameter. This can be done on a lathe using a 25mm collet, but the following procedure is how we were able to bring it down to size without a lathe.
+
+| Description | Image |
+| --- | --- |
+| Insert the Pulley onto the closed pliers to serve as the work-holding. Then work your way around the bearing surface with a file to evenly take off material. Flip over and follow the same procedure for the other side. Check the fit with the bearing. You should be able to push the bearing on with your fingers using moderate force. | ![image](https://user-images.githubusercontent.com/57100380/120030905-09932480-bfc6-11eb-8efd-c3e574ac7583.png) |
+
+### Step Inserting Helicoils
+Keep the pulley oriented as follows:
+
+![image](https://user-images.githubusercontent.com/57100380/120026797-9b982e80-bfc0-11eb-96a7-2869bba220b9.png)
+
+| Description | Image |
+| --- | --- |
+| Use the countersink tool to cut a small countersink into the pulley holes | ![image](https://user-images.githubusercontent.com/57100380/120029540-3e05e100-bfc4-11eb-8d10-74d58a3e3f89.png) |
+| The cutouts should not be very large. They are only to guide the drill bits | ![image](https://user-images.githubusercontent.com/57100380/120331687-0943a380-c2bc-11eb-9463-848df1bd7c90.png) |
+| Using the drill bit (around 3 mm) from the M3 helicoil insert tool set and a drill or the pin vice clear out both holes. | ![image](https://user-images.githubusercontent.com/57100380/120331926-4445d700-c2bc-11eb-8ae3-4970ede4f74f.png) |
+| Using the tap from the M3 helicoil insert tool set tap both holes (the tap does not need to go all the way through only about 3/4 of the way). | ![image](https://user-images.githubusercontent.com/57100380/120332168-79eac000-c2bc-11eb-8ede-003cba64ef90.png) |
+| Insert two M3 x 6mm helicoils into the holes (make sure the flanged side is facing up). | ![image](https://user-images.githubusercontent.com/57100380/120332314-a1418d00-c2bc-11eb-9eb6-9bfe1082dc85.png) |
+| Break off the tangs of both helicoils with the break-off tool | ![image](https://user-images.githubusercontent.com/57100380/120332414-b8807a80-c2bc-11eb-93d6-2537d2b88f61.png) |
+
 ## Leg Shell Post Processing
 ### Materials Masterlist
 | Item | Quantity |
@@ -241,43 +282,3 @@ To check for fits attach the cover shells to the bases with the M2.5 x 6mm and M
 | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119701345-3b6b8600-be22-11eb-9ce0-f9b6d134d903.png) 
 Note: At this stage you will **NOT** have the motors or pulleys attached as shown in the CAD |
-
-## Output Pulley Preparation
-### Materials Masterlist
-| Item | Quantity |
-| --- | --- |
-| Transmission Pulley AT3 T30 Output | 8 |
-| M3 Helicoil Insert Tool Set | 1 |
-| Helicoil M3 x 6mm | 16 |
-| 32mm x 25mm x 4mm Bearing | 1 |
-| Needle Nose Pliers | 1 |
-| File Set | 1 |
-| Pin Vice | 1 |
-| Hand Countersink Tool | 1 |
-
-### Step 1: Prepare 3D print
-Use the file set and pliers to remove supports.
-
-| You can file down any bumps left from the supports on cirtical surfaces. |
-| --- |
-| ![image](https://user-images.githubusercontent.com/57100380/120029495-2cbcd480-bfc4-11eb-9e43-4cb9b5972709.png) |
-
-The pulley bearing face is oversized and needs to be brought down to the size of the 32mm x 25mm x 4mm bearing internal diameter. This can be done on a lathe using a 25mm collet, but the following procedure is how we were able to bring it down to size without a lathe.
-
-| Description | Image |
-| --- | --- |
-| Insert the Pulley onto the closed pliers to serve as the work-holding. Then work your way around the bearing surface with a file to evenly take off material. Flip over and follow the same procedure for the other side. Check the fit with the bearing. You should be able to push the bearing on with your fingers using moderate force. | ![image](https://user-images.githubusercontent.com/57100380/120030905-09932480-bfc6-11eb-8efd-c3e574ac7583.png) |
-
-### Step Inserting Helicoils
-Keep the pulley oriented as follows:
-
-![image](https://user-images.githubusercontent.com/57100380/120026797-9b982e80-bfc0-11eb-96a7-2869bba220b9.png)
-
-| Description | Image |
-| --- | --- |
-| Use the countersink tool to cut a small countersink into the pulley holes | ![image](https://user-images.githubusercontent.com/57100380/120029540-3e05e100-bfc4-11eb-8d10-74d58a3e3f89.png) |
-| The cutouts should not be very large. They are only to guide the drill bits | ![image](https://user-images.githubusercontent.com/57100380/120331687-0943a380-c2bc-11eb-9463-848df1bd7c90.png) |
-| Using the drill bit (around 3 mm) from the M3 helicoil insert tool set and a drill or the pin vice clear out both holes. | ![image](https://user-images.githubusercontent.com/57100380/120331926-4445d700-c2bc-11eb-8ae3-4970ede4f74f.png) |
-| Using the tap from the M3 helicoil insert tool set tap both holes (the tap does not need to go all the way through only about 3/4 of the way). | ![image](https://user-images.githubusercontent.com/57100380/120332168-79eac000-c2bc-11eb-8ede-003cba64ef90.png) |
-| Insert two M3 x 6mm helicoils into the holes (make sure the flanged side is facing up). | ![image](https://user-images.githubusercontent.com/57100380/120332314-a1418d00-c2bc-11eb-9eb6-9bfe1082dc85.png) |
-| Break off the tangs of both helicoils with the break-off tool | ![image](https://user-images.githubusercontent.com/57100380/120332414-b8807a80-c2bc-11eb-93d6-2537d2b88f61.png) |
