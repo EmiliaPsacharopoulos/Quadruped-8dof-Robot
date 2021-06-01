@@ -67,7 +67,7 @@ Remove support materials using the needle nose pliers and files. Use caution whe
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/119172090-77be7100-ba33-11eb-9f81-30a2d94042f2.png) | ![image](https://user-images.githubusercontent.com/84528674/119172125-82790600-ba33-11eb-8814-2f9bfb417c92.png) |
 
-Note that some supports in the mass saving cutouts could not be removed. This is non-critical, and the solution is to include a raft layer or inverting the print orientation. After removing from the bed, the side piece may have a slight bend. This will be fixed with the bottom body structure attachment.
+Note that some supports in the mass saving cutouts could not be removed. This is non-critical, and the solution is to include a raft layer or inverting the print orientation. After removing it from the bed, the side piece may have a slight bend. This will be fixed with the bottom body structure attachment.
 
 ### Step 2: Insert Helicoils
 ![image](https://user-images.githubusercontent.com/84528674/119172351-d5eb5400-ba33-11eb-8583-ee55651220d8.png)
@@ -82,7 +82,7 @@ Insert helicoils into the side pieces according to the following procedure:
 | You may find it difficult to initially thread a bolt into the hole as the coils need to be aligned. Thus, you can insert a bolt in and out to correct alignment. | ![image](https://user-images.githubusercontent.com/84528674/119172872-704b9780-ba34-11eb-8efb-1585af2b73c5.png) |
 
 ### Step 3: Assembly
-Use the bolts secure the side pieces to the front pieces. Pay attention to part orientation.
+Use the bolts to secure the side pieces to the front pieces. Pay attention to part orientation.
 
 | Bolt Location | Full Assembly |
 | --- | --- |
@@ -162,7 +162,7 @@ Use the 2.5 mm hex wrench and M3x8 mm socket head bolts to assemble the base pie
 ### Step 1: Prepare 3D print
 Use the file set and pliers to remove supports.
 
-| You can file down any bumps left from the supports on cirtical surfaces. |
+| You can file down any bumps left from the supports on critical surfaces. |
 | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/120029495-2cbcd480-bfc4-11eb-9e43-4cb9b5972709.png) |
 
