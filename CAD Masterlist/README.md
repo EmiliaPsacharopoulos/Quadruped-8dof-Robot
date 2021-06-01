@@ -10,7 +10,7 @@
 
 ## STEP Files
 Download the following for all step files for the 8dof model.
-https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/c5275426397983ca97a7b33cfc6829872be40ff7/mechanics/quadruped_robot_8dof_v2/solidworks_files/quadruped_8dof_v2.zip
+mechanics/quadruped_robot_8dof_v2/solidworks_files/quadruped_8dof_v2.zip
 
 ## Itemized Print Table
 ### Note: print all FDM pieces with 100% infill
