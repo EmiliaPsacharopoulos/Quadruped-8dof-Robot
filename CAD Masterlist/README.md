@@ -31,7 +31,8 @@
 | [Transmission Belt Tension Roller 10.5mm](https://drive.google.com/file/d/1jEfYxJUQwSjxaa01N7_0g4kNUtJP7RN8/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 11mm](https://drive.google.com/file/d/1oReGGAgDlBbKl_YSbqSTBRh59I1F5lJp/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 | [Transmission Belt Tension Roller 11.5mm](https://drive.google.com/file/d/1oz3TDCHRlq-C7NCuOZMTf0LuByCKWWXM/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
-| [Transmission Pulley AT3 t30 Center](https://drive.google.com/file/d/1Nnp1Yz3_WAC9ZJQtrG0jFPc--QS1f0rJ/view?usp=sharing) | Actuator Component | 8 | Multijet/SLA | FORMLAB 3 | Durable |
+| [Transmission Pulley AT3 T30 Center](https://drive.google.com/file/d/1Nnp1Yz3_WAC9ZJQtrG0jFPc--QS1f0rJ/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/120336790-b28c9880-c2c0-11eb-88aa-1ee2fe6ef152.png) | 8 | Multijet/SLA | FORMLAB 3 | Durable |
+| [Transmission Pulley AT3 T30 Output](https://drive.google.com/file/d/1Nnp1Yz3_WAC9ZJQtrG0jFPc--QS1f0rJ/view?usp=sharing) | ![image](https://user-images.githubusercontent.com/57100380/120336853-c2a47800-c2c0-11eb-978d-5697b465ff29.png) | 8 | Multijet/SLA | FORMLAB 3 | Durable |
 
 ## Fitting Large Prints on Print Bed
 For prints that will not fit flat on the print bed you can rotate them around a particular axis. While this will create a slight angle in the layers which may impact bending strength, it is not significant enough to cause concern. 
