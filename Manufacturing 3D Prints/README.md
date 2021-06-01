@@ -116,7 +116,7 @@ To remove supports from the holes, use the pin vice and the 2.5mm drill bit to c
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119377605-4f30b400-bc8b-11eb-8d1d-5b68d1528a10.png) | ![image](https://user-images.githubusercontent.com/57100380/119667600-6f37b300-be04-11eb-8add-dfa75dc24d93.png) |
 
-### Step 2: Inserting Heatcoils
+### Step 2: Inserting Helicoils
 Follow the previous procedure to insert the M3 4.5mm helicoils according to the following layout:
 
 ![image](https://user-images.githubusercontent.com/57100380/119378982-e21e1e00-bc8c-11eb-99c4-75f5de41c8dc.png)
@@ -179,7 +179,7 @@ First use the needle nose pliers and file set to remove supports and check that 
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/57100380/119695653-6652db80-be1c-11eb-83b5-354d6e8afd62.png) | ![image](https://user-images.githubusercontent.com/57100380/119695712-74a0f780-be1c-11eb-8949-3b9a31057c04.png) |
 
-**Pro Tip**: Some of the supports are difficult to remove and you may damage the parts or seperate the layers during this process. If so, use the 406 Loctite to repare damages areas or consider reprinting.
+**Pro Tip**: Some of the supports are difficult to remove and you may damage the parts or seperate the layers during this process. If so, use the 406 Loctite to repair damaged areas or consider reprinting.
 
 | Damaged Print |
 | --- |
@@ -191,7 +191,7 @@ Use the 2.5mm and 3mm drill bits to clean out supposts from the holes in the fol
 ![image](https://user-images.githubusercontent.com/57100380/119696827-92229100-be1d-11eb-9bda-5bc142cf5cbf.png)
 
 ### Step 3: Cutting Threads
-Use the M3 tap and tap handle or pin vice to cut threads in teh following locations:
+Use the M3 tap and tap handle or pin vice to cut threads in the following locations:
 
 ![image](https://user-images.githubusercontent.com/57100380/119696938-b3837d00-be1d-11eb-8f76-5b174c3087f2.png)
 
@@ -212,7 +212,7 @@ Use the previous procedure and the M3 Helicoil Insert Tool Set to insert M3 x 6m
 | ![image](https://user-images.githubusercontent.com/57100380/119698266-132e5800-be1f-11eb-92b2-1b3ddb579150.png)
 The top leg assembly shows the upper leg base piece with no hole on the left end. The bottom leg assembly shows the hip module base piece with a hole on the left end. |
 
-### Step 6: Clearning Bearing Locations
+### Step 6: Clearing Bearing Locations
 Use the 8mm and 32mm end mills along with the pin vice or table-top vice to manually clear out extra material in the bearing locations.
 
 **Caution**: Be careful not to take out any material not highlighted in yellow:
@@ -226,7 +226,7 @@ Use the 8mm and 32mm end mills along with the pin vice or table-top vice to manu
 | ![image](https://user-images.githubusercontent.com/57100380/119699940-ad42d000-be20-11eb-8a59-0746588a840d.png) | ![image](https://user-images.githubusercontent.com/57100380/119699972-b633a180-be20-11eb-95ec-e1b7aeb8f277.png) |
 
 ## Step 7: Seating the Bearings
-Insert the 8x4x2mm and 32x24x4mm bearings into their appropriate loactions by pushing evenly along the edge with your fingers. Be carefull not to crack the print during this process. You can use the needle nose pliears to clean out any remaining material blocking the bearing from seating properly.
+Insert the 8x4x2mm and 32x24x4mm bearings into their appropriate locations by pushing evenly along the edge with your fingers. Be careful not to crack the print during this process. You can use the needle nose pliers to clean out any remaining material blocking the bearing from seating properly.
 
 | Inserting a 8x4x2mm Bearing | Inserting a 32x24x4mm Bearing |
 | --- | --- |
@@ -242,7 +242,7 @@ To check for fits attach the cover shells to the bases with the M2.5 x 6mm and M
 | ![image](https://user-images.githubusercontent.com/57100380/119701345-3b6b8600-be22-11eb-9ce0-f9b6d134d903.png) 
 Note: At this stage you will **NOT** have the motors or pulleys attached as shown in the CAD |
 
-## Output Pulley Preperation
+## Output Pulley Preparation
 ### Materials Masterlist
 | Item | Quantity |
 | --- | --- |
@@ -266,7 +266,7 @@ The pulley bearing face is oversized and needs to be brought down to the size of
 
 | Description | Image |
 | --- | --- |
-| Insert the Pulley onto the closed pliers to serve as the work-holding. Then work your way around the bearing sufrace with a file to evenly take off material. Flip over and follow the same procedure for the other side. Check the fit with the bearing. You shoudl be able to push teh bearing on with your fingers using moderate force. | ![image](https://user-images.githubusercontent.com/57100380/120030905-09932480-bfc6-11eb-8efd-c3e574ac7583.png) |
+| Insert the Pulley onto the closed pliers to serve as the work-holding. Then work your way around the bearing surface with a file to evenly take off material. Flip over and follow the same procedure for the other side. Check the fit with the bearing. You should be able to push the bearing on with your fingers using moderate force. | ![image](https://user-images.githubusercontent.com/57100380/120030905-09932480-bfc6-11eb-8efd-c3e574ac7583.png) |
 
 ### Step Inserting Helicoils
 Keep the pulley oriented as follows:
@@ -275,9 +275,9 @@ Keep the pulley oriented as follows:
 
 | Description | Image |
 | --- | --- |
-| Use the contersink tool to cut a small countersink into the pulley holes | ![image](https://user-images.githubusercontent.com/57100380/120029540-3e05e100-bfc4-11eb-8d10-74d58a3e3f89.png) |
+| Use the countersink tool to cut a small countersink into the pulley holes | ![image](https://user-images.githubusercontent.com/57100380/120029540-3e05e100-bfc4-11eb-8d10-74d58a3e3f89.png) |
 | The cutouts should not be very large. They are only to guide the drill bits | ![image](https://user-images.githubusercontent.com/57100380/120331687-0943a380-c2bc-11eb-9463-848df1bd7c90.png) |
 | Using the drill bit (around 3 mm) from the M3 helicoil insert tool set and a drill or the pin vice clear out both holes. | ![image](https://user-images.githubusercontent.com/57100380/120331926-4445d700-c2bc-11eb-8ae3-4970ede4f74f.png) |
 | Using the tap from the M3 helicoil insert tool set tap both holes (the tap does not need to go all the way through only about 3/4 of the way). | ![image](https://user-images.githubusercontent.com/57100380/120332168-79eac000-c2bc-11eb-8ede-003cba64ef90.png) |
 | Insert two M3 x 6mm helicoils into the holes (make sure the flanged side is facing up). | ![image](https://user-images.githubusercontent.com/57100380/120332314-a1418d00-c2bc-11eb-9eb6-9bfe1082dc85.png) |
-| Break off the tangs of both helicoils with teh break-off tool | ![image](https://user-images.githubusercontent.com/57100380/120332414-b8807a80-c2bc-11eb-93d6-2537d2b88f61.png) |
+| Break off the tangs of both helicoils with the break-off tool | ![image](https://user-images.githubusercontent.com/57100380/120332414-b8807a80-c2bc-11eb-93d6-2537d2b88f61.png) |
