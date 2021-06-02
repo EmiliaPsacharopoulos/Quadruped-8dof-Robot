@@ -4,3 +4,11 @@
 The existing github does not have this. We could:
 - Link to the other github’s online Forum
 - Write suggestions based on our ongoing revision notes for design improvements.
+
+
+## Table of Contents 
+1. Wiring
+
+
+## Wiring
+Power wires: We should switch from XT30 to XT60 (the 18 AWG wires are too thick realistically to solder a good connection in the XT30's. Plus, we are going to be pulling about 30A for the jumps and that is the max continuous allowed Amps through that connector).
