@@ -28,7 +28,6 @@ We will be
 | **JTAG Top View** ![IMG_3848](https://user-images.githubusercontent.com/84528674/119847684-30276180-bed9-11eb-9b2a-64afcdeaa6c6.jpg) |
 | --- |
 | **JTAG Pin Mapping** 
-
 ![image](https://user-images.githubusercontent.com/84528674/120558433-72ffa280-c3cd-11eb-9c50-8eed8fc993aa.png)|
 
 
