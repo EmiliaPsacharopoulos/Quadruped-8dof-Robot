@@ -9,7 +9,7 @@ The existing github does not have this. We could:
 ## Table of Contents 
 1. [Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#wiring)
 2. [Communications](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#communications)
-3. Power Supply Organization
+3. [Power Supply Organization](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#power-supply-organization)
 4. Battery Supply Organization
 
 
