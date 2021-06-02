@@ -7,7 +7,7 @@ The existing github does not have this. We could:
 
 
 ## Table of Contents 
-1. Wiring
+1. [Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#wiring)
 
 
 ## Wiring
