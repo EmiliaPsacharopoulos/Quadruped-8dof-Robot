@@ -9,6 +9,8 @@ The existing github does not have this. We could:
 ## Table of Contents 
 1. [Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#wiring)
 2. [Communications](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#communications)
+3. Power Supply Organization
+4. Battery Supply Organization
 
 
 ## Wiring
@@ -17,3 +19,10 @@ Power wires: We should switch from XT30 to XT60 (the 18 AWG wires are too thick 
 
 ## Communications
 We should look into switching between an ethernet tethered connection and a receiver/transmitter (ie. if we wanted to go fully untethered with the battery power supply option)
+
+
+## Power Supply Organization
+We should look into making a designated board for organization with the power supply organization (designated slots for the E-Stop switch/power supplies on a wooden board), also designated wire routing on the board to keep it as clean as possible. 
+
+## Battery Supply Organization
+There are no specific mounting slots for the batteries or push buttons or the power management board(s) on the existing CAD. We'd look into making these additions.
