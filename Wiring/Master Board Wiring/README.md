@@ -104,18 +104,11 @@ Your robot frame should be completed before attempting this step. Here are the s
 **Include wire pin readouts//lots of images of the finished connection**
 
 ## IMU Cable Assembly
-The IMU connects directly to the Master Board. 
+The IMU connects directly to the Master Board. The original Open Dynamic Robot Initiative documentation for this connection involves connecting an IDC connection to a 4 pin Hirose socket with a ribbon cable, but after experimentation proved this to be a tedious soldering job, we decided to revise the IMU cable assembly process.
+
 | Item | Quantity | 
 | --- | --- |
-| Ribbon Cable | **Need to think about positioning on the robot first** |
-| 10Pin Rectangular Connector | 1 |
-| 4Pin Socket | 1 |
-| 2.4mm Heat Shrink | ~10cm |
+| 10-pin Socket/Socket IDC Cable | 1.5 inches |
+| 10-pin IDC Socket Rainbow Breakout Cable | 6 inches | 
 
-**still need to figure this out -- connection from ribbon to 4pin socket?**
-https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/details/details_wiring.md#imu-wire
-
-May need to purchase a different size ribbon cable - preferably though find a new method for this connection.
-
-![image](https://user-images.githubusercontent.com/84528674/119567389-436feb00-bd7a-11eb-857d-8b1f1f965b0b.png)
 
