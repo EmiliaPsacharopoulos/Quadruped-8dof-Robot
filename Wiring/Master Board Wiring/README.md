@@ -104,11 +104,24 @@ Your robot frame should be completed before attempting this step. Here are the s
 **Include wire pin readouts//lots of images of the finished connection**
 
 ## IMU Cable Assembly
-The IMU connects directly to the Master Board. The original Open Dynamic Robot Initiative documentation for this connection involves connecting an IDC connection to a 4 pin Hirose socket with a ribbon cable, but after experimentation proved this to be a tedious soldering job, we decided to revise the IMU cable assembly process.
+The IMU connects directly to the Master Board. The original Open Dynamic Robot Initiative documentation for this connection involves connecting an IDC connection to a 4 pin Hirose socket with a ribbon cable, but after experimentation proved this to be a tedious soldering job, we decided to simplify the IMU cable assembly process.
 
 | Item | Quantity | 
 | --- | --- |
 | 10-pin Socket/Socket IDC Cable | 1.5 inches |
 | 10-pin IDC Socket Rainbow Breakout Cable | 6 inches | 
+| Hirose DF13 4pin Socket | 1 |
+| Hirose DF13 Crimp Terminals | 4 Terminals |
+| 1.5mm Heat Shrink | ~10cm |
 
-
+Complete these steps once: 
+| Step Description | Visual | 
+| --- | --- |
+| Connect the 10-pin Socket/Socket IDC Cable to the IMU. | --- |
+| Connect the 10-pin IDC Socket Rainbow Breakout Cable to the other end of the 10-pin Socket/Socket IDC Cable. | --- |
+| **need to figure out if the wires need to be extended/shortened** (they extended theirs -- reason unknown) | --- |
+| Use wire cutters to remove the female sockets on all 10 conductors. | --- |
+| Use the heat gun to apply 1.5mm shrink on the ends of the following wires, as according to the **pin layout** (these wires will not be used). | --- |
+| Strip the remaining wires with wire strippers to about 0.5cm of casing. | --- |
+| Crimp these exposed wires with the DF13 crimping tool and reel. **lots of images/steps** | --- |
+| Insert the wires according to the **pin layout** into the DF13 4 pin socket. | --- |
