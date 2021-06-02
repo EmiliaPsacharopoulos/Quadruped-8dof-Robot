@@ -24,12 +24,10 @@ You will need all of the following tools and materials to properly complete the 
 2. [Flashing Wire](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#flashing-wire)
 
 ## Pin Mapping
-We will be 
-| **JTAG Top View** ![IMG_3848](https://user-images.githubusercontent.com/84528674/119847684-30276180-bed9-11eb-9b2a-64afcdeaa6c6.jpg) |
-| --- |
-| **JTAG Pin Mapping** 
-![image](https://user-images.githubusercontent.com/84528674/120558433-72ffa280-c3cd-11eb-9c50-8eed8fc993aa.png)|
 
+| **JTAG Top View** ![image](https://user-images.githubusercontent.com/84528674/120558563-a9d5b880-c3cd-11eb-81c0-c321be55cdf8.png) |
+| --- |
+| **MicroDriver Top View** |
 
 **From the forum**
 ![image](https://user-images.githubusercontent.com/84528674/120024751-a30a0880-bfbd-11eb-9081-3ec46814fdf7.png)
