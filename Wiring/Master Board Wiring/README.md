@@ -125,3 +125,6 @@ Complete these steps once:
 | Strip the remaining wires with wire strippers to about 0.5cm of casing. | --- |
 | Crimp these exposed wires with the DF13 crimping tool and reel. **lots of images/steps** | --- |
 | Insert the wires according to the **pin layout** into the DF13 4 pin socket. | --- |
+
+
+**Insert picture of final attachment**
