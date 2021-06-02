@@ -39,7 +39,7 @@ You will need all of the following tools and materials to properly complete the 
 Each MicroDriver board needs 6 resistors soldered on its back. 
 | Item | Quantity | 
 | --- | --- |
-| Precision Resistors | 6 |
+| Precision Resistors | 24 |
 
 Record exact pins here (list and include image(s))
 
