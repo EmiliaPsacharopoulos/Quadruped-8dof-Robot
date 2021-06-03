@@ -17,7 +17,15 @@ The four MicroDriver Boards are arranged in stacks of two boards. The following 
 ![image](https://user-images.githubusercontent.com/84528674/120712446-a35b4580-c48e-11eb-8046-ba50bb617a32.png)
 
 ### Master Board Schematic
-(We will add the completed wiring image here and label the connections)
+Front view:
+![image](https://user-images.githubusercontent.com/84528674/120714237-f1714880-c490-11eb-91ce-914bdff66ef6.png)
+
+Back View:
+![image](https://user-images.githubusercontent.com/84528674/120714423-2aa9b880-c491-11eb-918b-4bcee25e5786.png)
+
+Front view, labeled connection uses:
+![image](https://user-images.githubusercontent.com/84528674/120714649-79efe900-c491-11eb-8632-b5b59cf0a7f1.png)
+
 
 ### MicroDriver Board Schematic
 (We will add the completed wiring image here and label the connections)
