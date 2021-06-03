@@ -26,6 +26,7 @@ Each MicroDriver board plugs into the Master Board, has two pairs of motors and 
 (We will add the completed wiring image here and label the connections)
 
 ### Power Supply Schematic
+The main idea with the power supply option to power the robot is splitting two power supplies across four MicroDrivers. 
 ![image](https://user-images.githubusercontent.com/84528674/120664295-d387f180-c458-11eb-8c1a-fc36c6dd8ccf.png)
 ### JTAG Emulator Schematic 
 (We will add the completed wiring image here and label the connections)
