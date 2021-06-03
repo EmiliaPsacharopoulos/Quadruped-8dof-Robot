@@ -28,6 +28,7 @@ Front view, labeled connection uses:
 
 
 ### MicroDriver Board Schematic
+![image](https://user-images.githubusercontent.com/84528674/120715474-a0625400-c492-11eb-9346-d0db1d223dad.png)
 **REPLACE WITH OWN IMAGE**
 ![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png)
 ### Actuator Module Schematic
