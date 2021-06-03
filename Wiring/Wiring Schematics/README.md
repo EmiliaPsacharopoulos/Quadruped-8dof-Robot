@@ -30,10 +30,14 @@ Top view, labeled connection uses:
 ## MicroDriver Board Schematic
 Top view of pins:
 ![image](https://user-images.githubusercontent.com/84528674/120715474-a0625400-c492-11eb-9346-d0db1d223dad.png)
+
 **REPLACE WITH OWN IMAGES**
+
 Top view of MicroDriver soldering:
+![image](https://user-images.githubusercontent.com/84528674/120716628-4ebac900-c494-11eb-8485-95e0e24657fd.png)
 
 Bottom view of MicroDriver soldering:
+
 ![image](https://user-images.githubusercontent.com/84528674/120715755-0fd84380-c493-11eb-9889-e3a2fb80686b.png)
 
 Top view of encoder pin-to-pin wiring:
