@@ -31,4 +31,6 @@ The main idea with the power supply option to power the robot is splitting two p
 ![image](https://user-images.githubusercontent.com/84528674/120674582-3a5dd880-c462-11eb-83c3-c5778c1277d2.png)
 
 ### JTAG Emulator Schematic 
-(We will add the completed wiring image here and label the connections)
+![image](https://user-images.githubusercontent.com/84528674/120709638-15ca2680-c48b-11eb-85ed-ee46989f4293.png)
+![image](https://user-images.githubusercontent.com/84528674/120709690-2bd7e700-c48b-11eb-9ab5-60cec50478d1.png)
+
