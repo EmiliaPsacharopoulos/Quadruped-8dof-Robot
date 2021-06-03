@@ -40,6 +40,9 @@ Bottom view of MicroDriver soldering:
 
 ![image](https://user-images.githubusercontent.com/84528674/120715755-0fd84380-c493-11eb-9889-e3a2fb80686b.png)
 
+Top view, labeled connection uses:
+![image](https://user-images.githubusercontent.com/84528674/120716922-b5d87d80-c494-11eb-999e-98013a6926a1.png)
+
 Top view of encoder pin-to-pin wiring:
 ![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png)
 
