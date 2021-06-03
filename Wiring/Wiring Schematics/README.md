@@ -26,6 +26,8 @@ Bottom view:
 Top view, labeled connection uses:
 ![image](https://user-images.githubusercontent.com/84528674/120714649-79efe900-c491-11eb-8632-b5b59cf0a7f1.png)
 
+Top view MicroDriver to Master Board
+![image](https://user-images.githubusercontent.com/84528674/120717091-ffc16380-c494-11eb-85ce-e03474413c85.png)
 
 ## MicroDriver Board Schematic
 Top view of pins:
@@ -47,7 +49,9 @@ Top view of encoder pin-to-pin wiring:
 ![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png)
 
 ## Actuator Module Schematic
-(We will add the completed wiring image here and label the connections)
+Stator Wiring
+![image](https://user-images.githubusercontent.com/84528674/120717294-4c0ca380-c495-11eb-9f7c-e8d0128f54dd.png)
+
 
 ## Power Supply Schematic
 The main idea with the power supply option to power the robot is splitting two power supplies across four MicroDrivers and the Master Board. 
