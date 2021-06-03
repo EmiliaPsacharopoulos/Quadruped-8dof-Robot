@@ -13,6 +13,7 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 
 ### System Overview Schematic
 The four MicroDriver Boards are arranged in stacks of two boards. The following schematic depicts the wiring per MicroDriver board:
+**REPLACE IMAGE WITH POWER SOURCE ALSO TO MASTER BOARD**
 ![image](https://user-images.githubusercontent.com/84528674/119390549-3203e180-bc9b-11eb-9245-3bb175401acf.png)
 Each MicroDriver board plugs into the Master Board, has two pairs of motors and encoders, and attaches to the chosen power supply option.
 
