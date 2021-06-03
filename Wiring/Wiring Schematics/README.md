@@ -17,20 +17,28 @@ The four MicroDriver Boards are arranged in stacks of two boards. The following 
 ![image](https://user-images.githubusercontent.com/84528674/120712446-a35b4580-c48e-11eb-8046-ba50bb617a32.png)
 
 ## Master Board Schematic
-Front view:
+Top view:
 ![image](https://user-images.githubusercontent.com/84528674/120714237-f1714880-c490-11eb-91ce-914bdff66ef6.png)
 
-Back View:
+Bottom view:
 ![image](https://user-images.githubusercontent.com/84528674/120714423-2aa9b880-c491-11eb-918b-4bcee25e5786.png)
 
-Front view, labeled connection uses:
+Top view, labeled connection uses:
 ![image](https://user-images.githubusercontent.com/84528674/120714649-79efe900-c491-11eb-8632-b5b59cf0a7f1.png)
 
 
 ## MicroDriver Board Schematic
+Top view of pins:
 ![image](https://user-images.githubusercontent.com/84528674/120715474-a0625400-c492-11eb-9346-d0db1d223dad.png)
-**REPLACE WITH OWN IMAGE**
+**REPLACE WITH OWN IMAGES**
+Top view of MicroDriver soldering:
+
+Bottom view of MicroDriver soldering:
+![image](https://user-images.githubusercontent.com/84528674/120715755-0fd84380-c493-11eb-9889-e3a2fb80686b.png)
+
+Top view of encoder pin-to-pin wiring:
 ![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png)
+
 ## Actuator Module Schematic
 (We will add the completed wiring image here and label the connections)
 
