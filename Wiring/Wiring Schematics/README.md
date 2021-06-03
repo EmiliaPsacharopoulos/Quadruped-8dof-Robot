@@ -50,8 +50,8 @@ Top view of encoder pin-to-pin wiring:
 
 ## Actuator Module Schematic
 Stator Wiring
-![image](https://user-images.githubusercontent.com/84528674/120717294-4c0ca380-c495-11eb-9f7c-e8d0128f54dd.png)
 
+![image](https://user-images.githubusercontent.com/84528674/120717294-4c0ca380-c495-11eb-9f7c-e8d0128f54dd.png)
 
 ## Power Supply Schematic
 The main idea with the power supply option to power the robot is splitting two power supplies across four MicroDrivers and the Master Board. 
