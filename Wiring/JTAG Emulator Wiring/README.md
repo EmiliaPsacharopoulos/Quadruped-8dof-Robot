@@ -52,8 +52,8 @@ Follow the following steps to make the adapter.
 
 | Step Description | Visual | 
 | --- | --- |
-| Repeat the following 8 times: Cut 10cm of multi-colored 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. | --- |
-| Solder 7 wires to 7 8Pos 1.27mm vertical headers. Use the 1.5mm heat shrink after each solder to carefully cover the connection Generally avoid using the same color next to each other for easier wire management. **include pin layouts** | --- |
+| Repeat the following 8 times: Cut 10cm of multi-colored 26 AWG wire. Strip less than 0.5cm from one end of each wire, twisting the exposed wire after each strip. | -![image](https://user-images.githubusercontent.com/84528674/120832785-08ff0e80-c52f-11eb-9b7c-ab7c225cd370.png) |
+| Solder 7 wires to 7 8Pos 1.27mm vertical headers. Use the 1.5mm heat shrink after each solder to carefully cover the connection Generally avoid using the same color next to each other for easier wire management. **include pin layouts** | ![image](https://user-images.githubusercontent.com/84528674/120832549-c9382700-c52e-11eb-9bd1-0adb6d76b141.png) ![image](https://user-images.githubusercontent.com/84528674/120832724-f684d500-c52e-11eb-951b-923f23b3eea1.png) |
 | Carefully slide the 2.4mm heat shrink to cover directly over the 8Pos header. Be careful while using the heat gun to avoid applying heat directly on the MicroDriver board. | --- |
 | Slide about 3cm of 1.5mm heat shrink over each individual wire, placing these strips as far as possible from the exposed end. Do not use the heat gun yet, this will be done in later steps. | --- |
 | Orient the wires on the JTAG emulator connection according to the pin readouts in the Pin Mapping section above. Be extremely careful to map between the MicroDriver and the JTAG. | --- |
