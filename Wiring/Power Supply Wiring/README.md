@@ -46,9 +46,9 @@ This step explains the connection from two external power supplies to the front 
 | Small Zipties | ~20 |
 | 1.5mm Heat Shrink | ~6 cm |
 
-We will list the steps for completing the front MicroDriver stack:
+We will list the steps for completing both the front and the back stack with the Master Board. 
 
-### Preparing the Main Power Wires
+### Preparing the Main Power Wires (Repeat Twice)
 | Step Description | Visual | 
 | --- | --- |
 | Cut two 8 inch sections of the red 18 AWG wire. Strip about 1cm on every end, twisting the exposed wire after each strip.  | ![image](https://user-images.githubusercontent.com/84528674/119999298-9676b780-bf9f-11eb-84d9-6db2791f4168.png) |
@@ -58,7 +58,7 @@ We will list the steps for completing the front MicroDriver stack:
 
 The 4mm banana ends will plug into the power supply. Now, we need to route these wires through the E-Stop. 
 
-### Routing the Main Power Wires through the E-Stop Switch
+### Routing the Main Power Wires through the E-Stop Switch (Repeat Twice)
 | Step Description | Visual | 
 | --- | --- |
 | This step assumes that you have prepared the E-Stop Switch from the Machining tab. | ![image](https://user-images.githubusercontent.com/84528674/119998397-a93cbc80-bf9e-11eb-9e2d-5264b6bb1b21.png) |
@@ -67,18 +67,21 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 | Use a screwdriver to open the other side of the switch. Carefully push the other red exposed wire that we made in previous steps through the other cable gland and into the switch. Close the switch afterward such that the wire does not budge if tugged. Snap the switch in place on one of the far end connectors (leaving the middle open). | ![image](https://user-images.githubusercontent.com/84528674/120003856-20288400-bfa4-11eb-9359-319f4c13ae5e.png) |
 
 
-### Preparing the Sub Power Wires
+### Preparing the Sub Power Wires - Front Stack
 | Step Description | Visual | 
 | --- | --- |
 | Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut 2 sections of this length from the 18 AWG red wire and 2 sections of this length from the 18 AWG black wire. Strip 11mm of wire casing one end of each of the 4 individual wires, and twist the exposed wire after each strip. | ![image](https://user-images.githubusercontent.com/84528674/120004952-5e727300-bfa5-11eb-99e6-97ba075e7714.png) |
 | Use two 3-Channel Wago wire splicers, one per red/black colored power wire to separate the supply wire into two sections of sub power wire. The wago connectors require force to lift each bridge up. Make sure to follow the proper spliced length listed on the side (ours was 11mm). | ![image](https://user-images.githubusercontent.com/84528674/120005674-1142d100-bfa6-11eb-9217-8ec98f5ed7f7.png) |
+| Repeat the above steps for the back stack, but cut 3 sections of the length from both colors to account for the Master Board power cable. | ![image](https://user-images.githubusercontent.com/84528674/120821434-75741080-c523-11eb-9274-afe65af2ff90.png) |
 
 
-### Finishing the Sub Power Wires
+
+### Finishing the Sub Power Wires - Front Stack
 | Step Description | Visual | 
 | --- | --- |
 | Strip off 0.5cm to 1cm of wire casing from the empty end of each of the 4 sub power wires. Twist the exposed wire after each strip. Slide one piece of heat shrink from the XT30 connector pack about 5-10 inches away from the exposed end on each of the 4 wires. You will need this to bind the solder. | ![image](https://user-images.githubusercontent.com/84528674/120006748-32f08800-bfa7-11eb-93d8-7890b05fecbd.png) |
 | Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the two XT30 male connectors to the four exposed wires. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | ![image](https://user-images.githubusercontent.com/84528674/120007244-b14d2a00-bfa7-11eb-9b65-d217d60b5c91.png) |
+| Repeat the above steps for two of the back stack's black/red cables, but follow the following procedure for the third black/red cable combination: | --- |
 
 
 ### Overall organization
