@@ -72,7 +72,7 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 | --- | --- |
 | Choose your desired length from the E-Stop switch to the robot. Account extra length for wire management on the robot. Cut 2 sections of this length from the 18 AWG red wire and 2 sections of this length from the 18 AWG black wire. Strip 11mm of wire casing one end of each of the 4 individual wires, and twist the exposed wire after each strip. | ![image](https://user-images.githubusercontent.com/84528674/120004952-5e727300-bfa5-11eb-99e6-97ba075e7714.png) |
 | Use two 3-Channel Wago wire splicers, one per red/black colored power wire to separate the supply wire into two sections of sub power wire. The wago connectors require force to lift each bridge up. Make sure to follow the proper spliced length listed on the side (ours was 11mm). | ![image](https://user-images.githubusercontent.com/84528674/120005674-1142d100-bfa6-11eb-9217-8ec98f5ed7f7.png) |
-| Repeat the above steps for the back stack, but cut 3 sections of the length from both colors to account for the Master Board power cable. | ![image](https://user-images.githubusercontent.com/84528674/120821434-75741080-c523-11eb-9274-afe65af2ff90.png) |
+| Repeat the above steps for the back stack, but cut 3 sections of the length from both colors to account for the Master Board power cable and use 4-way splicer connections instead. | ![image](https://user-images.githubusercontent.com/84528674/120821434-75741080-c523-11eb-9274-afe65af2ff90.png) |
 
 
 
