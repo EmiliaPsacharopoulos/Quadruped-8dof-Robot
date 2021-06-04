@@ -27,7 +27,7 @@ You will need all of the following tools and materials to properly complete the 
 
 | **JTAG Top View** ![image](https://user-images.githubusercontent.com/84528674/120558563-a9d5b880-c3cd-11eb-81c0-c321be55cdf8.png) |
 | --- |
-| **MicroDriver Top View** |
+| **MicroDriver Top View** ![image](https://user-images.githubusercontent.com/84528674/120829285-39dd4480-c52b-11eb-8b14-d7954dc5e632.png)|
 
 **From the forum**
 ![image](https://user-images.githubusercontent.com/84528674/120024751-a30a0880-bfbd-11eb-9081-3ec46814fdf7.png)
