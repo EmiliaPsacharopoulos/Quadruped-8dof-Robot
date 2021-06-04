@@ -40,8 +40,8 @@ This step explains the connection from two external power supplies to the front 
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
 | XT30 Male Connectors | 6 |
-| 3-Channel Wire Splice Connector | 1 | 
-| 4-Channel Wire Splice Connector | 1 | 
+| 3-Channel Wire Splice Connector | 2 | 
+| 4-Channel Wire Splice Connector | 2 | 
 | Socket 2Pos 1.25mm | 1 | 
 | Small Zipties | ~20 |
 | 1.5mm Heat Shrink | ~6 cm |
