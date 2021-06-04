@@ -96,18 +96,19 @@ Two motor stators will connect per MicroDriver board. Each stator will have thre
 
 | Item | Quantity | 
 | --- | --- |
-| 20 AWG Multi-Colored Wire | ~240 cm |
+| 20 AWG Black Wire | ~240 cm |
 | 2.4mm Heat Shrink | ~40 cm |
-| 1.5mm Heat Shrink | ~40 cm |
 | 2mm Female Gold Connectors | 24 |
 
 This is the process of connecting the cables for one MicroDriver board. You will need to complete these steps four times:
 
 | Step Description | Visual | 
 | --- | --- |
-| Choose a color scheme for this MicroDriver's stator wiring. We decided to use a different color for each board that would coordinate with the color scheme for the corresponding stator. | --- |
-| Cut 6: 10cm long, 20AWG wires from this color. Strip about 0.5cm to 1cm on each end of the wire, twisting the exposed wire after each cut.  | --- |
-| Solder one 2mm female gold connector per wire. Use the 2.4mm heat shrink to cover the connection after each solder. | --- |
+| Cut 8: 10cm long, 20AWG wires. Cut 8: 11cm long, 20AWG wires. Cut 8: 12cm long, 20AWG wires. We are doing slightly different lengths to account for the positioning on the MicroDriver Board. It is not necessary to do the slightly different lengths. | ![image](https://user-images.githubusercontent.com/84528674/120827114-1a451c80-c529-11eb-93f0-1a3ee2893e6f.png) |
+| Strip about 0.5cm to 1cm on one end per wire, twisting the exposed wire after each cut.  | ![image](https://user-images.githubusercontent.com/84528674/120827175-28933880-c529-11eb-9fb8-45dccbb20ca0.png) |
+| Solder one 2mm female gold connector per wire. Make sure the orientation is correct before each solder (confirm a male connector can be inserted). | ![image](https://user-images.githubusercontent.com/84528674/120827242-3cd73580-c529-11eb-83fa-507fd5ea4237.png) |
+| Use the 2.4mm heat shrink to cover the entire connection after each solder. | --- |
+| Strip about 0.5cm to 1cm on one the other end of each wire, twisting the exposed wire after each cut.  | --- |
 | Push a few cm of 1.5mm heat shrink on each wire, and slide the heat shrink to the gold connection side of the wire. (**do not** use the heat gun on this yet). | --- |
 | Solder each wire to a right angle pin header on the MicroDriver. Use the 1.5mm heat shrink to cover the connection after each solder. | --- |
 
