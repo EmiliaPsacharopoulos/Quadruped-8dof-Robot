@@ -28,7 +28,8 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## External Power Supply Method
-This step explains the connection from two external power supplies to each of the two MicroDriver stacks. The supply source is routed through an E-Stop switch. The following table lists the necessary tools, parts, and materials to complete this step. 
+This step explains the connection from two external power supplies to the front MicroDriver stack, and the back MicroDriver stack with the Master Board. The supply source is routed through an E-Stop switch. The following table lists the necessary tools, parts, and materials to complete this step. 
+
 | Item | Quantity | 
 | --- | --- |
 | XT30 Female Connector to 4mm Banana Plug Cable | 2 cables |
@@ -39,11 +40,13 @@ This step explains the connection from two external power supplies to each of th
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
 | XT30 Male Connectors | 6 |
-| 3-Channel Wire Splice Connectors | 4 | 
+| 3-Channel Wire Splice Connector | 1 | 
+| 4-Channel Wire Splice Connector | 1 | 
+| Socket 2Pos 1.25mm | 1 | 
 | Small Zipties | ~20 |
 | 1.5mm Heat Shrink | ~6 cm |
 
-We will list the steps for completing one power wire connection. You will need to complete these steps twice, once per power supply:
+We will list the steps for completing the front MicroDriver stack:
 
 ### Preparing the Main Power Wires
 | Step Description | Visual | 
