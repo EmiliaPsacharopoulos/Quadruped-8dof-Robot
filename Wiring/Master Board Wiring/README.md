@@ -44,7 +44,8 @@ Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
 | The Ethernet Jack's positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/121056442-34326980-c78c-11eb-84dc-fafc50e6bb67.png) |
-
+| The Ethernet Jack should align perfectly with the pins on the Master Board. It may be necessary to slightly bend pins to fit the ethernet jack in place.  | --- |
+| Solder all pin connections | --- |
 
 
 ## LED Soldering
