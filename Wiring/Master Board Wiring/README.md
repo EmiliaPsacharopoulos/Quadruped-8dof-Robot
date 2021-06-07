@@ -57,8 +57,8 @@ This step focuses on soldering the LEDs to the Master Board. These multicolored 
 Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
-| https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md Figure out exact pin readouts when the board arrives/ take lots of images. | --- |
-
+| The LEDs positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/121061202-8e81f900-c791-11eb-816f-ac227d8059ec.png) |
+| Solder all pin connections | --- |
 
 
 ## Header Pin Soldering
