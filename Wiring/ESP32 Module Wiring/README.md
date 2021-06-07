@@ -21,7 +21,7 @@ You will need all of the following tools and materials to properly complete the 
 
 ## Table of Contents
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/ESP32%20Module%20Wiring/README.md#pin-mapping)
-2. [Flashing Connections]
+2. [Flashing Connections](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/ESP32%20Module%20Wiring/README.md#flashing-connections)
 
 ## Pin Mapping
 
