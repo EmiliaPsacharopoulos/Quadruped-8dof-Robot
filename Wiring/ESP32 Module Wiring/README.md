@@ -38,7 +38,7 @@ This step focuses on making the flashing connection circuit between the ESP32 an
 
 
 
-Follow the following steps to make the adapter. 
+Follow the following steps to make the circuit. 
 
 | Step Description | Visual | 
 | --- | --- |
