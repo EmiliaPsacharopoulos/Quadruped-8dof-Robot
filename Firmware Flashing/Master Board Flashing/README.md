@@ -1,10 +1,23 @@
 # Master Board Flashing
 [Return to the flashing Table of Contents](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Firmware%20Flashing/README.md#table-of-contents)
 
-We provide instructions for flashing the Master Boards in this section, and address common errors found on the [official forum](https://odri.discourse.group/). This section assumes you have already completed the necessary ESP32 soldering from the wiring tab.
+We provide instructions for flashing the Master Boards in this section, mostly by linking to external sources that already provide these instructions. This section assumes you have already completed the necessary ESP32 soldering from the wiring tab.
 
-## Table of Contents
 https://github.com/open-dynamic-robot-initiative/master-board/blob/master/firmware/README.md
 
 
 https://www.addicore.com/D1-Mini-Dev-Board-p/ad318.htm
+
+
+## Table of Contents
+1. Installation
+2. Flashing the Master Board
+
+
+## Installation 
+1. [Install the expressif idf SDK](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/)
+2. [Install the esptool](https://github.com/espressif/esptool#esptoolpy)
+
+
+## Flashing the Master Board
+https://github.com/open-dynamic-robot-initiative/master-board/blob/master/firmware/README.md#flashing-the-firmware
