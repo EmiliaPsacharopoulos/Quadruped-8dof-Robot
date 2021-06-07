@@ -67,7 +67,7 @@ Lastly, we will solder the 5 position pin headers to the back side of the MicroD
 | Step Description | Visual | 
 | --- | --- |
 | The connections visualized. | ![image](https://user-images.githubusercontent.com/84528674/121065109-63e66f00-c796-11eb-98f9-564fd0bd82e5.png) |
-| Solder three right angle 5 position pin headers on each MicroDriver's bottom side of the board **include images/exact pin readouts**| --- |
+| Solder three right angle 5 position pin headers on each MicroDriver's bottom side of the board.| --- |
 
 
 
