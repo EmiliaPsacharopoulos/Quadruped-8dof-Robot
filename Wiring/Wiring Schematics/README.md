@@ -27,36 +27,28 @@ The four MicroDriver Boards are arranged in stacks of two boards. The following 
 | Top view MicroDriver to Master Board | ![image](https://user-images.githubusercontent.com/84528674/120717091-ffc16380-c494-11eb-85ce-e03474413c85.png) |
 
 ## MicroDriver Board Schematic
-Top view of pins:
-![image](https://user-images.githubusercontent.com/84528674/120715474-a0625400-c492-11eb-9346-d0db1d223dad.png)
-
 **REPLACE WITH OWN IMAGES**
 
-Top view of MicroDriver soldering:
-![image](https://user-images.githubusercontent.com/84528674/120716628-4ebac900-c494-11eb-8485-95e0e24657fd.png)
-
-Bottom view of MicroDriver soldering:
-
-![image](https://user-images.githubusercontent.com/84528674/120715755-0fd84380-c493-11eb-9889-e3a2fb80686b.png)
-
-Top view, labeled connection uses:
-![image](https://user-images.githubusercontent.com/84528674/120716922-b5d87d80-c494-11eb-999e-98013a6926a1.png)
-
-Top view of encoder pin-to-pin wiring:
-![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png)
+| Top view of pins: |  ![image](https://user-images.githubusercontent.com/84528674/120715474-a0625400-c492-11eb-9346-d0db1d223dad.png) |
+| --- | --- |
+| Top view of MicroDriver soldering: | ![image](https://user-images.githubusercontent.com/84528674/120716628-4ebac900-c494-11eb-8485-95e0e24657fd.png) |
+| Bottom view of MicroDriver soldering: | ![image](https://user-images.githubusercontent.com/84528674/120715755-0fd84380-c493-11eb-9889-e3a2fb80686b.png) |
+| Top view, labeled connection uses: | ![image](https://user-images.githubusercontent.com/84528674/120716922-b5d87d80-c494-11eb-999e-98013a6926a1.png) |
+| Top view of encoder pin-to-pin wiring: | ![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png) |
 
 ## Actuator Module Schematic
-Stator Wiring
-
-![image](https://user-images.githubusercontent.com/84528674/120717294-4c0ca380-c495-11eb-9f7c-e8d0128f54dd.png)
+| Stator Wiring | ![image](https://user-images.githubusercontent.com/84528674/120717294-4c0ca380-c495-11eb-9f7c-e8d0128f54dd.png) |
+| --- | --- |
 
 ## Power Supply Schematic
 The main idea with the power supply option to power the robot is splitting two power supplies across four MicroDrivers and the Master Board. 
 **REPLACE IMAGE WITH MASTER BOARD POWER ADDITION**
-![image](https://user-images.githubusercontent.com/84528674/120664295-d387f180-c458-11eb-8c1a-fc36c6dd8ccf.png)
-![image](https://user-images.githubusercontent.com/84528674/120674582-3a5dd880-c462-11eb-83c3-c5778c1277d2.png)
+| ![image](https://user-images.githubusercontent.com/84528674/120664295-d387f180-c458-11eb-8c1a-fc36c6dd8ccf.png) |
+| --- |
+| ![image](https://user-images.githubusercontent.com/84528674/120674582-3a5dd880-c462-11eb-83c3-c5778c1277d2.png) |
 
 ## JTAG Emulator Schematic 
-![image](https://user-images.githubusercontent.com/84528674/120709638-15ca2680-c48b-11eb-85ed-ee46989f4293.png)
-![image](https://user-images.githubusercontent.com/84528674/120709690-2bd7e700-c48b-11eb-9ab5-60cec50478d1.png)
+| ![image](https://user-images.githubusercontent.com/84528674/120709638-15ca2680-c48b-11eb-85ed-ee46989f4293.png) |
+| --- |
+| ![image](https://user-images.githubusercontent.com/84528674/120709690-2bd7e700-c48b-11eb-9ab5-60cec50478d1.png) |
 
