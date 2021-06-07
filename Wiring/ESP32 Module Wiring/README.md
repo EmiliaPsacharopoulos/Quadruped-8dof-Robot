@@ -27,7 +27,7 @@ You will need all of the following tools and materials to properly complete the 
 
 | **ESP32 Top View** | ![image](https://user-images.githubusercontent.com/84528674/121071031-6e583700-c79d-11eb-9a0f-4bfa9c00a56a.png) |
 | --- | --- |
-| **Master Board Top View** | |
+| **Master Board Top View** | ![image](https://user-images.githubusercontent.com/84528674/121080958-1116b280-c7aa-11eb-920b-dc0cf18edd45.png) |
 
 
 ## Flashing Connections
