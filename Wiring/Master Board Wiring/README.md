@@ -43,7 +43,7 @@ This step focuses on soldering the ethernet jack to the Master Board. The ethern
 Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
-| https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md Figure out exact pin readouts when the board arrives/ take lots of images. | --- |
+| The Ethernet Jack's positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/121056442-34326980-c78c-11eb-84dc-fafc50e6bb67.png) |
 
 
 
