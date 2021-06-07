@@ -102,10 +102,10 @@ Complete these steps once:
 | Connect the 10-pin IDC Socket Rainbow Breakout Cable to the other end of the 10-pin Socket/Socket IDC Cable. | --- |
 | **need to figure out if the wires need to be extended/shortened** (they extended theirs -- reason unknown) | --- |
 | Use wire cutters to remove the female sockets on all 10 conductors. | --- |
-| Use the heat gun to apply 1.5mm shrink on the ends of the following wires, as according to the **pin layout** (these wires will not be used). | --- |
+| Use the heat gun to apply 1.5mm shrink on the ends of the following wires, as according to the **pin layout** (these wires will not be used). | ![image](https://user-images.githubusercontent.com/84528674/121066975-7feb1000-c798-11eb-976e-556f56b4f001.png) |
 | Strip the remaining wires with wire strippers to about 0.5cm of casing. | --- |
 | Crimp these exposed wires with the DF13 crimping tool and reel. **lots of images/steps** | --- |
-| Insert the wires according to the **pin layout** into the DF13 4 pin socket. | --- |
+| Insert the wires according to the **pin layout** into the DF13 4 pin socket. | ![image](https://user-images.githubusercontent.com/84528674/121066985-84afc400-c798-11eb-9037-fa110ea1b86e.png) |
 
 
 **Insert picture of final attachment**
