@@ -10,7 +10,7 @@ https://www.addicore.com/D1-Mini-Dev-Board-p/ad318.htm
 
 
 ## Table of Contents
-1. Installation
+1. [Installation](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Firmware%20Flashing/Master%20Board%20Flashing/README.md#installation)
 2. Flashing the Master Board
 
 
