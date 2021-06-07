@@ -14,20 +14,17 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 ## System Overview Schematic
 The four MicroDriver Boards are arranged in stacks of two boards. The following schematic depicts the wiring per MicroDriver board:
 **REPLACE WITH OWN FINISHED MASTER BOARD ONCE COMPLETE**
-![image](https://user-images.githubusercontent.com/84528674/120712446-a35b4580-c48e-11eb-8046-ba50bb617a32.png)
+
+| ![image](https://user-images.githubusercontent.com/84528674/120712446-a35b4580-c48e-11eb-8046-ba50bb617a32.png) |
+| --- |
 
 ## Master Board Schematic
-Top view:
-![image](https://user-images.githubusercontent.com/84528674/120714237-f1714880-c490-11eb-91ce-914bdff66ef6.png)
 
-Bottom view:
-![image](https://user-images.githubusercontent.com/84528674/120714423-2aa9b880-c491-11eb-918b-4bcee25e5786.png)
-
-Top view, labeled connection uses:
-![image](https://user-images.githubusercontent.com/84528674/120714649-79efe900-c491-11eb-8632-b5b59cf0a7f1.png)
-
-Top view MicroDriver to Master Board
-![image](https://user-images.githubusercontent.com/84528674/120717091-ffc16380-c494-11eb-85ce-e03474413c85.png)
+| Top view: | ![image](https://user-images.githubusercontent.com/84528674/120714237-f1714880-c490-11eb-91ce-914bdff66ef6.png) |
+| --- | --- |
+| Bottom view: | ![image](https://user-images.githubusercontent.com/84528674/120714423-2aa9b880-c491-11eb-918b-4bcee25e5786.png) |
+| Top view, labeled connection uses: | ![image](https://user-images.githubusercontent.com/84528674/120714649-79efe900-c491-11eb-8632-b5b59cf0a7f1.png)| 
+| Top view MicroDriver to Master Board | ![image](https://user-images.githubusercontent.com/84528674/120717091-ffc16380-c494-11eb-85ce-e03474413c85.png) |
 
 ## MicroDriver Board Schematic
 Top view of pins:
