@@ -8,6 +8,7 @@
 4. [Actuator Module Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Actuator%20Module%20Wiring#actuator-module-wiring)
 5. [Power Supply Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/Power%20Supply%20Wiring#power-supply-wiring)
 6. [JTAG Emulator Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#jtag-emulator-wiring)
+7. [ESP32 Module Wiring]
 
 ## Wiring Description
 The main electrical components of this 8 degree of freedom quadruped robot include:
