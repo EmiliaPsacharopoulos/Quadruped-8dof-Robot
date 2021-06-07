@@ -41,9 +41,11 @@ Each MicroDriver board needs 6 resistors soldered on its back.
 | --- | --- |
 | Precision Resistors | 24 |
 
-Record exact pins here (list and include image(s))
-
-Include images documenting the soldering process.
+Solder 6 resistors per Micro Driver:
+| Step Description | Visual | 
+| --- | --- |
+| Resistor positioning on the back side of the Micro Driver. | ![image](https://user-images.githubusercontent.com/84528674/121063528-6e076e00-c794-11eb-9406-c3b908235d50.png) |
+| Soldering step/image | --- |
 
 ## Pin Header Soldering
 This step focuses on soldering all necessary pin headers to the MicroDriver.
