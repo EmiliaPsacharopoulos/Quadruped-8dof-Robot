@@ -22,16 +22,13 @@ You will need all of the following tools and materials to properly complete the 
 ## Table of Contents
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/JTAG%20Emulator%20Wiring/README.md#pin-mapping)
 2. [Flashing Wire](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring/JTAG%20Emulator%20Wiring#flashing-wire)
+3. Troubleshooting
 
 ## Pin Mapping
 
 | **JTAG Top View** ![image](https://user-images.githubusercontent.com/84528674/120558563-a9d5b880-c3cd-11eb-81c0-c321be55cdf8.png) |
 | --- |
 | **MicroDriver Top View** ![image](https://user-images.githubusercontent.com/84528674/120829285-39dd4480-c52b-11eb-8b14-d7954dc5e632.png)|
-
-**From the forum**
-![image](https://user-images.githubusercontent.com/84528674/120024751-a30a0880-bfbd-11eb-9081-3ec46814fdf7.png)
-
 
 
 ## Flashing Wire
@@ -59,3 +56,7 @@ Follow the following steps to make the adapter.
 | Slide 1.5mm heat shrink to the MicroDriver end of this cable for each wire. Solder the 7 exposed wires from the cable assembled above, again being very careful to follow the correct orientation. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. | --- |
 | We will now make the bridge wire. Cut about 4cm of the 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. Slide two ~1cm strips of 1.5mm heat shrink to the center of the wire.| --- |
 | Solder the bridging wire to the following pin headers on the JTAG 12pin header, using the heat gun to bind each shrink strip after each solder. | --- |
+
+
+## Troubleshooting
+![image](https://user-images.githubusercontent.com/84528674/120024751-a30a0880-bfbd-11eb-9081-3ec46814fdf7.png)
