@@ -31,3 +31,14 @@ You will need all of the following tools and materials to properly complete the 
 
 
 ## Flashing Connections
+This step focuses on making the flashing connection circuit between the ESP32 and the Master Board. You will need to purchase a micro USB to serial adapter.
+
+| Item | Quantity | 
+| --- | --- |
+
+
+
+Follow the following steps to make the adapter. 
+
+| Step Description | Visual | 
+| --- | --- |
