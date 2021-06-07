@@ -42,3 +42,4 @@ Follow the following steps to make the circuit.
 
 | Step Description | Visual | 
 | --- | --- |
+| Remove the ESP8266 module | ![image](https://user-images.githubusercontent.com/84528674/121068909-d3f6f400-c79a-11eb-9071-79553ac5caa6.png) |
