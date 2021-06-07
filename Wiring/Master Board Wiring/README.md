@@ -22,9 +22,8 @@ You will need all of the following tools and materials to properly complete the 
 1. [Pin Mapping](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#pin-mapping)
 2. [Ethernet Jack Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#ethernet-jack-soldering)
 3. [LED Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#led-soldering)
-4. [Header Pin Soldering](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#header-pin-soldering)
-5. [Micro Driver Connection Cable Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#micro-driver-connection-cable-assembly)
-6. [IMU Cable Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#imu-cable-assembly)
+4. [Micro Driver Connection Cable Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#micro-driver-connection-cable-assembly)
+5. [IMU Cable Assembly](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Master%20Board%20Wiring/README.md#imu-cable-assembly)
 
 
 ## Pin Mapping
@@ -59,24 +58,6 @@ Here are the steps for completing this connection:
 | --- | --- |
 | The LEDs positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/121061202-8e81f900-c791-11eb-816f-ac227d8059ec.png) |
 | Solder all pin connections | --- |
-
-
-## Header Pin Soldering
-This step focuses on soldering the header pins to the Master Board. The header pins are necessary for the other components on the robot to connect to the Master Board.
-| Item | Quantity | 
-| --- | --- |
-| Vertical 2Pos Header| 1 |
-| Vertical 3Pos Header| 1 |
-| Vertical 4Pos Header| 1 |
-| Vertical 5Pos Header| 9 |
-| Vertical 6Pos Header| 1 |
-
-Here are the steps for completing this connection:
-| Step Description | Visual | 
-| --- | --- |
-| **NOTE: they ordered the headers pre-soldered; we may or may not have to do this -- need to wait for the boards to come in**
-https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_ordering_soldering.md | --- |
-
 
 
 ## Micro Driver Connection Cable Assembly
