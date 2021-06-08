@@ -3,9 +3,6 @@
 
 The [Open Dynamic Robot Initiative's Bill of Materials](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware#open-robot-actuator-hardware) contains many parts that do not ship to the US and does not have a complete masterlist of quantities for the 8 degree of freedom robot. This section addresses both.
 
-To do: insert a link here to see the BOM in excel view.
-Note: We will refine the BOM to our process during the summer.
-
 
 We list below all materials used to construct the 8 degree of freedom quadruped robot. Any tools already owned that fit the detailed criteria do not need to be repurchased. However, the components are highly specific to this model and should be purchased if you do not own the exact detailed specifications already. See the [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints#printers) tab for information on the 3D printers used (information not included in this BOM). Additionally, purchase an M20 drill bit if you do not own a dremel. 
 
