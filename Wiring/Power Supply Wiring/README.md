@@ -34,9 +34,7 @@ This step explains the connection from two external power supplies to the front 
 | --- | --- |
 | XT30 Female Connector to 4mm Banana Plug Cable | 2 cables |
 | Braided Cable Sleeve | ~5 m |
-| E-Stop Switch | 1 |
-| Extra E-Stop Switch Mechanism | 1 |
-| Cable Gland | 2 | 
+| E-Stop Switch (modified) | 1 |
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
 | XT30 Male Connectors | 6 |
