@@ -6,6 +6,9 @@ The [Open Dynamic Robot Initiative's Bill of Materials](https://github.com/open-
 To do: insert a link here to see the BOM in excel view.
 Note: We will refine the BOM to our process during the summer.
 
+
+We list below all materials used to construct an 8 degree of freedom quadruped robot. Any tools already owned that fit the detailed criteria do not need to be repurchased. However, the components are highly specific to this model and should be purchased if you do not own the exact detailed specifications already.
+
 ## Table of Contents
 1. [3D Printing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#3d-printing)
 2. [Actuator Components](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#actuator-components)
