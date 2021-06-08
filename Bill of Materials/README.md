@@ -141,7 +141,7 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | Screwdriver and Plier Set | Wiha 26190 | Amazon B00018AO0W | 1 |
 | Metric Allen Key Set | 9 Piece Set | McMaster-Carr 2617N35 | 1 |
 | Metric Drill Set | 13 Piece Set | McMaster-Carr 2788A11 | 1 |
-| Hand Drill |  | Home Depot 312462410 | 1 | 
+| Power Drill | Handheld | Home Depot 312462410 | 1 | 
 | Hand Vice | Chuck-Style, 0.040"-0.25" Opening | McMaster-Carr 5204A41 | 1 |
 | Metric Taps | 9 Piece Set | Amazon B08F2Q3BYL | 1 |
 | Tap Handle |  | McMaster-Carr 2546A23 | 1 |
