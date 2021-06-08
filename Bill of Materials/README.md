@@ -7,7 +7,7 @@ To do: insert a link here to see the BOM in excel view.
 Note: We will refine the BOM to our process during the summer.
 
 
-We list below all materials used to construct the 8 degree of freedom quadruped robot. Any tools already owned that fit the detailed criteria do not need to be repurchased. However, the components are highly specific to this model and should be purchased if you do not own the exact detailed specifications already.
+We list below all materials used to construct the 8 degree of freedom quadruped robot. Any tools already owned that fit the detailed criteria do not need to be repurchased. However, the components are highly specific to this model and should be purchased if you do not own the exact detailed specifications already. See the [Manufacturing 3D Prints](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Manufacturing%203D%20Prints#printers) tab for information on the 3D printers used (information not included in this BOM).
 
 ## Table of Contents
 1. [3D Printing](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Bill%20of%20Materials/README.md#3d-printing)
