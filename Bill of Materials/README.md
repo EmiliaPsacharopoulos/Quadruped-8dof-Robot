@@ -67,18 +67,17 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 ## Connectors
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
-| Straight Header 4 Pin | Hirose DF13 | Digi-Key H2193-ND | 1 |
-| Straight Header 5 Pin | Hirose DF13 | Digi-Key H2194-ND | 16 |
-| Right Angle Header 5 Pin | Hirose DF13 | Digi-Key H2202-ND | 20 |
-| Socket 4 Pin | Hirose DF13 | Digi-Key H2181-ND | 3 |
-| Socket 5 Pin | Hirose DF13 | Digi-Key H2182-ND | 25 |
-| Right Angle Pin Headers  | 2.54mm | Digi-Key WM8096-ND | 30 |
-| Gold Bullet Connectors | 2mm, pairs | Amazon B00EZK3IO6 | 50 |
-| XT30 Connectors | 20 pairs, male and female | Amazon B0875MBLNH | 1 |
+| Socket 2 Pin | Hirose DF13, recommend purchasing extras | Digi-Key H2179-ND | 2 |
+| Socket 4 Pin | Hirose DF13, recommend purchasing extras | Digi-Key H2181-ND | 1 |
+| Socket 5 Pin | Hirose DF13, recommend purchasing extras | Digi-Key H2182-ND | 17 |
+| Right Angle Pin Headers  | 2.54mm pitch, recommend purchasing extras | Digi-Key WM8096-ND | 32 |
+| Right Angle Header 5 Pin | Hirose DF13, recommend purchasing extras | Digi-Key H2202-ND | 12 |
+| Pin Header 8Pos | 1.27mm pitch, recommend purchasing extras | Mouser 575-8521000810003000 | 1 |
 | Pin Header | 2.54mm, pack of 5 | RS 674-2347 | 1 |
-| Power Connector | Male, 4mm, black and red | Digi-Key 501-1351-ND | 2 |
+| Gold Bullet Connectors | 2mm, 50 pairs | Amazon B00EZK3IO6 | 1 |
+| XT30 Connectors | 20 pairs, male and female | Amazon B0875MBLNH | 1 |
 | Wire Splice Connectors | 2,3,5 Port Assortment Pack | Amazon B07NKT2P2F | 1 |
-| Ethernet Jack |  | LCSC Electronics C12074 | 1 |
+| Ethernet Jack | HanRun | LCSC Electronics C12074 | 1 |
 | Crimp Terminal Contact | 26-30 AWG, 10000 terminals | Digi-Key H9992CT-ND | 1 |
 
 
@@ -90,9 +89,10 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
 | Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 100 ft |
 | Ethernet Cable | Preferably w/o grounding | Amazon B003O973OA | 10 ft |
-| Heat Shrink Tubing | 1.5mm | Amazon B089W2YQ4H | 164 ft |
-| Heat Shrink Tubing | 2.4mm | RS 914-6821 | 10 m |
-| Braided Cable Sleeve | 5mm | RS 187-4622 | 10 m |
+| Heat Shrink Assortment | 12 sizes, purchase more as needed | Amazon B08SMGQ93M | 1120 pcs |
+| Braided Cable Sleeve | 0.75 inch diameter | Amazon B00H2RUBYE | 10 ft |
+| IDC Ribbon Cable | 10-pin Socket/Socket, 1.5 inch | Adafruit 556 | 1 |
+| IDC Breakout Cable | 10-pin Socket/Breakout, 6 inch | Adafruit 1199 | 1 |
 
 
 ## Circuit Boards
@@ -103,6 +103,7 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | Master Board | Contact Manufacturer  | Beta Layout AN5eea24ae72697 | 1 |
 | JTAG Emulator  | XDS100V2 USB | Digi-Key 702302 | 1 |
 | Lord Microstrain IMU | 3DM-CX5-25 | Mouser 130-3DM-CX5-25 | 1 |
+| ESP8266 Board | D1 Mini WiFi Dev | Amazon B08C7FYM5T | 1 |
 
 
 ## General Electronics
@@ -110,9 +111,10 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | --- | --- | --- | --- |
 | XBox One Controller | Wireless | Microsoft Store | 1 |
 | XBox Play&Charge Kit |  | Microsoft Store | 1 |
-| NeoPixel LED | RGBW Mini Button PCB | Adafruit 4776 | 1 |
+| NeoPixel LED | 5050 RGB w/ Integrated Driver Chip, 10 pack | Adafruit 1655 | 1 |
 | Precision Resistors  | 7mΩ, Metal strip resistor | RS 824-0348 | 24 |
-| E-Stop Switch |  | RS 790-3546 | 1 |
+| E-Stop Switch | LOVATO | RS 790-3546 | 1 |
+| E-Stop Circuit Breaker | LOVATO | Allied Electronics 71893781 | 1 |
 
 
 ## Tools for Electronics
@@ -120,19 +122,17 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | --- | --- | --- | --- |
 | Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
 | Zipties | 500 Pack | Amazon B0777LWBD9 | 1 |
-| Power Supply | 30V, 20A max | Amazon B00395DK28 | 1 |
-| Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
-| Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
-| Label Tape | DYMO LabelManager 160 | Amazon B07BKY9HW8 | 1 |
-| Soldering Iron | --- | --- | 1 |
-| Solder Spool |  --- | --- | 1 |
-| Solder Holder | ---| --- | 1 |
-| Soldering Vise | --- | --- | 1 |
-| Cleaning Sponge | --- | --- | 1 |
-| Filter Fan | --- | --- | 1 |
-| Wire Cutter | --- | --- | 1 |
-| Wire Stripper | --- | --- | 1 |
-| Fine Point Tweezer | --- | --- | 1 |
+| Power Supply | 30V, 20A max | Amazon B00395DK28 | 2 |
+| Heat Gun | Temperature does not need to be adjustable | Amazon B00EU2T8GG | 1 |
+| Label Maker | Purchase extra label tape and batteries if necessary | Amazon B005X9VZ70 | 1 |
+| Wire Cutter |  | Home Depot 205652216 | 1 |
+| Wire Stripper | encompasses ~18 to 26 AWG | Home Depot 305303655 | 1 |
+| Electrical Tweezer |  | Amazon B006ZBB7TG | 1 |
+| Soldering Iron Kit | Cleaning sponge, iron holder, adjustable temperature | Techni-Tool 821SO890 | 1 |
+| Solder Spool |  ~0.8mm diameter is sufficient | Amazon B00DHHAZ3A | 1 |
+| Soldering Helping Hands | 2 hands and a magnifying glass | Amazon B08DNMT96W | 1 |
+| Soldering Base for Boards | Vacuum base | Amazon B081YXPRNN | 1 |
+| Filter Fan | Verified to extract soldering fumes | Techni-Tool 821SO400 | 1 |
 
 
 ## Tools for Manufacturing 
