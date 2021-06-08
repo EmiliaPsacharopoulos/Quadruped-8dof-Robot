@@ -74,9 +74,7 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Socket 5 Pin | Hirose DF13 | Digi-Key H2182-ND | 25 |
 | Right Angle Pin Headers  | 2.54mm | Digi-Key WM8096-ND | 30 |
 | Gold Bullet Connectors | 2mm, pairs | Amazon B00EZK3IO6 | 50 |
-| Receptacle Connector IDC | 10Pos, rectangular, 30 AWG | Digi-Key 952-2561-ND | 1 |
-| XT30U Connectors | 20 pairs, male and female | Amazon B0875MBLNH | 1 |
-| Pin Header | 8Pos, 1.27mm  | Digi-Key 609-3711-ND | 1 |
+| XT30 Connectors | 20 pairs, male and female | Amazon B0875MBLNH | 1 |
 | Pin Header | 2.54mm, pack of 5 | RS 674-2347 | 1 |
 | Power Connector | Male, 4mm, black and red | Digi-Key 501-1351-ND | 2 |
 | Wire Splice Connectors | 2,3,5 Port Assortment Pack | Amazon B07NKT2P2F | 1 |
@@ -87,15 +85,11 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 ## Wires
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
-| XT60 female to HXT 4mm | Pack of 2 | Amazon B073ZGQGHR | 2 |
 | XT30 Female to 4mm Banana | Pack of 2 | Amazon B01M01W1XW | 1 |
-| 3S LiPo Balance Wire | JST-XH  | Amazon B0742K3KJ3 | 2 |
 | Wire Cables | 26 AWG, 5 Color Pack | Amazon B01KQ2NURG | 33 ft |
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
 | Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 100 ft |
-| Ribbon Cable | 10Con, 1.27mm | Digi-Key MD10R-1-ND | 1 ft |
 | Ethernet Cable | Preferably w/o grounding | Amazon B003O973OA | 10 ft |
-| JST to XT30 | Male and female, 2 sets | Amazon B07MK8F1J9 | 2 |
 | Heat Shrink Tubing | 1.5mm | Amazon B089W2YQ4H | 164 ft |
 | Heat Shrink Tubing | 2.4mm | RS 914-6821 | 10 m |
 | Braided Cable Sleeve | 5mm | RS 187-4622 | 10 m |
@@ -119,21 +113,13 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | NeoPixel LED | RGBW Mini Button PCB | Adafruit 4776 | 1 |
 | Precision Resistors  | 7mΩ, Metal strip resistor | RS 824-0348 | 24 |
 | E-Stop Switch |  | RS 790-3546 | 1 |
-| Push Button Switch | Red | Mouser 633-SB4011NCHC | 2 |
-| Push Button Switch | Green | Digi-Key EG4726-ND | 2 |
-| AAA Batteries | 6 count | Amazon B004M7YC8S | 1 |
-| LiPo Battery Pack | Turnigy 850mAh 3S 60C w/ XT30 | HobbyKing 9067000518-0 | 2 |
-| Smart Duo LiPo Charger | ISDT D2 | Amazon B073WVVZ5D | 1 |
 
 
 ## Tools for Electronics
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
-| LiPo Charging Safety Case | BatSafe 300x220x160mm | HobbyKing 9866000001-0 | 1 |
-| Firestop Pillow |  | Grainger 3PA73 | 1 |
 | Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
 | Zipties | 500 Pack | Amazon B0777LWBD9 | 1 |
-| Velcro Straps | 12 Pack | Amazon B08MZYWQ3L | 1 |
 | Power Supply | 30V, 20A max | Amazon B00395DK28 | 1 |
 | Heat Gun | Genesis GHG1500A | Amazon B00EU2T8GG | 1 |
 | Label Maker | DYMO LabelManager 160 | Amazon B005X9VZ70 | 1 |
