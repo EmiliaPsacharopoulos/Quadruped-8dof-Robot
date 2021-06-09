@@ -94,6 +94,7 @@ The IMU connects directly to the Master Board. The original Open Dynamic Robot I
 | Hirose DF13 4pin Socket | 1 |
 | Hirose DF13 Crimp Terminals | 4 Terminals |
 | 1.5mm Heat Shrink | ~10cm |
+| 28 AWG Wire | ~28cm |
 
 Complete these steps once: 
 | Step Description | Visual | 
