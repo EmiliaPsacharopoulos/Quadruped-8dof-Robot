@@ -104,7 +104,7 @@ Complete these steps once:
 | Cut 4 strips 7cm long of 28 AWG wire.  | --- |
 | Crimp the end of each wire using the Hirose crimper and crimp terminals. | --- |
 | Use tweezers to insert the crimps into a Hirose DF13 4pin Socket. | --- |
-| The pin orientation of the Hirose 4-pin socket. | --- |
+| The pin orientation of the Hirose 4-pin socket. | ![image](https://user-images.githubusercontent.com/84528674/121393654-90c58e00-c91e-11eb-84be-739b059bf564.png) |
 | Strip and twist about 0.5cm off the end of each remaining wire. Solder the four wires to the four headers according to the pin orientation of the 4-pin socket shown above. | --- |
 
 
