@@ -89,8 +89,8 @@ The IMU connects directly to the Master Board. The original Open Dynamic Robot I
 
 | Item | Quantity | 
 | --- | --- |
-| 10-pin Socket/Socket IDC Cable | 1.5 inches |
-| 10-pin IDC Socket Rainbow Breakout Cable | 6 inches | 
+| IDC Ribbon Cable | 10-pin Socket/Socket, 1.27mm pitch, 150mm long |
+| IDC Breakout Board | 10-pin Header, 1.27mm pitch, Adafruit ADA2743 | 
 | Hirose DF13 4pin Socket | 1 |
 | Hirose DF13 Crimp Terminals | 4 Terminals |
 | 1.5mm Heat Shrink | ~10cm |
