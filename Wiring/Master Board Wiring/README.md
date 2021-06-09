@@ -100,6 +100,8 @@ Complete these steps once:
 | --- | --- |
 | The pin orientation of the PCB for the rectangular connection to the IMU. Note that the notch will point away from the IMU. | ![image](https://user-images.githubusercontent.com/84528674/121386169-c4e98080-c917-11eb-8c3b-5a86cd7973af.png) ![image](https://user-images.githubusercontent.com/84528674/121387904-09295080-c919-11eb-8a78-72ad1bbda48f.png) |
 | The pin orientation of the breakout board's rectangular connection (implementing the same numbering system used for the PCB shown above). | ![image](https://user-images.githubusercontent.com/84528674/121389939-e5670a00-c91a-11eb-9e6a-0edaa310f9d2.png) |
-
+| Cut 4 strips 7cm long of 28 AWG wire. Strip about 0.5cm off the one end of each wire, twisting the exposed wire after each strip.  | --- |
+| --- | --- |
+| --- | --- |
 
 **Insert picture of final attachment**
