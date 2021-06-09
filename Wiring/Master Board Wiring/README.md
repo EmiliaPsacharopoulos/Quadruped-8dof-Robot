@@ -98,7 +98,7 @@ The IMU connects directly to the Master Board. The original Open Dynamic Robot I
 Complete these steps once: 
 | Step Description | Visual | 
 | --- | --- |
-| The pin orientation of the PCB for the rectangular connection to the IMU. Note that the notch will point away from the IMU. | ![image](https://user-images.githubusercontent.com/84528674/121386169-c4e98080-c917-11eb-8c3b-5a86cd7973af.png) |
+| The pin orientation of the PCB for the rectangular connection to the IMU. Note that the notch will point away from the IMU. | ![image](https://user-images.githubusercontent.com/84528674/121386169-c4e98080-c917-11eb-8c3b-5a86cd7973af.png) ![image](https://user-images.githubusercontent.com/84528674/121387904-09295080-c919-11eb-8a78-72ad1bbda48f.png) |
 
 
 
