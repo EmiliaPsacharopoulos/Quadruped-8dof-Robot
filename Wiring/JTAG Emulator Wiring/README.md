@@ -56,6 +56,7 @@ Follow the following steps to make the adapter.
 | Remove the pins displayed in this picture (orientation is extremely important). | ![image](https://user-images.githubusercontent.com/84528674/121415594-ea858280-c935-11eb-90d1-0b56909ea8f6.png) |
 | Be extremely careful to map between the MicroDriver and the JTAG. | ![image](https://user-images.githubusercontent.com/84528674/121417373-d3479480-c937-11eb-9ce8-eea29bd4ac6b.png) |
 | Slide 1.5mm heat shrink to the MicroDriver end of this cable for each wire. Solder the 7 exposed wires from the cable assembled above, again being very careful to follow the correct orientation. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. | --- |
+| Carefully mark the orientation to plug in the header pin. | --- |
 
 
 ## Troubleshooting
