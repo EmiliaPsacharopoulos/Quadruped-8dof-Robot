@@ -89,6 +89,7 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
 | Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 100 ft |
 | Ethernet Cable | Preferably w/o grounding | Amazon B003O973OA | 10 ft |
+| MicroUSB to Serial Adapter Cable |  | Amazon B089K93L61 | 1 |
 | Heat Shrink Assortment | 12 sizes, purchase more as needed | Amazon B08SMGQ93M | 1120 pcs |
 | Braided Cable Sleeve | 0.75 inch diameter | Amazon B00H2RUBYE | 10 ft |
 | IDC Ribbon Cable | 10-pin Socket/Socket, 1.5 inch | Adafruit 556 | 1 |
