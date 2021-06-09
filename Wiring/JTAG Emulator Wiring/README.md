@@ -54,10 +54,8 @@ Follow the following steps to make the adapter.
 | Solder 7 wires to the 8Pos 1.27mm vertical header according to the orientation above. This is an extremely difficult process for newcomers to micro soldering, so it is highly recommmended to buy more 8position headers than just the one. We had to restart four times before succeeding (it is tedious to remove the bridged solder -- easier to start over when this happens). Note: we found the best strategy as: 1) wedge a razor between the front and back headers 2) solder a corner and use thin diameter heat shrink to cover up the connection 3) repeat for all corners 4) solder the middle headers last. 5) Cover the entire 8Position header with properly fitting heat shrink. | ![image](https://user-images.githubusercontent.com/84528674/120861059-b59fb700-c554-11eb-9cc2-ba9ece85a091.png) |
 | Use pliers to obtain 7-columns from the 2.54mm Pitch Vertical Pin Headers.| ![image](https://user-images.githubusercontent.com/84528674/121409970-11d95100-c930-11eb-93ed-2ca94dd9145b.png) |
 | Remove the pins displayed in this picture (orientation is extremely important). | ![image](https://user-images.githubusercontent.com/84528674/121415594-ea858280-c935-11eb-90d1-0b56909ea8f6.png) |
-| Orient the wires on the JTAG emulator connection according to the pin readouts in the Pin Mapping section above. Be extremely careful to map between the MicroDriver and the JTAG. Remove the pin that aligns with the blocked pin on the JTAG. | --- |
+| Be extremely careful to map between the MicroDriver and the JTAG. | ![image](https://user-images.githubusercontent.com/84528674/121417373-d3479480-c937-11eb-9ce8-eea29bd4ac6b.png) |
 | Slide 1.5mm heat shrink to the MicroDriver end of this cable for each wire. Solder the 7 exposed wires from the cable assembled above, again being very careful to follow the correct orientation. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. | --- |
-| We will now make the bridge wire. Cut about 4cm of the 26 AWG wire. Strip both ends of the wire, twisting the exposed wire after each strip. Slide two ~1cm strips of 1.5mm heat shrink to the center of the wire.| --- |
-| Solder the bridging wire to the following pin headers on the JTAG 12pin header, using the heat gun to bind each shrink strip after each solder. | --- |
 
 
 ## Troubleshooting
