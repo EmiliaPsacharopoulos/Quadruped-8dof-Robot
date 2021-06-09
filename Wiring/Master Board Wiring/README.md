@@ -98,14 +98,8 @@ The IMU connects directly to the Master Board. The original Open Dynamic Robot I
 Complete these steps once: 
 | Step Description | Visual | 
 | --- | --- |
-| Connect the 10-pin Socket/Socket IDC Cable to the IMU. | --- |
-| Connect the 10-pin IDC Socket Rainbow Breakout Cable to the other end of the 10-pin Socket/Socket IDC Cable. | --- |
-| **need to figure out if the wires need to be extended/shortened** (they extended theirs -- reason unknown) | --- |
-| Use wire cutters to remove the female sockets on all 10 conductors. | --- |
-| Use the heat gun to apply 1.5mm shrink on the ends of the following wires, as according to the **pin layout** (these wires will not be used). | ![image](https://user-images.githubusercontent.com/84528674/121066975-7feb1000-c798-11eb-976e-556f56b4f001.png) |
-| Strip the remaining wires with wire strippers to about 0.5cm of casing. | --- |
-| Crimp these exposed wires with the DF13 crimping tool and reel. **lots of images/steps** | --- |
-| Insert the wires according to the **pin layout** into the DF13 4 pin socket. | ![image](https://user-images.githubusercontent.com/84528674/121066985-84afc400-c798-11eb-9037-fa110ea1b86e.png) |
+| The pin orientation of the PCB for the rectangular connection to the IMU. Note that the notch will point away from the IMU. | ![image](https://user-images.githubusercontent.com/84528674/121386169-c4e98080-c917-11eb-8c3b-5a86cd7973af.png) |
+
 
 
 **Insert picture of final attachment**
