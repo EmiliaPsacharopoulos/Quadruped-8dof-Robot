@@ -59,4 +59,4 @@ Follow the following steps to make the adapter.
 
 
 ## Troubleshooting
-Use a digital multimeter to ensure the pins correctly follow their corresponding positions between the 1.27mm header and the 2.54mm header (ie. place prongs at either end and use the signal function).
+Use a digital multimeter to ensure the pins correctly follow their corresponding positions between the 1.27mm header and the 2.54mm header (ie. place prongs at either end and use the signal function). Lastly, make sure that the total length of the cable is 10cm or less.
