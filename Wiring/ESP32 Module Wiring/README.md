@@ -47,7 +47,7 @@ Follow the following steps to make the circuit.
 | Step Description | Visual | 
 | --- | --- |
 | Remove the ESP8266 module by directing a heat gun towards the board until the module falls out (no force required - simply use tweezers to brush the component out once you see solder liquify on the board). Use a filter fan directly pointing towards the board. It is a good idea to purchase extra boards in case a component burns during this process. | ![image](https://user-images.githubusercontent.com/84528674/121068909-d3f6f400-c79a-11eb-9071-79553ac5caa6.png) ![image](https://user-images.githubusercontent.com/84528674/121551068-4fe07e80-c9dd-11eb-90ca-2c6ccfd8c7f7.png) ![image](https://user-images.githubusercontent.com/84528674/121552949-dd709e00-c9de-11eb-8311-52874f379405.png) |
-| Cut 7 sections of 10cm of 26 AWG multicolored wire. Strip about 0.5cm of wire casing on one end of each wire, twisting the exposed wire after each strip.  | --- |
+| Cut 7 sections of 20cm of 26 AWG multicolored wire. Strip about 0.5cm of wire casing on one end of each wire, twisting the exposed wire after each strip.  | --- |
 | Solder the wires to the ESP32 board according to the pin mapping above.  | --- |
 | Crimp the end of each wire. | --- |
 | Place the power and programming wires into the designated positions in the respective 2 and 5 position sockets displayed above. | --- |
