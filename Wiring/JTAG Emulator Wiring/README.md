@@ -55,7 +55,7 @@ Follow the following steps to make the adapter.
 | Use pliers to obtain 7-columns from the 2.54mm Pitch Vertical Pin Headers. Remove the pin displayed in this picture. |![image](https://user-images.githubusercontent.com/84528674/121578465-b1faad00-c9f8-11eb-955f-73eaedc492e1.png)|
 | Be extremely careful to map between the MicroDriver and the JTAG. | ![image](https://user-images.githubusercontent.com/84528674/121579944-36016480-c9fa-11eb-81a2-7d9fe3e843a6.png) |
 | Slide 1.5mm heat shrink to the MicroDriver end of this cable for each wire. Solder the 7 exposed wires from the cable assembled above and a bridge wire, again being very careful to follow the correct orientation. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. Do not touch the pin headers while applying heat -- the pins and solder will slide out. | --- |
-| If the header pins are sliding around after you have soldered the connections, apply large diameter heat shrink over the entire header pin. Also, we decided to remove the unused pins. Note that this will not confuse the JTAG plug-in orientation because the gray blocking pin is on the third pin and the opposite pin is in use. | ![image](https://user-images.githubusercontent.com/84528674/121595164-00657700-ca0c-11eb-9aba-4c1784846ae4.png) |
+| If the header pins are sliding around after you have soldered the connections, apply large diameter heat shrink over the entire header pin. Also, we decided to remove the unused pins. Note that there is still only one orientation that will plug into the JTAG socket pins. | ![image](https://user-images.githubusercontent.com/84528674/121595164-00657700-ca0c-11eb-9aba-4c1784846ae4.png) |
 
 
 ## Troubleshooting
