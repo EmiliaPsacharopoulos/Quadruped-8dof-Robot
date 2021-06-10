@@ -57,6 +57,8 @@ Follow the following steps to make the adapter.
 | Slide 1.5mm heat shrink to the MicroDriver end of this cable for each wire. Solder the 7 exposed wires from the cable assembled above and a bridge wire, again being very careful to follow the correct orientation. After each solder, bring the 1.5mm heat shrink forward and use the heat gun to secure the connection. Do not touch the pin headers while applying heat -- the pins and solder will slide out and you will need to shorten the wires and restart the 2.54mm header soldering. | ![image](https://user-images.githubusercontent.com/84528674/121595946-d496c100-ca0c-11eb-9b40-102944f7ea11.png) |
 | If the header pins are sliding around after you have soldered the connections, apply large diameter heat shrink over the entire header pin. Also, we decided to remove the unused pins. Note that there is still only one orientation that will plug into the JTAG socket pins. | ![image](https://user-images.githubusercontent.com/84528674/121595164-00657700-ca0c-11eb-9aba-4c1784846ae4.png) |
 
+![image](https://user-images.githubusercontent.com/84528674/121599765-8932e180-ca11-11eb-8af7-15308f1c09c8.png)
+
 
 ## Troubleshooting
 Use a digital multimeter to ensure the pins correctly follow their corresponding positions between the 1.27mm header and the 2.54mm header (ie. place prongs at either end and use the signal function). Lastly, make sure that the total length of the cable is 10cm or less.
