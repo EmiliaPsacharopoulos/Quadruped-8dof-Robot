@@ -59,4 +59,4 @@ Follow the following steps to make the adapter.
 
 
 ## Troubleshooting
-![image](https://user-images.githubusercontent.com/84528674/120024751-a30a0880-bfbd-11eb-9081-3ec46814fdf7.png)
+Use a digital multimeter to ensure the pins correctly follow their corresponding positions between the 1.27mm header and the 2.54mm header (ie. place prongs at either end and use the signal function).
