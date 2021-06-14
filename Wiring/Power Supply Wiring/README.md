@@ -1,8 +1,6 @@
 # Power Supply Wiring
 [Return to the wiring Table of Contents](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/tree/main/Wiring#table-of-contents)
 
-**NOTE: remove the banana plugs from the BOM**
-
 The robot can be powered by one of two methods: 
 - External power supply
 - Batteries on the robot
