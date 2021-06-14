@@ -86,7 +86,6 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | --- | --- | --- | --- |
 | XT30 Female to 4mm Banana | Pack of 2 | Amazon B01M01W1XW | 1 |
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
-| Wire Cable | 28 AWG |  | ~30 cm |
 | Wire Cables | 26 AWG, 5 Color Pack | Amazon B01KQ2NURG | 33 ft |
 | Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 100 ft |
 | Ethernet Cable | Preferably w/o grounding | Amazon B003O973OA | 10 ft |
