@@ -3,21 +3,11 @@
 
 This section primarily aims to give a conceptual overview of the robot's wiring. For specific soldering instructions, visit each component's tab from the main wiring Table of Contents.
 
-## Table of Contents
-1. [System Overview Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#system-overview-schematic)
-3. [JTAG Emulator Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#jtag-emulator-schematic)
-4. [ESP32 Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#esp32-module-schematic)
-
 ## System Overview Schematics
 | ![image](https://user-images.githubusercontent.com/84528674/122089227-8d297f80-cdd4-11eb-934c-fca704c3d0c3.png) |
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122113429-1c905c00-cdf0-11eb-8260-a6ad3e122c3c.png) |
-
-
-## JTAG Emulator Schematic 
-| ![image](https://user-images.githubusercontent.com/84528674/120709638-15ca2680-c48b-11eb-85ed-ee46989f4293.png) |
-| --- |
-| ![image](https://user-images.githubusercontent.com/84528674/120709690-2bd7e700-c48b-11eb-9ab5-60cec50478d1.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122117956-78a9af00-cdf5-11eb-9f78-90223adabf16.png) |
 
 ## ESP32 Module Schematic
 | ![image](https://user-images.githubusercontent.com/84528674/121087839-eb41db80-c7b2-11eb-88f0-d45fcf2a4cd4.png) |
