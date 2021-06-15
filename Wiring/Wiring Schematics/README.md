@@ -13,7 +13,7 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 7. [ESP32 Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#esp32-module-schematic)
 
 ## System Overview Schematic
-| ![image](https://user-images.githubusercontent.com/84528674/122084717-138f9280-cdd0-11eb-844d-bb46c122dd31.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122087203-75e99280-cdd2-11eb-867f-54bd9c1d92b0.png) |
 | --- |
 
 ## Master Board Schematic
