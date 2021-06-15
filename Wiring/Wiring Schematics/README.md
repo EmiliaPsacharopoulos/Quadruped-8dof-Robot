@@ -18,6 +18,7 @@ The four MicroDriver Boards are arranged in stacks of two boards. The following 
 
 | ![image](https://user-images.githubusercontent.com/84528674/120712446-a35b4580-c48e-11eb-8046-ba50bb617a32.png) |
 | --- |
+| ![image](https://user-images.githubusercontent.com/84528674/122084717-138f9280-cdd0-11eb-844d-bb46c122dd31.png) |
 
 ## Master Board Schematic
 
