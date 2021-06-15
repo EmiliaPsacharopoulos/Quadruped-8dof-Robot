@@ -8,8 +8,4 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122113429-1c905c00-cdf0-11eb-8260-a6ad3e122c3c.png) |
 | ![image](https://user-images.githubusercontent.com/84528674/122119295-03d77480-cdf7-11eb-923a-642ebaea9a6e.png) |
-
-## ESP32 Module Schematic
-| ![image](https://user-images.githubusercontent.com/84528674/121087839-eb41db80-c7b2-11eb-88f0-d45fcf2a4cd4.png) |
-| --- |
-| ![image](https://user-images.githubusercontent.com/84528674/121087937-0b719a80-c7b3-11eb-83a0-433f2a313737.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122120489-7d239700-cdf8-11eb-957a-f1253086feaa.png) |
