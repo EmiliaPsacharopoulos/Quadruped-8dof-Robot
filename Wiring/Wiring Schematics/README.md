@@ -5,38 +5,15 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 
 ## Table of Contents
 1. [System Overview Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#system-overview-schematic)
-2. [Master Board Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#master-board-schematic)
-3. [MicroDriver Board Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#microdriver-board-schematic)
-4. [Actuator Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#actuator-module-schematic)
-5. [Power Supply Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#power-supply-schematic)
-6. [JTAG Emulator Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#jtag-emulator-schematic)
-7. [ESP32 Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#esp32-module-schematic)
+2. [Power Supply Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#power-supply-schematic)
+3. [JTAG Emulator Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#jtag-emulator-schematic)
+4. [ESP32 Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#esp32-module-schematic)
 
-## System Overview Schematic
+## System Overview Schematics
 | ![image](https://user-images.githubusercontent.com/84528674/122089227-8d297f80-cdd4-11eb-934c-fca704c3d0c3.png) |
 | --- |
+| ![image](https://user-images.githubusercontent.com/84528674/122112532-f28a6a00-cdee-11eb-8bbc-85f255eaf932.png) |
 
-## Master Board Schematic
-
-| Top view: | ![image](https://user-images.githubusercontent.com/84528674/120714237-f1714880-c490-11eb-91ce-914bdff66ef6.png) |
-| --- | --- |
-| Bottom view: | ![image](https://user-images.githubusercontent.com/84528674/120714423-2aa9b880-c491-11eb-918b-4bcee25e5786.png) |
-| Top view, labeled connection uses: | ![image](https://user-images.githubusercontent.com/84528674/120714649-79efe900-c491-11eb-8632-b5b59cf0a7f1.png)| 
-| Top view MicroDriver to Master Board | ![image](https://user-images.githubusercontent.com/84528674/120717091-ffc16380-c494-11eb-85ce-e03474413c85.png) |
-
-## MicroDriver Board Schematic
-**REPLACE WITH OWN IMAGES**
-
-| Top view of pins: |  ![image](https://user-images.githubusercontent.com/84528674/120715474-a0625400-c492-11eb-9346-d0db1d223dad.png) |
-| --- | --- |
-| Top view of MicroDriver soldering: | ![image](https://user-images.githubusercontent.com/84528674/120716628-4ebac900-c494-11eb-8485-95e0e24657fd.png) |
-| Bottom view of MicroDriver soldering: | ![image](https://user-images.githubusercontent.com/84528674/120715755-0fd84380-c493-11eb-9889-e3a2fb80686b.png) |
-| Top view, labeled connection uses: | ![image](https://user-images.githubusercontent.com/84528674/120716922-b5d87d80-c494-11eb-999e-98013a6926a1.png) |
-| Top view of encoder pin-to-pin wiring: | ![image](https://user-images.githubusercontent.com/84528674/120715101-1fa35800-c492-11eb-8a02-1d93c382d861.png) |
-
-## Actuator Module Schematic
-| Stator Wiring | ![image](https://user-images.githubusercontent.com/84528674/120717294-4c0ca380-c495-11eb-9f7c-e8d0128f54dd.png) |
-| --- | --- |
 
 ## Power Supply Schematic
 The main idea with the power supply option to power the robot is splitting two power supplies across four MicroDrivers and the Master Board. 
