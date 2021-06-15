@@ -12,7 +12,7 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 ## System Overview Schematics
 | ![image](https://user-images.githubusercontent.com/84528674/122089227-8d297f80-cdd4-11eb-934c-fca704c3d0c3.png) |
 | --- |
-| ![image](https://user-images.githubusercontent.com/84528674/122112532-f28a6a00-cdee-11eb-8bbc-85f255eaf932.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122113429-1c905c00-cdf0-11eb-8260-a6ad3e122c3c.png) |
 
 
 ## Power Supply Schematic
