@@ -13,12 +13,8 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 7. [ESP32 Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#esp32-module-schematic)
 
 ## System Overview Schematic
-The four MicroDriver Boards are arranged in stacks of two boards. The following schematic depicts the wiring per MicroDriver board:
-**REPLACE WITH OWN FINISHED MASTER BOARD ONCE COMPLETE**
-
-| ![image](https://user-images.githubusercontent.com/84528674/120712446-a35b4580-c48e-11eb-8046-ba50bb617a32.png) |
-| --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122084717-138f9280-cdd0-11eb-844d-bb46c122dd31.png) |
+| --- |
 
 ## Master Board Schematic
 
