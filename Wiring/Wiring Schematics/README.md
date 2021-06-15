@@ -5,7 +5,6 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 
 ## Table of Contents
 1. [System Overview Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#system-overview-schematic)
-2. [Power Supply Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#power-supply-schematic)
 3. [JTAG Emulator Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#jtag-emulator-schematic)
 4. [ESP32 Module Schematic](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Wiring/Wiring%20Schematics/README.md#esp32-module-schematic)
 
@@ -14,13 +13,6 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122113429-1c905c00-cdf0-11eb-8260-a6ad3e122c3c.png) |
 
-
-## Power Supply Schematic
-The main idea with the power supply option to power the robot is splitting two power supplies across four MicroDrivers and the Master Board. 
-**REPLACE IMAGE WITH MASTER BOARD POWER ADDITION**
-| ![image](https://user-images.githubusercontent.com/84528674/120664295-d387f180-c458-11eb-8c1a-fc36c6dd8ccf.png) |
-| --- |
-| ![image](https://user-images.githubusercontent.com/84528674/120674582-3a5dd880-c462-11eb-83c3-c5778c1277d2.png) |
 
 ## JTAG Emulator Schematic 
 | ![image](https://user-images.githubusercontent.com/84528674/120709638-15ca2680-c48b-11eb-85ed-ee46989f4293.png) |
