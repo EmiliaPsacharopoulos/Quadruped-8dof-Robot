@@ -7,5 +7,5 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 | ![image](https://user-images.githubusercontent.com/84528674/122089227-8d297f80-cdd4-11eb-934c-fca704c3d0c3.png) |
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122113429-1c905c00-cdf0-11eb-8260-a6ad3e122c3c.png) |
-| ![image](https://user-images.githubusercontent.com/84528674/122119295-03d77480-cdf7-11eb-923a-642ebaea9a6e.png) |
+|![image](https://user-images.githubusercontent.com/84528674/122119295-03d77480-cdf7-11eb-923a-642ebaea9a6e.png)|
 | ![image](https://user-images.githubusercontent.com/84528674/122120489-7d239700-cdf8-11eb-957a-f1253086feaa.png) |
