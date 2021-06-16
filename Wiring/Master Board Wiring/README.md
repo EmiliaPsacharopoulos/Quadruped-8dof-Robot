@@ -73,15 +73,14 @@ Your robot frame should be completed before attempting this step. Here are the s
 | Step Description | Visual | 
 | --- | --- |
 | The SPI pin-to-pin mapping between the Master Board and MicroDrivers. | ![image](https://user-images.githubusercontent.com/84528674/122258211-c9291700-ce9e-11eb-96dd-964d3168e58d.png) |
-| Measure the distance between the position of the MicroDriver and your Master Board on the robot frame. Add three inches to this measurement. For example, we measured **XYZ** inches, so our final measurement would be **XYZ + 3** inches. | --- |
-| Cut the five multi-colored 26 AWG wires to this measurement. Strip off about 0.5cm on each end of the wire. Twist the exposed wire after each strip. | --- |
+| Measure the shortest possible distance between the position of the MicroDrivers to your Master Board on the robot frame. These wires need to be kept as short as possible. | --- |
+| Cut the five multi-colored 26 AWG wires to this measurement. | --- |
 | Crimp each exposed wire using the Hirose DF13 crimping tool and the DF13 crimping terminals **add a lot of pictures/explanation here**  | --- |
 | Pick a color orientation. To keep the wire management as simple as possible, use the same color orientation for each SPI wire connection you make. | --- |
 | Cut the 2.4mm heat shrink into very thin slices and use it to neatly bind the wires together, leaving about 3cm unbounded on each end. | --- |
 | Connect each crimped wire end to a 5Pos Socket. | --- |
 | Label the wire. | --- |
 
-**Include wire pin readouts//lots of images of the finished connection**
 
 ## IMU Cable Assembly
 The IMU connects directly to the Master Board. The original Open Dynamic Robot Initiative documentation for this connection involves connecting an IDC connection to a 4 pin Hirose socket with a ribbon cable, but after experimentation proved this to be a tedious soldering job, we decided to simplify the IMU cable assembly process. We will be connecting an IDC ribbon cable the IMU that bridges to a breakout board to dramatically facilitate the assembly. Pay close attention to follow the pin-to-pin orientations displayed below.
