@@ -98,7 +98,7 @@ Complete these steps once:
 | Step Description | Visual | 
 | --- | --- |
 | The pin orientation of the PCB for the rectangular connection to the IMU. | ![image](https://user-images.githubusercontent.com/84528674/122276571-ea93fe00-ceb2-11eb-9ed0-065c347881fe.png)|
-| The pin orientation of the breakout board's rectangular connection (implementing the same numbering system used for the PCB shown above). | ![image](https://user-images.githubusercontent.com/84528674/122278703-30ea5c80-ceb5-11eb-9b62-b39f140cebaa.png) |
+| The pin orientation of the breakout board's rectangular connection (implementing the same numbering system used for the PCB shown above). | ![image](https://user-images.githubusercontent.com/84528674/122278780-4a8ba400-ceb5-11eb-9b52-23623555d33e.png) |
 | Cut 4 strips 7cm long of 26 AWG wire. Strip and twist about 0.5cm off the end of each remaining wire. Solder the four wires to pins labeled 3, 4, 5, and 8 on the breakout board. | ![image](https://user-images.githubusercontent.com/84528674/121915680-6e0ded80-cd01-11eb-9457-c3deb5cc5242.png) |
 | Crimp the end of each wire using the Hirose crimper and crimp terminals. | --- |
 | Use tweezers to insert the crimps into a Hirose DF13 4pin Socket. | --- |
