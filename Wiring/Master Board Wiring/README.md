@@ -55,7 +55,7 @@ This step focuses on soldering the LEDs to the Master Board. These multicolored 
 Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
-| The LEDs positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/122257296-e3162a00-ce9d-11eb-9adf-cee82e23e67f.png) |
+| The LEDs positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/122257645-37210e80-ce9e-11eb-9bee-795d6b0e6968.png) |
 | Solder all pin connections | --- |
 
 
