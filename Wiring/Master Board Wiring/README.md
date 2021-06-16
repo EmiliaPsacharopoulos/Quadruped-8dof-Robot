@@ -42,7 +42,7 @@ This step focuses on soldering the ethernet jack to the Master Board. The ethern
 Here are the steps for completing this connection:
 | Step Description | Visual | 
 | --- | --- |
-| The Ethernet Jack's positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/122255445-1d7ec780-ce9c-11eb-8b59-0317fa0b1207.png) |
+| The Ethernet Jack's positioning on the Master Board | ![image](https://user-images.githubusercontent.com/84528674/122257206-caa60f80-ce9d-11eb-8d84-0b29c3d1da4b.png) |
 | The Ethernet Jack should align perfectly with the pins on the Master Board. It may be necessary to slightly bend pins to fit the ethernet jack in place. Solder all pin connections. | --- |
 
 
