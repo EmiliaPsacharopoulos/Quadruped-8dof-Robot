@@ -72,7 +72,7 @@ All four MicroDrivers connect to the Master Board via SPI connections. The wires
 Your robot frame should be completed before attempting this step. Here are the steps for completing this connection (repeated four times, once per MicroDriver):
 | Step Description | Visual | 
 | --- | --- |
-| The SPI pin-to-pin mapping between the Master Board a MicroDriver. | ![image](https://user-images.githubusercontent.com/84528674/122258211-c9291700-ce9e-11eb-96dd-964d3168e58d.png) |
+| The SPI pin-to-pin mapping between the Master Board a MicroDriver. | ![image](https://user-images.githubusercontent.com/84528674/122260026-cfb88e00-cea0-11eb-882e-cc0b4047b27d.png) |
 | Measure the shortest possible distance between the position of the MicroDrivers to your Master Board on the robot frame. These wires need to be kept as short as possible. | --- |
 | Cut the five multi-colored 26 AWG wires to this measurement. | --- |
 | Crimp each exposed wire using the Hirose DF13 crimping tool and the DF13 crimping terminals **add a lot of pictures/explanation here**  | --- |
