@@ -33,7 +33,7 @@ You will need all of the following tools and materials to properly complete the 
 
 |![image](https://user-images.githubusercontent.com/84528674/119568992-263c1c00-bd7c-11eb-98b3-80b87083d7d5.png)|
 |---|
-| ![image](https://user-images.githubusercontent.com/84528674/122283342-6f364a80-ceba-11eb-99cd-9f30deab3355.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122283518-a0167f80-ceba-11eb-95bd-7b9778576e70.png) |
 
 
 ## Resistor Soldering
