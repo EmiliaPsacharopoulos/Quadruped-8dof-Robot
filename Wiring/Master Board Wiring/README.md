@@ -72,7 +72,7 @@ All four MicroDrivers connect to the Master Board via SPI connections. The wires
 Your robot frame should be completed before attempting this step. Here are the steps for completing this connection (repeated four times, once per MicroDriver):
 | Step Description | Visual | 
 | --- | --- |
-| https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/details/details_wiring.md#spi-wires | ![image](https://user-images.githubusercontent.com/84528674/121066752-3e5a6500-c798-11eb-8d1a-6fae2d53bdc1.png) |
+| The SPI pin-to-pin mapping between the Master Board and MicroDrivers. | ![image](https://user-images.githubusercontent.com/84528674/122258211-c9291700-ce9e-11eb-96dd-964d3168e58d.png) |
 | Measure the distance between the position of the MicroDriver and your Master Board on the robot frame. Add three inches to this measurement. For example, we measured **XYZ** inches, so our final measurement would be **XYZ + 3** inches. | --- |
 | Cut the five multi-colored 26 AWG wires to this measurement. Strip off about 0.5cm on each end of the wire. Twist the exposed wire after each strip. | --- |
 | Crimp each exposed wire using the Hirose DF13 crimping tool and the DF13 crimping terminals **add a lot of pictures/explanation here**  | --- |
