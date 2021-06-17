@@ -142,7 +142,7 @@ https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/bl
 | Step Description | Visual | 
 | --- | --- |
 | Cut **XYZ** inches of different colored 26 AWG wire. Strip about 1cm of casing from one end of each wire, and twist the exposed wire after each cut.  | --- |
-| **MAKE A WIRING DIAGRAM OF PIN to PIN CONNECTIONS** Solder the wires according to this pin layout. Use 1.5mm heat shrink to secure the connection after each solder. | ![image](https://user-images.githubusercontent.com/84528674/121066265-b07e7a00-c797-11eb-98c0-c31794eb715e.png) |
+| Solder the wires according to this pin layout. Use 1.5mm heat shrink to secure the connection after each solder. | ![image](https://user-images.githubusercontent.com/84528674/122424280-96ddef00-cf5c-11eb-8842-525534f8157d.png) |
 | Use thin strips of 2.4mm heat shrink for wire management, leaving at least 10cm of unbounded wire at the exposed end. | --- |
 | Strip about 0.25cm of wire casing on each of the five exposed wires.  | --- |
 | Use the crimping tool to crimp each wire (to do: insert a lot of details and pictures). | --- |
