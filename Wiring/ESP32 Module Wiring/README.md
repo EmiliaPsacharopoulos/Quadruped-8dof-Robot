@@ -25,9 +25,8 @@ You will need all of the following tools and materials to properly complete the 
 
 ## Pin Mapping
 
-| **ESP32 Top View** | ![image](https://user-images.githubusercontent.com/84528674/121071031-6e583700-c79d-11eb-9a0f-4bfa9c00a56a.png) |
-| --- | --- |
-| **Master Board Top View** | ![image](https://user-images.githubusercontent.com/84528674/121081079-3a374300-c7aa-11eb-82ff-4f39c01b804e.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122425542-8e39e880-cf5d-11eb-919d-03aed5590a76.png) |
+| --- |
 
 
 ## Flashing Connections
