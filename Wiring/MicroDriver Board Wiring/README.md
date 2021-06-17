@@ -74,7 +74,7 @@ We will solder the 5 position pin headers to the back side of the MicroDrivers. 
 Lastly, we will solder the right angle pin headers on the front side of the MicroDrivers. These will act as the connections to the motor phase wires per board. 
 | Step Description | Visual | 
 | --- | --- |
-| The connections visualized. | ![image](https://user-images.githubusercontent.com/84528674/121065898-44037b00-c797-11eb-9fe5-4e6ef31e2f45.png) |
+| The connections visualized. | ![image](https://user-images.githubusercontent.com/84528674/122422951-8e38e900-cf5b-11eb-8655-d8ac591d0068.png) |
 | Solder six right angle pin headers on each MicroDriver's top side of the board.| --- |
 
 ## MicroDriver Power Supply Cables
