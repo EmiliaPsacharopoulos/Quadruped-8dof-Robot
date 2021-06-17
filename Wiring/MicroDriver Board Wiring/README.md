@@ -60,7 +60,7 @@ This step focuses on soldering all necessary pin headers to the MicroDriver.
 First, we will solder the power terminal connections. Repeat the following steps 4 times (1 time per MicroDriver).
 | Step Description | Visual | 
 | --- | --- |
-| The power terminal pin connections visualized | ![image](https://user-images.githubusercontent.com/84528674/121064264-554b8800-c795-11eb-9050-a30ad9489aad.png) |
+| The power terminal pin connections visualized | ![image](https://user-images.githubusercontent.com/84528674/122409424-21205600-cf51-11eb-9a10-fe105deaaeb5.png) |
 | Shorten then solder one right angle pin header to each power terminal on the MicroDriver | |
 
 
