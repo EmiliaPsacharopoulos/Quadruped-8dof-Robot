@@ -67,7 +67,7 @@ First, we will solder the power terminal connections. Repeat the following steps
 We will solder the 5 position pin headers to the back side of the MicroDrivers. These will act as the connections to the two encoders per board and the one SPI connection to the Master Board. The MicroDrivers will be arranged in two stacks of two MicroDrivers. We will give all MicroDrivers right angle 5 position pin headers for ideal wire management.
 | Step Description | Visual | 
 | --- | --- |
-| The connections visualized. | ![image](https://user-images.githubusercontent.com/84528674/121065109-63e66f00-c796-11eb-98f9-564fd0bd82e5.png) |
+| The connections visualized. | ![image](https://user-images.githubusercontent.com/84528674/122419090-ace9b080-cf58-11eb-94e2-42729c06d024.png) |
 | Solder three right angle 5 position pin headers on each MicroDriver's bottom side of the board.| --- |
 
 
