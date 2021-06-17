@@ -93,7 +93,7 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Heat Shrink Assortment | 12 sizes, purchase more as needed | Amazon B08SMGQ93M | 1120 pcs |
 | Braided Cable Sleeve | 0.75 inch diameter | Amazon B00H2RUBYE | 10 ft |
 | IDC Ribbon Cable | 10-pin Socket/Socket, 1.27mm pitch, 150mm long | Amazon B01D0YSTBE | 1 |
-| IDC Breakout Board | 10-pin Header, 1.27mm pitch, Adafruit ADA2743 | AmazonB01GQFVGXW | 1 |
+| IDC Breakout Board | 10-pin Header, 1.27mm pitch, Adafruit ADA2743 | Amazon B01GQFVGXW | 1 |
 
 
 ## Circuit Boards
