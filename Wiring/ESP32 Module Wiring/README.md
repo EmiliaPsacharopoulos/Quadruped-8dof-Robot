@@ -25,7 +25,7 @@ You will need all of the following tools and materials to properly complete the 
 
 ## Pin Mapping
 
-| ![image](https://user-images.githubusercontent.com/84528674/122425542-8e39e880-cf5d-11eb-919d-03aed5590a76.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122427941-7f543580-cf5f-11eb-80d2-2de51eb9eb42.png) |
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122426204-0c968a80-cf5e-11eb-95d8-46f7425488d0.png) |
 
