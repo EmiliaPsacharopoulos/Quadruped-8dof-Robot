@@ -8,4 +8,4 @@ This section primarily aims to give a conceptual overview of the robot's wiring.
 | --- |
 | ![image](https://user-images.githubusercontent.com/84528674/122113429-1c905c00-cdf0-11eb-8260-a6ad3e122c3c.png) |
 |![image](https://user-images.githubusercontent.com/84528674/122119295-03d77480-cdf7-11eb-923a-642ebaea9a6e.png)|
-| ![image](https://user-images.githubusercontent.com/84528674/122120489-7d239700-cdf8-11eb-957a-f1253086feaa.png) |
+| ![image](https://user-images.githubusercontent.com/84528674/122427889-76636400-cf5f-11eb-988f-e52c1bdcb69a.png) |
