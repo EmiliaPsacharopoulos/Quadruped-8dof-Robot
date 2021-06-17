@@ -131,6 +131,7 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 | Electrical Tweezer |  | Amazon B006ZBB7TG | 1 |
 | Soldering Iron Kit | Cleaning sponge, iron holder, adjustable temperature | Techni-Tool 821SO890 | 1 |
 | Solder Spool |  ~0.8mm diameter is sufficient | Amazon B00DHHAZ3A | 1 |
+| Desoldering Pump | | Adafruit 1597 | 1 |
 | Soldering Helping Hands | 2 hands and a magnifying glass | Amazon B08DNMT96W | 1 |
 | Soldering Base for Boards | Vacuum base | Amazon B081YXPRNN | 1 |
 | Filter Fan | Verified to extract soldering fumes | Techni-Tool 821SO400 | 1 |
