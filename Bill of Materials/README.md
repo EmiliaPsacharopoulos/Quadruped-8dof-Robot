@@ -88,6 +88,18 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
 | XT30 Female to 4mm Banana | Pack of 2 | Amazon B01M01W1XW | 1 |
+| 28 AWG Precrimped Wire | 8", pack of 10, Hirose DF13, colored black | Digi-Key H4BXG-10108-B8-ND | 1 | 
+| 28 AWG Precrimped Wire | 8", pack of 10, Hirose DF13, colored red | Digi-Key H4BXG-10108-R8-ND | 1 |
+| 28 AWG Precrimped Wire | 8", pack of 10, Hirose DF13, colored yellow | Digi-Key H4BXG-10108-Y8-ND | 1 |
+| 28 AWG Precrimped Wire | 8", pack of 10, Hirose DF13, colored blue | Digi-Key H4BXG-10108-L8-ND | 1 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored black | Digi-Key H4BXG-10110-B6-ND | 2 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored red | Digi-Key H4BXT-10110-R6-ND | 1 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored white | Digi-Key H4BXG-10110-W6-ND | 2 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored yellow | Digi-Key H4BXT-10110-Y6-ND | 1 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored green | Digi-Key H4BXT-10110-G6-ND | 1 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored blue | Digi-Key H4BXG-10110-L6-ND | 1 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored violet | Digi-Key H4BXG-10110-V6-ND | 1 |
+| 26 AWG Precrimped Wire | 10", pack of 10, Hirose DF13, colored orange | Digi-Key H4BXT-10110-A6-ND | 1 |
 | Wire Cables | 30 AWG, 6 Color Pack | Amazon B07G2GLKMP | 23 ft |
 | Wire Cables | 26 AWG, 5 Color Pack | Amazon B01KQ2NURG | 33 ft |
 | Wire Cables | 18 AWG, Red and Black | Amazon B07D74RGVM | 100 ft |
