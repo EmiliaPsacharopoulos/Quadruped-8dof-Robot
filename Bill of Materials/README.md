@@ -124,7 +124,6 @@ To do: explain the ordering process for the MicroDrivers and Master Board.
 ## Tools for Electronics
 | Part Name | Details | Ordering Information | Quantity |
 | --- | --- | --- | --- |
-| Hirose Crimping Tool | for DF13 Crimp Terminals | RS 503-8331 | 1 |
 | Zipties | 500 Pack | Amazon B0777LWBD9 | 1 |
 | Power Supply | 30V, 20A max | Amazon B00395DK28 | 2 |
 | Heat Gun | Temperature does not need to be adjustable | Amazon B00EU2T8GG | 1 |
