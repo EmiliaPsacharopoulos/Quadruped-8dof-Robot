@@ -62,10 +62,9 @@ Here are the steps for completing this connection:
 All four MicroDrivers connect to the Master Board via SPI connections. The wires need to be as short as possible because the SPI bus operates at high frequencies.
 | Item | Quantity | 
 | --- | --- |
-| 26 AWG 5 Pack Wire Kit | **Need to think about positioning on the robot first** |
+| 26 AWG Multicolored, Precrimped Wire | 20 Wires |
 | 2.4mm Heat Shrink | ~10 cm |
-| Crimp Terminals | 40 |
-| 5Pos Sockets | 8 |
+| 5Pos Hirose DF13 Socket | 8 |
 
 
 Your robot frame should be completed before attempting this step. Here are the steps for completing this connection (repeated four times, once per MicroDriver):
@@ -73,8 +72,7 @@ Your robot frame should be completed before attempting this step. Here are the s
 | --- | --- |
 | The SPI pin-to-pin mapping between the Master Board a MicroDriver. | ![image](https://user-images.githubusercontent.com/84528674/122260026-cfb88e00-cea0-11eb-882e-cc0b4047b27d.png) |
 | Measure the shortest possible distance between the position of the MicroDrivers to your Master Board on the robot frame. These wires need to be kept as short as possible. | --- |
-| Cut the five multi-colored 26 AWG wires to this measurement. | --- |
-| Crimp each exposed wire using the Hirose DF13 crimping tool and the DF13 crimping terminals **add a lot of pictures/explanation here**  | --- |
+| Cut the multi-colored 26 AWG precrimped wires to this measurement. | --- |
 | Pick a color orientation. To keep the wire management as simple as possible, use the same color orientation for each SPI wire connection you make. | --- |
 | Cut the 2.4mm heat shrink into very thin slices and use it to neatly bind the wires together, leaving about 3cm unbounded on each end. | --- |
 | Connect each crimped wire end to a 5Pos Socket. | --- |
