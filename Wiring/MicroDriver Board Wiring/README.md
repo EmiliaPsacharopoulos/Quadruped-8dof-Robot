@@ -16,7 +16,6 @@ You will need all of the following tools and materials to properly complete the 
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
 | Fine Point Tweezer | 1 |
-| Hirose DF13 Crimping Tool | 1 |
 
 
 ## Table of Contents
