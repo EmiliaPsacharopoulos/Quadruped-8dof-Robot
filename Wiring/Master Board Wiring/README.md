@@ -87,17 +87,15 @@ The IMU connects directly to the Master Board. The original Open Dynamic Robot I
 | IDC Ribbon Cable | 10-pin Socket/Socket, 1.27mm pitch, 150mm long |
 | IDC Breakout Board | 10-pin Header, 1.27mm pitch, Adafruit ADA2743 | 
 | Hirose DF13 4pin Socket | 1 |
-| Hirose DF13 Crimp Terminals | 4 Terminals |
 | 1.5mm Heat Shrink | ~10cm |
-| 28 AWG Wire | ~28cm |
+| 28 AWG Multicolored, Precrimped Wire | ~28cm |
 
 Complete these steps once: 
 | Step Description | Visual | 
 | --- | --- |
 | The pin orientation of the PCB for the rectangular connection to the IMU. | ![image](https://user-images.githubusercontent.com/84528674/122276571-ea93fe00-ceb2-11eb-9ed0-065c347881fe.png)|
 | The pin orientation of the breakout board's rectangular connection (implementing the same numbering system used for the PCB shown above). | ![image](https://user-images.githubusercontent.com/84528674/122278780-4a8ba400-ceb5-11eb-9b52-23623555d33e.png) |
-| Cut 4 strips 7cm long of 26 AWG wire. Strip and twist about 0.5cm off the end of each remaining wire. Solder the four wires to pins labeled 3, 4, 5, and 8 on the breakout board. | ![image](https://user-images.githubusercontent.com/84528674/121915680-6e0ded80-cd01-11eb-9457-c3deb5cc5242.png) |
-| Crimp the end of each wire using the Hirose crimper and crimp terminals. | --- |
+| Trim 4 of the precrimped, multicolored 26 AWG wire down to 10cm. Strip and twist about 0.5cm off the end of each remaining wire. Solder the four wires to pins labeled 3, 4, 5, and 8 on the breakout board. | ![image](https://user-images.githubusercontent.com/84528674/121915680-6e0ded80-cd01-11eb-9457-c3deb5cc5242.png) |
 | Use tweezers to insert the crimps into a Hirose DF13 4pin Socket. | ![image](https://user-images.githubusercontent.com/84528674/122281077-dbfc1580-ceb7-11eb-93e6-474dbb25f1d5.png) |
 
 
