@@ -35,8 +35,8 @@ This step focuses on making the flashing connection circuit between the ESP32 an
 | Item | Quantity | 
 | --- | --- |
 | 26 AWG Multi-Colored, DF13 Precrimped Wire | 7 Wires |
-| 2 Position Hirose Socket | 1 |
-| 5 Position Hirose Socket | 1 |
+| 2 Position DF13 Hirose Socket | 1 |
+| 5 Position DF13 Hirose Socket | 1 |
 
 
 Follow the following steps to make the circuit. 
