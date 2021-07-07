@@ -35,6 +35,7 @@ This step explains the connection from two external power supplies to the front 
 | E-Stop Switch (modified) | 1 |
 | 18 AWG Black Wire | ~40 m |
 | 18 AWG Red Wire | ~40 m |
+| 26 AWG Precrimped Wire | 2 Wires |
 | XT30 Male Connectors | 6 |
 | 3-Channel Wire Splice Connector | 2 | 
 | 4-Channel Wire Splice Connector | 2 | 
@@ -78,9 +79,9 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 | Strip off 0.5cm to 1cm of wire casing from the empty end of each of the 4 sub power wires. Twist the exposed wire after each strip. Slide one piece of heat shrink from the XT30 connector pack about 5-10 inches away from the exposed end on each of the 4 wires. You will need this to bind the solder. | ![image](https://user-images.githubusercontent.com/84528674/120006748-32f08800-bfa7-11eb-93d8-7890b05fecbd.png) |
 | Follow this [YouTube Video](https://www.youtube.com/watch?v=_NyJbKqRtUE) for detailed instructions on soldering the two XT30 male connectors to the four exposed wires. Note: this video uses female connectors, but the soldering process is exactly the same for the male connectors. | ![image](https://user-images.githubusercontent.com/84528674/120007244-b14d2a00-bfa7-11eb-9b65-d217d60b5c91.png) |
 | Repeat the above steps for two of the back stack's black/red cables (4 red/black power cables should look the same) | ![image](https://user-images.githubusercontent.com/84528674/120823586-9178b180-c525-11eb-94e4-57cbd2c6d6ae.png) |
-| For the remaining red/black power cable to the Master Board, we will connect a 2-position 1.25mm Hirose socket connection by crimping. First, strip 1mm of the wire casing from the red and the black wire.  | --- |
-| Align the wire and crimp terminal as straight as possible into the crimping tool. The exposed wire should be touching the end stop. | --- |
-| Close the handle as far as possible. The crimps for the red and black wires should look like this: | --- |
+| For the remaining red/black power cable to the Master Board, we will connect a 2-position 1.25mm Hirose socket connection by soldering on a precrimped wire to the wire end (this is a much more cost effective solution than buying the Hirose DF13 specific crimper.) First, strip 1mm of the wire casing from the red and the black wire.  | --- |
+| Cut the two 26 AWG precrimped wires to about 4cm. | --- |
+| Solder the wires together, using thin diameter heat shrink to solidify the connection after each solder. | --- |
 | Use tweezers to insert the crimps into the 2-position socket (1.25mm) connector. | --- |
 
 
