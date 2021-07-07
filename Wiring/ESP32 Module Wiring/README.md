@@ -34,9 +34,7 @@ This step focuses on making the flashing connection circuit between the ESP32 an
 
 | Item | Quantity | 
 | --- | --- |
-| 26 AWG Multi-Colored Wire | ~70cm |
-| Hirose DF13 Crimping Tool | 1 |
-| DF13 Crimp Terminals | 7 |
+| 26 AWG Multi-Colored, DF13 Precrimped Wire | 7 Wires |
 | 2 Position Hirose Socket | 1 |
 | 5 Position Hirose Socket | 1 |
 
