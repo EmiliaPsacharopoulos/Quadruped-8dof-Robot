@@ -130,8 +130,7 @@ Two encoders will connect per MicroDriver board. Each encoder will have one cabl
 | Item | Quantity | 
 | --- | --- |
 | Encoders | 8 |
-| 26 AWG Multi-Colored Wires | **Depends on mounting positions** |
-| Crimp Terminals | 40 |
+| 26 AWG Multi-Colored, Precrimped Wires | **Depends on mounting positions** |
 | 1.5mm Heat Shrink | ~40 cm |
 | 2.4mm Heat Shrink | ~20 cm |
 | 5Pin Socket Connector | 8 |
