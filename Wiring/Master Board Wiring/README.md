@@ -14,7 +14,6 @@ You will need all of the following tools and materials to properly complete the 
 | Heat Gun | 1 |
 | Wire Cutter | 1 |
 | Wire Stripper | 1 |
-| Hirose DF13 Crimp Tool | 1 |
 | Label Maker | 1 |
 
 
