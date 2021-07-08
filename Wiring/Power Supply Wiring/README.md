@@ -84,10 +84,11 @@ The 4mm banana ends will plug into the power supply. Now, we need to route these
 
 
 ### Overall organization
-| Step Description | Visual | 
-| --- | --- |
-| We seperately ziptied the front and back power supply cables. | --- |
-| Afterwards, we threaded both the front and back power supply cables along with the ethernet cable through the braided cable sleeve. | --- |
+We threaded both the front and back power supply cables along with the ethernet cable through the braided cable sleeve. 
+| |
+| --- |
+| ![image](https://user-images.githubusercontent.com/84528674/124946874-60384900-dfdd-11eb-8c71-c8e387923aa6.png) |
+
 
 ### Troubleshooting
 Before you connect the power wires to the battery, make sure that the circuit works. Apply 10V using a power supply, and make sure each connection reads the 10V at the robot end of the wire using a digital multimeter. Then, test that the stop switch breaks the circuit and reads 0V at the robot end.
