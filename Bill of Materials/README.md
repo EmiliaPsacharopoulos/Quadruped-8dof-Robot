@@ -81,7 +81,6 @@ We bought our fasteners in bulk from McMaster-Carr. Read through [Manufacturing 
 | XT30 Connectors | 20 pairs, male and female | Amazon B0875MBLNH | 1 |
 | Wire Splice Connectors | 2,3,5 Port Assortment Pack | Amazon B07NKT2P2F | 1 |
 | Ethernet Jack | HanRun | LCSC Electronics C12074 | 1 |
-| Crimp Terminal Contact | 26-30 AWG, 10000 terminals | Digi-Key H9992CT-ND | 1 |
 
 
 ## Wires
