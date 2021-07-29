@@ -14,6 +14,18 @@ The primary flaw of the Open Dynamic Robot Initiative (ODRI) 8 degree of freedom
 
 
 ## Mechanical Revisions
+To reduce the cost of mechanical components and increase manufacturability, we redesigned the actuator module. The primary goals of the redesign were to use the same brushless motors from the original design, retain the same structural integrity, and implement a belt pulley transmission system with a 9:1 speed reduction (identical to the original design). Thus, this design can be implemented with the same control system as the original 8dof quadruped. The following table details the cost motivated design revisions and their associated impacts (assuming eight actuator components are built for the 8dof quadruped).
+
+Table 2. Cost Motivated Design Revisions and Relative Impact
+| Old Component/Design | Revised Component/Design | Associated Monetary Benefit (USD) |
+| --- | --- | --- |
+| AT3 GEN III Timing Belts (five week lead time, and difficult to source in the U.S.) | MXL Series Timing Belt (available from McMaster-Carr) | 51.60 |
+| ODRI Encoder Kit and machined pulleys. (6 week lead time) | Purchase encoder and codewheel separately. Removed machined pulleys and replaced with 3D printed components. | 520.00 |
+| 7 bearings | 5 bearings | 200.16 |
+| Helicoil inserts (includes specific tooling) | Heat inserts (only need a soldering iron and are less prone to failure) | 125.09 |
+| Machining/ finishing, and motor reconfiguration (end mills and reamer) | Print components on with SLA and eliminate post processing steps/toolings and motor reconfiguration. | 194.15 |
+| Fasteners | Reduced count and relative cost. | 19.32 |
+|   | Total | 1,110.32 |
 
 
 ## Electrical Revisions
