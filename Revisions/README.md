@@ -30,6 +30,11 @@ To reduce the cost of mechanical components and increase manufacturability, we r
 
 The calculated savings amount to nearly a 40% cost reduction in the actuator components. Moreover, the revised BOM sources more components from the U.S. and decreases lead/ship times. 
 
+| |
+| --- |
+| ![image](https://user-images.githubusercontent.com/84528674/127566859-3d37466f-3752-448a-9cd6-896ff9d656f0.png)|
+|**Figure 1.** This figure shows the CAD model of the revised actuator. Note that the new design encases the motor rather than leaving it external as with the old model. Similarly the custom metal pulleys are replaced with 3D printed homogeneous pieces. The casing size is slightly reduced, so it can be printed on a Formlabs 3 SLA printer. The transmission provides a 9:1 speed reduction (note: the belts are not shown).|
+
 
 ## Electrical Revisions
 
