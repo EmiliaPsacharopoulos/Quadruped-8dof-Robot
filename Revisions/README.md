@@ -25,7 +25,7 @@ Table 2. Cost Motivated Design Revisions and Relative Impact
 | Helicoil inserts (includes specific tooling) | Heat inserts (only need a soldering iron and are less prone to failure) | 125.09 |
 | Machining/ finishing, and motor reconfiguration (end mills and reamer) | Print components on with SLA and eliminate post processing steps/toolings and motor reconfiguration. | 194.15 |
 | Fasteners | Reduced count and relative cost. | 19.32 |
-|   | **Total** | 1,110.32 |
+|   |  | **1,110.32** |
 
 The calculated savings amount to nearly a 40% cost reduction in the actuator components. Moreover, the revised BOM sources more components from the U.S. and decreases lead/ship times. 
 
