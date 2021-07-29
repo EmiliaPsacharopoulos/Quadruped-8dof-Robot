@@ -8,14 +8,15 @@ The primary flaw of the Open Dynamic Robot Initiative (ODRI) 8 degree of freedom
 * Both mechanical/electrical components are extremely expensive for the low cost purpose ([ODRI 12dof 12,000$ kit](https://solo.pal-robotics.com/solo) compared to [Stanford Doggo's](https://github.com/Nate711/StanfordDoggoProject) $2,971 8dof model)
 
 ## Table of Contents 
-1. [Wiring](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#wiring)
-2. [Communications](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#communications)
-3. [Power Supply Organization](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#power-supply-organization)
-4. [Battery Supply Organization](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#battery-supply-organization)
-
-## Communications
-We should look into switching between an ethernet tethered connection and a receiver/transmitter (ie. if we wanted to go fully untethered with the battery power supply option)
+1. [Mechanical Revisions]()
+2. [Electrical Revisions]()
+3. [Cost Analysis]()
 
 
-## Battery Supply Organization
-There are no specific mounting slots for the batteries or push buttons or the power management board(s) on the existing CAD. We'd look into making these additions.
+## Mechanical Revisions
+
+
+## Electrical Revisions
+
+
+## Cost Analysis
