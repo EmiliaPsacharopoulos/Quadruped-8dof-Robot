@@ -8,7 +8,7 @@ The primary flaw of the Open Dynamic Robot Initiative (ODRI) 8 degree of freedom
 * Both mechanical/electrical components are extremely expensive for the low cost purpose ([ODRI 12dof 12,000$ kit](https://solo.pal-robotics.com/solo) compared to [Stanford Doggo's](https://github.com/Nate711/StanfordDoggoProject) $2,971 8dof model)
 
 ## Table of Contents 
-1. [Mechanical Revisions]()
+1. [Mechanical Revisions](https://github.com/EmiliaPsacharopoulos/Quadruped-8dof-Robot/blob/main/Revisions/README.md#mechanical-revisions)
 2. [Electrical Revisions]()
 3. [Cost Analysis]()
 
