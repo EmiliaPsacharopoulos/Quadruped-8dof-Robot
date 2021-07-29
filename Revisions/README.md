@@ -27,6 +27,8 @@ Table 2. Cost Motivated Design Revisions and Relative Impact
 | Fasteners | Reduced count and relative cost. | 19.32 |
 |   | **Total** | 1,110.32 |
 
+The calculated savings amount to nearly a 40% cost reduction in the actuator components. Moreover, the revised BOM sources more components from the U.S. and decreases lead/ship times. 
+
 
 ## Electrical Revisions
 
