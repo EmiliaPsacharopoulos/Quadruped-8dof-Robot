@@ -34,6 +34,8 @@ The calculated savings amount to nearly a 40% cost reduction in the actuator com
 | --- |
 |**Figure 1.** This figure shows the CAD model of the revised actuator. Note that the new design encases the motor rather than leaving it external as with the old model. Similarly the custom metal pulleys are replaced with 3D printed homogeneous pieces. The casing size is slightly reduced, so it can be printed on a Formlabs 3 SLA printer. The transmission provides a 9:1 speed reduction (note: the belts are not shown).|
 
+Moreover, we redesigned the chassis, so that it can print on the Lulzbot Taz 5 without angling the pieces, and we can also print it on the Formlabs SLA printer. The revised model is shown in the following figure.
+
 
 ## Electrical Revisions
 
