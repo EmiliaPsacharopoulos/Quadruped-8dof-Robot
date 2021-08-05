@@ -37,13 +37,4 @@ We are a part of a robotics based research team at the University of Michigan. O
 ## Acknowledgement 
 We are implementing the Open Dynamic Robot Initiative, an open source low cost research project kickstarted by NYU. Copyright information can be found below: 
 
-@article{grimminger2020open,
-title={An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research},
-author={F. {Grimminger} and A. {Meduri} and M. {Khadiv} and J. {Viereck} and M. {Wüthrich} and M. {Naveau} and V. {Berenz} and S. {Heim} and F. {Widmaier} and T. {Flayols} and J. {Fiene} and A. {Badri-Spröwitz} and L. {Righetti}},
-journal={IEEE Robotics and Automation Letters},
-year={2020},
-volume={5},
-number={2},
-pages={3650-3657},
-doi={10.1109/LRA.2020.2976639},
-arXiv = {arXiv:1910.00093}}
+Grimminger, F., Meduri, A., Khadiv, M., Viereck, J., Wüthrich, M., Naveau, M., ... & Righetti, L. (2020). An open torque-controlled modular robot architecture for legged locomotion research. IEEE Robotics and Automation Letters, 5(2), 3650-3657.
